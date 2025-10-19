@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="unknown" tvg-name="dazn zona" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", dazn zona (D)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://dlhd.dad/watch.php?id=877
+
 #EXTINF:-1 tvg-id="eurosport1.it" tvg-name="eurosport 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport", eurosport 1 (D)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://dlhd.dad/watch.php?id=878
 
@@ -23,7 +26,7 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://dlhd.dad/wat
 #EXTINF:-1 tvg-id="rai3.it" tvg-name="rai 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-3-it.png" group-title="Rai Tv", rai 3 (D)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://dlhd.dad/watch.php?id=852
 
-#EXTINF:-1 tvg-id="rai3.it" tvg-name="rai 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-3-it.png" group-title="Rai Tv", rai 3 (D)
+#EXTINF:-1 tvg-id="unknown" tvg-name="rai 4" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", rai 4 (D)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://dlhd.dad/watch.php?id=853
 
 #EXTINF:-1 tvg-id="raisport.it" tvg-name="rai sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-sport-it.png" group-title="Sport", rai sport (D)
@@ -44,7 +47,7 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://dlhd.dad/wat
 #EXTINF:-1 tvg-id="skysportf1.it" tvg-name="sky sport f1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport", sky sport f1 (D)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://dlhd.dad/watch.php?id=577
 
-#EXTINF:-1 tvg-id="skysportmax.it" tvg-name="sky sport football" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport", sky sport football (D)
+#EXTINF:-1 tvg-id="unknown" tvg-name="sky sport max" tvg-logo="https://play-lh.googleusercontent.com/u7UNH06SU4KsMM4ZGWr7wghkJYN75PNCEMxnIYULpA__VPg8zfEOYMIAhUaIdmZnqw=w480-h960-rw" group-title="Undefined", sky sport max (D)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://dlhd.dad/watch.php?id=460
 
 #EXTINF:-1 tvg-id="skysportuno.it" tvg-name="sky sport uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport", sky sport uno (D)
@@ -104,14 +107,8 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://dlhd.dad/wat
 #EXTINF:-1 tvg-id="skysport254.it" tvg-name="sky calcio 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-select-4-alt-de.png" group-title="Sport", sky calcio 4 (D)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://dlhd.dad/watch.php?id=874
 
-#EXTINF:-1 tvg-id="skysport255.it" tvg-name="sky calcio 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-select-5-alt-de.png" group-title="Sport", sky calcio 5 (D)
+#EXTINF:-1 tvg-id="unknown" tvg-name="sky sport basket" tvg-logo="https://play-lh.googleusercontent.com/u7UNH06SU4KsMM4ZGWr7wghkJYN75PNCEMxnIYULpA__VPg8zfEOYMIAhUaIdmZnqw=w480-h960-rw" group-title="Undefined", sky sport basket (D)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://dlhd.dad/watch.php?id=875
-
-#EXTINF:-1 tvg-id="skysport256.it" tvg-name="sky calcio 6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-select-6-alt-de.png" group-title="Sport", sky calcio 6 (D)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://dlhd.dad/watch.php?id=876
-
-#EXTINF:-1 tvg-id="skysport257.it" tvg-name="sky calcio 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-select-7-alt-de.png" group-title="Sport", sky calcio 7 (D)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://dlhd.dad/watch.php?id=877
 
 #EXTINF:-1 tvg-id="skyserie.it" tvg-name="sky serie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-serie-it.png" group-title="Sky", sky serie (D)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://dlhd.dad/watch.php?id=880
