@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="WBC Boxing Grand Prix Semi Finals - WBC Boxing Grand Prix Semi Finals" tvg-name="17:30 WBC Boxing Grand Prix Semi Finals - 19/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=190
+
+#EXTINF:-1 tvg-id="World of Outlaws Sprint Cars Angell - World of Outlaws Sprint Cars Angell" tvg-name="23:45 World of Outlaws Sprint Cars Angell - 19/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=173
+
 #EXTINF:-1 tvg-id="Romania - Liga II - Slatina vs Bihor Oradea" tvg-name="10:00 Romania - Liga II : Slatina vs Bihor Oradea - 19/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Digi Sport 1 Romania
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=400
 
