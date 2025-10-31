@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="OVW - Hell Night 2025" tvg-name="01:00 OVW: Hell Night 2025 - 30/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller TV
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=69
+
 #EXTINF:-1 tvg-id="Poland - Puchar Polski - Gryf Słupsk vs Lech Poznań" tvg-name="13:00 Poland - Puchar Polski : Gryf Słupsk vs Lech Poznań - 30/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TVP Sport Poland
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=128
 
@@ -584,6 +587,9 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd
 #EXTINF:-1 tvg-id="Paris-ATP, Jiujiang-WTA , Hong Kong-WTA &amp; Chennai-WTA - Paris-ATP, Jiujiang-WTA , Hong Kong-WTA &amp; Chennai-WTA" tvg-name="07:00 Paris-ATP, Jiujiang-WTA , Hong Kong-WTA &amp; Chennai-WTA - 30/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 2 Malaysia
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=713
 
+#EXTINF:-1 tvg-id="Boxing - Mary Spencer vs Mikaela Mayer" tvg-name="03:00 Boxing : Mary Spencer vs Mikaela Mayer - 30/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Boxe", PPV Feed
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=55
+
 #EXTINF:-1 tvg-id="Boxing - Mary Spencer vs Mikaela Mayer" tvg-name="03:00 Boxing : Mary Spencer vs Mikaela Mayer - 30/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Boxe", RMC Sport 1 France
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=119
 
@@ -1078,4 +1084,1267 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd
 
 #EXTINF:-1 tvg-id="Athletes Unlimited Pro Volleyball - Team Thompson vs Team Hentz" tvg-name="03:00 Athletes Unlimited Pro Volleyball : Team Thompson vs Team Hentz - 30/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", FanDuel Sports Network North
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=898
+
+#EXTINF:-1 tvg-id="Australia - A-League Women - Western Sydney Wanderers vs Perth Glory" tvg-name="09:00 Australia - A-League Women : Western Sydney Wanderers vs Perth Glory - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TNT Sports 3 UK
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=33
+
+#EXTINF:-1 tvg-id="Australia - A-League Women - Western Sydney Wanderers vs Perth Glory" tvg-name="09:00 Australia - A-League Women : Western Sydney Wanderers vs Perth Glory - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport 5 NZ
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=592
+
+#EXTINF:-1 tvg-id="Australia - A-League - Brisbane Roar vs Melbourne City" tvg-name="10:35 Australia - A-League : Brisbane Roar vs Melbourne City - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TNT Sports 2 UK
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=32
+
+#EXTINF:-1 tvg-id="Australia - A-League - Brisbane Roar vs Melbourne City" tvg-name="10:35 Australia - A-League : Brisbane Roar vs Melbourne City - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport 3 NZ
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=590
+
+#EXTINF:-1 tvg-id="Australia - A-League - Brisbane Roar vs Melbourne City" tvg-name="10:35 Australia - A-League : Brisbane Roar vs Melbourne City - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport 5 NZ
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=592
+
+#EXTINF:-1 tvg-id="Azerbaijan - Premier Liqa - Mil-Muğan vs Qarabağ" tvg-name="12:00 Azerbaijan - Premier Liqa : Mil-Muğan vs Qarabağ - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", CBC Sport Azerbaijan
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1
+
+#EXTINF:-1 tvg-id="Australia - A-League - Perth Glory vs Melbourne Victory" tvg-name="12:45 Australia - A-League : Perth Glory vs Melbourne Victory - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TNT Sports 2 UK
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=32
+
+#EXTINF:-1 tvg-id="Australia - A-League - Perth Glory vs Melbourne Victory" tvg-name="12:45 Australia - A-League : Perth Glory vs Melbourne Victory - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport 2 NZ
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=589
+
+#EXTINF:-1 tvg-id="Australia - A-League - Perth Glory vs Melbourne Victory" tvg-name="12:45 Australia - A-League : Perth Glory vs Melbourne Victory - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sportdigital FUSSBALL DE
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=571
+
+#EXTINF:-1 tvg-id="Asia - AFC Challenge League - Al Seeb vs Al Ansar" tvg-name="15:00 Asia - AFC Challenge League : Al Seeb vs Al Ansar - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", KTV Sport
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=2
+
+#EXTINF:-1 tvg-id="Croatia - Prva NL - Opatija vs Croatia Zmijavci" tvg-name="15:00 Croatia - Prva NL : Opatija vs Croatia Zmijavci - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MAX Sport 1 Croatia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=779
+
+#EXTINF:-1 tvg-id="Malaysia - Super League - Terengganu vs Johor Darul Ta'zim" tvg-name="15:00 Malaysia - Super League : Terengganu vs Johor Darul Ta'zim - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Astro Arena Bola
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=55
+
+#EXTINF:-1 tvg-id="United Arab Emirates - UAE Pro League - Bani Yas vs Dibba Al Fujairah" tvg-name="15:00 United Arab Emirates - UAE Pro League : Bani Yas vs Dibba Al Fujairah - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Abu Dhabi Sports 1
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=600
+
+#EXTINF:-1 tvg-id="Saudi Arabia - Pro League - Al Akhdoud vs Al Najma" tvg-name="15:40 Saudi Arabia - Pro League : Al Akhdoud vs Al Najma - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Thmanyah
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=3
+
+#EXTINF:-1 tvg-id="Saudi Arabia - Pro League - Al Akhdoud vs Al Najma" tvg-name="15:40 Saudi Arabia - Pro League : Al Akhdoud vs Al Najma - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Fox Deportes USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=643
+
+#EXTINF:-1 tvg-id="Jordan - Jordan League - Sama Al Sarhan vs Al Buqa'a" tvg-name="16:00 Jordan - Jordan League : Sama Al Sarhan vs Al Buqa'a - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Jordan TV Sport
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=59
+
+#EXTINF:-1 tvg-id="Kuwait - Premier League - Al Qadsia vs Al Tadhamon" tvg-name="16:30 Kuwait - Premier League : Al Qadsia vs Al Tadhamon - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", KTV Sport Kuwait
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=2
+
+#EXTINF:-1 tvg-id="Qatar - Qatar Stars League - Al Arabi vs Al Shahaniya" tvg-name="16:30 Qatar - Qatar Stars League : Al Arabi vs Al Shahaniya - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Alkass One
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=781
+
+#EXTINF:-1 tvg-id="Qatar - Qatar Stars League - Al Arabi vs Al Shahaniya" tvg-name="16:30 Qatar - Qatar Stars League : Al Arabi vs Al Shahaniya - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports HD Qatar
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=578
+
+#EXTINF:-1 tvg-id="Slovenia - Druga Liga - Rudar vs Jesenice" tvg-name="16:30 Slovenia - Druga Liga : Rudar vs Jesenice - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 2 Serbia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=430
+
+#EXTINF:-1 tvg-id="Saudi Arabia - Pro League - Al Hilal vs Al Shabab" tvg-name="16:50 Saudi Arabia - Pro League : Al Hilal vs Al Shabab - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Thmanyah
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=4
+
+#EXTINF:-1 tvg-id="Saudi Arabia - Pro League - Al Hilal vs Al Shabab" tvg-name="16:50 Saudi Arabia - Pro League : Al Hilal vs Al Shabab - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Fox Sports 2 USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=758
+
+#EXTINF:-1 tvg-id="Saudi Arabia - Pro League - Al Hilal vs Al Shabab" tvg-name="16:50 Saudi Arabia - Pro League : Al Hilal vs Al Shabab - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TRT Spor Turkey
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=889
+
+#EXTINF:-1 tvg-id="Saudi Arabia - Pro League - Al Hilal vs Al Shabab" tvg-name="16:50 Saudi Arabia - Pro League : Al Hilal vs Al Shabab - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", #Vamos ES
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=521
+
+#EXTINF:-1 tvg-id="Saudi Arabia - Pro League - Al Hilal vs Al Shabab" tvg-name="16:50 Saudi Arabia - Pro League : Al Hilal vs Al Shabab - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN1 DE
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=426
+
+#EXTINF:-1 tvg-id="Saudi Arabia - Pro League - Al Hilal vs Al Shabab" tvg-name="16:50 Saudi Arabia - Pro League : Al Hilal vs Al Shabab - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV1 Portugal
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=49
+
+#EXTINF:-1 tvg-id="Saudi Arabia - Pro League - Al Hilal vs Al Shabab" tvg-name="16:50 Saudi Arabia - Pro League : Al Hilal vs Al Shabab - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", FOX Deportes
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=643
+
+#EXTINF:-1 tvg-id="Saudi Arabia - Pro League - Al Hilal vs Al Shabab" tvg-name="16:50 Saudi Arabia - Pro League : Al Hilal vs Al Shabab - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Prima Sport 2 Romania
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=584
+
+#EXTINF:-1 tvg-id="Saudi Arabia - Pro League - Al Hilal vs Al Shabab" tvg-name="16:50 Saudi Arabia - Pro League : Al Hilal vs Al Shabab - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Cosmote Sport 1 Greece
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=622
+
+#EXTINF:-1 tvg-id="Saudi Arabia - Pro League - Al Hilal vs Al Shabab" tvg-name="16:50 Saudi Arabia - Pro League : Al Hilal vs Al Shabab - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MAX Sport 4 Bulgaria
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=475
+
+#EXTINF:-1 tvg-id="Saudi Arabia - Pro League - Al Hilal vs Al Shabab" tvg-name="16:50 Saudi Arabia - Pro League : Al Hilal vs Al Shabab - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sportklub 3 Croatia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=103
+
+#EXTINF:-1 tvg-id="Bulgaria - Second League - Fratria vs Vihren Sandanski" tvg-name="17:30 Bulgaria - Second League : Fratria vs Vihren Sandanski - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Diema Sport Bulgaria
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=465
+
+#EXTINF:-1 tvg-id="Romania - Liga II - CSMS Iaşi vs Bihor Oradea" tvg-name="17:30 Romania - Liga II : CSMS Iaşi vs Bihor Oradea - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Digi Sport 1 Romania
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=400
+
+#EXTINF:-1 tvg-id="Romania - Liga II - CSMS Iaşi vs Bihor Oradea" tvg-name="17:30 Romania - Liga II : CSMS Iaşi vs Bihor Oradea - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Prima Sport 1 Romania
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=583
+
+#EXTINF:-1 tvg-id="United Arab Emirates - UAE Pro League - Khor Fakkan vs Al Wasl" tvg-name="17:45 United Arab Emirates - UAE Pro League : Khor Fakkan vs Al Wasl - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Abu Dhabi Sports 1
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=600
+
+#EXTINF:-1 tvg-id="Slovakia - 2. Futbalová Liga - Dukla Banská Bystrica vs Inter Bratislava" tvg-name="18:00 Slovakia - 2. Futbalová Liga : Dukla Banská Bystrica vs Inter Bratislava - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", RTVS Sport Slovakia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=14
+
+#EXTINF:-1 tvg-id="Asia - AFC Challenge League - Al Kuwait vs Bashundhara Kings" tvg-name="18:00 Asia - AFC Challenge League : Al Kuwait vs Bashundhara Kings - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", KTV Sport
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=2
+
+#EXTINF:-1 tvg-id="Russia - Premier League - CSKA Moskva vs Olimpiyets" tvg-name="18:00 Russia - Premier League : CSKA Moskva vs Olimpiyets - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Match Premier Russia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=573
+
+#EXTINF:-1 tvg-id="Russia - Premier League - CSKA Moskva vs Olimpiyets" tvg-name="18:00 Russia - Premier League : CSKA Moskva vs Olimpiyets - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 2 Croatia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=433
+
+#EXTINF:-1 tvg-id="Jordan - Jordan League - Al Jazeera vs Al Faisaly" tvg-name="18:30 Jordan - Jordan League : Al Jazeera vs Al Faisaly - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Jordan TV Sport
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=59
+
+#EXTINF:-1 tvg-id="Qatar - Qatar Stars League - Al Wakrah vs Qatar SC" tvg-name="18:30 Qatar - Qatar Stars League : Al Wakrah vs Qatar SC - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Alkass Three
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=783
+
+#EXTINF:-1 tvg-id="Poland - II Liga - Stal Stalowa Wola vs Resovia Rzeszów" tvg-name="18:45 Poland - II Liga : Stal Stalowa Wola vs Resovia Rzeszów - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TVP Sport Poland
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=128
+
+#EXTINF:-1 tvg-id="Turkey - 1. Lig - Hatayspor vs BB Erzurumspor" tvg-name="19:00 Turkey - 1. Lig : Hatayspor vs BB Erzurumspor - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TRT Spor Turkey
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=889
+
+#EXTINF:-1 tvg-id="Turkey - 1. Lig - Hatayspor vs BB Erzurumspor" tvg-name="19:00 Turkey - 1. Lig : Hatayspor vs BB Erzurumspor - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports 2 Turkey
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=63
+
+#EXTINF:-1 tvg-id="Poland - Ekstraklasa - Nieciecza vs Katowice" tvg-name="19:00 Poland - Ekstraklasa : Nieciecza vs Katowice - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Canal+ Sport 3 Poland
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=259
+
+#EXTINF:-1 tvg-id="Poland - Ekstraklasa - Nieciecza vs Katowice" tvg-name="19:00 Poland - Ekstraklasa : Nieciecza vs Katowice - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Canal+ Sport 5 Poland
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=75
+
+#EXTINF:-1 tvg-id="Poland - Ekstraklasa - Nieciecza vs Katowice" tvg-name="19:00 Poland - Ekstraklasa : Nieciecza vs Katowice - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 1 Croatia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=432
+
+#EXTINF:-1 tvg-id="Turkey - Super Lig - İstanbul Başakşehir vs Kocaelispor" tvg-name="19:00 Turkey - Super Lig : İstanbul Başakşehir vs Kocaelispor - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports 1 Turkey
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=62
+
+#EXTINF:-1 tvg-id="Turkey - Super Lig - İstanbul Başakşehir vs Kocaelispor" tvg-name="19:00 Turkey - Super Lig : İstanbul Başakşehir vs Kocaelispor - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN SPORTS USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=425
+
+#EXTINF:-1 tvg-id="Turkey - Super Lig - İstanbul Başakşehir vs Kocaelispor" tvg-name="19:00 Turkey - Super Lig : İstanbul Başakşehir vs Kocaelispor - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN SPORTS en Español
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=372
+
+#EXTINF:-1 tvg-id="Turkey - Super Lig - İstanbul Başakşehir vs Kocaelispor" tvg-name="19:00 Turkey - Super Lig : İstanbul Başakşehir vs Kocaelispor - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena 5 Premium Serbia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=105
+
+#EXTINF:-1 tvg-id="Austria - 2. Liga - Stripfing vs Rapid Wien II" tvg-name="19:00 Austria - 2. Liga : Stripfing vs Rapid Wien II - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ORF Sport Plus
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=5
+
+#EXTINF:-1 tvg-id="Cyprus - First Division - Aris vs Akritas" tvg-name="19:00 Cyprus - First Division : Aris vs Akritas - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Cytavision Sports 1 Cyprus
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=911
+
+#EXTINF:-1 tvg-id="Czech Republic - 2. liga - Vysočina Jihlava vs Sparta Praha II" tvg-name="19:00 Czech Republic - 2. liga : Vysočina Jihlava vs Sparta Praha II - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ČT Sport CZ
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1033
+
+#EXTINF:-1 tvg-id="Germany - Bundesliga 2 - Multiview" tvg-name="19:30 Germany - Bundesliga 2 : Multiview - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport Bundesliga 5
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=109
+
+#EXTINF:-1 tvg-id="Germany - Bundesliga 2 - Simulcast" tvg-name="19:30 Germany - Bundesliga 2 : Simulcast - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport Bundesliga 2
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=6
+
+#EXTINF:-1 tvg-id="Germany - Bundesliga 2 - Preußen Münster vs Holstein Kiel" tvg-name="19:30 Germany - Bundesliga 2 : Preußen Münster vs Holstein Kiel - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport Bundesliga 4
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=7
+
+#EXTINF:-1 tvg-id="Germany - Bundesliga 2 - Preußen Münster vs Holstein Kiel" tvg-name="19:30 Germany - Bundesliga 2 : Preußen Münster vs Holstein Kiel - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Eleven Sports 3 Poland
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=428
+
+#EXTINF:-1 tvg-id="Germany - Bundesliga 2 - Preußen Münster vs Holstein Kiel" tvg-name="19:30 Germany - Bundesliga 2 : Preußen Münster vs Holstein Kiel - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena 3 Premium Serbia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=139
+
+#EXTINF:-1 tvg-id="Germany - Bundesliga 2 - Preußen Münster vs Holstein Kiel" tvg-name="19:30 Germany - Bundesliga 2 : Preußen Münster vs Holstein Kiel - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Nova Sport Bulgaria
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=468
+
+#EXTINF:-1 tvg-id="Germany - Bundesliga 2 - Elversberg vs Hannover 96" tvg-name="19:30 Germany - Bundesliga 2 : Elversberg vs Hannover 96 - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport Bundesliga 3
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=8
+
+#EXTINF:-1 tvg-id="Germany - Bundesliga 2 - Elversberg vs Hannover 96" tvg-name="19:30 Germany - Bundesliga 2 : Elversberg vs Hannover 96 - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport Top Event DE
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=556
+
+#EXTINF:-1 tvg-id="Germany - Bundesliga 2 - Elversberg vs Hannover 96" tvg-name="19:30 Germany - Bundesliga 2 : Elversberg vs Hannover 96 - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN Eleven 3 Portugal
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=457
+
+#EXTINF:-1 tvg-id="Germany - Bundesliga 2 - Elversberg vs Hannover 96" tvg-name="19:30 Germany - Bundesliga 2 : Elversberg vs Hannover 96 - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Eleven Sports 2 Poland
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=72
+
+#EXTINF:-1 tvg-id="Germany - Bundesliga 2 - Elversberg vs Hannover 96" tvg-name="19:30 Germany - Bundesliga 2 : Elversberg vs Hannover 96 - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport Calcio IT
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=870
+
+#EXTINF:-1 tvg-id="Germany - Bundesliga 2 - Elversberg vs Hannover 96" tvg-name="19:30 Germany - Bundesliga 2 : Elversberg vs Hannover 96 - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN SPORTS Australia 2
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=492
+
+#EXTINF:-1 tvg-id="Germany - Bundesliga 2 - Elversberg vs Hannover 96" tvg-name="19:30 Germany - Bundesliga 2 : Elversberg vs Hannover 96 - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports 3 Malaysia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=714
+
+#EXTINF:-1 tvg-id="Germany - Bundesliga 2 - Elversberg vs Hannover 96" tvg-name="19:30 Germany - Bundesliga 2 : Elversberg vs Hannover 96 - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Prima Sport 2 Romania
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=584
+
+#EXTINF:-1 tvg-id="Germany - Bundesliga 2 - Elversberg vs Hannover 96" tvg-name="19:30 Germany - Bundesliga 2 : Elversberg vs Hannover 96 - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena 4 Premium Serbia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=106
+
+#EXTINF:-1 tvg-id="Germany - Bundesliga 2 - Elversberg vs Hannover 96" tvg-name="19:30 Germany - Bundesliga 2 : Elversberg vs Hannover 96 - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Nova Sports 2 Greece
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=632
+
+#EXTINF:-1 tvg-id="Germany - Bundesliga 2 - Elversberg vs Hannover 96" tvg-name="19:30 Germany - Bundesliga 2 : Elversberg vs Hannover 96 - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Diema Sport 3 Bulgaria
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=467
+
+#EXTINF:-1 tvg-id="Germany - Bundesliga 2 - Elversberg vs Hannover 96" tvg-name="19:30 Germany - Bundesliga 2 : Elversberg vs Hannover 96 - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sportklub 3 Croatia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=103
+
+#EXTINF:-1 tvg-id="Germany - Bundesliga 2 - Elversberg vs Hannover 96" tvg-name="19:30 Germany - Bundesliga 2 : Elversberg vs Hannover 96 - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Fox Sports Argentina
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=787
+
+#EXTINF:-1 tvg-id="Germany - Bundesliga 2 - Elversberg vs Hannover 96" tvg-name="19:30 Germany - Bundesliga 2 : Elversberg vs Hannover 96 - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 1 Israel
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=140
+
+#EXTINF:-1 tvg-id="Germany - Frauen-Bundesliga - Köln vs Nürnberg" tvg-name="19:30 Germany - Frauen-Bundesliga : Köln vs Nürnberg - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Magenta Sport 308
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=9
+
+#EXTINF:-1 tvg-id="Germany - Frauen-Bundesliga - Köln vs Nürnberg" tvg-name="19:30 Germany - Frauen-Bundesliga : Köln vs Nürnberg - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN1 DE
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=426
+
+#EXTINF:-1 tvg-id="Saudi Arabia - Pro League - Al Ittifaq vs Al Hazm" tvg-name="19:30 Saudi Arabia - Pro League : Al Ittifaq vs Al Hazm - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Thmanyah
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1
+
+#EXTINF:-1 tvg-id="South Africa - DStv Premiership - Durban City vs Kaizer Chiefs" tvg-name="19:30 South Africa - DStv Premiership : Durban City vs Kaizer Chiefs - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport PSL
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=413
+
+#EXTINF:-1 tvg-id="Germany - 3. Liga - Viktoria Köln vs Ingolstadt" tvg-name="20:00 Germany - 3. Liga : Viktoria Köln vs Ingolstadt - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Magenta Sport 301
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=3
+
+#EXTINF:-1 tvg-id="Chile - Primera Division - Audax Italiano vs Cobresal" tvg-name="20:00 Chile - Primera Division : Audax Italiano vs Cobresal - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TNT SPORTS Premium HD Chile
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=642
+
+#EXTINF:-1 tvg-id="Denmark - 1. division - Horsens vs HB Køge" tvg-name="20:00 Denmark - 1. division : Horsens vs HB Køge - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV3 Sport Denmark
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=809
+
+#EXTINF:-1 tvg-id="Romania - Liga I - Dinamo Bucureşti vs CFR Cluj" tvg-name="20:30 Romania - Liga I : Dinamo Bucureşti vs CFR Cluj - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Digi Sport 1 Romania
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=400
+
+#EXTINF:-1 tvg-id="Romania - Liga I - Dinamo Bucureşti vs CFR Cluj" tvg-name="20:30 Romania - Liga I : Dinamo Bucureşti vs CFR Cluj - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Prima Sport 1 Romania
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=583
+
+#EXTINF:-1 tvg-id="Netherlands - Eredivisie - PSV vs Fortuna Sittard" tvg-name="21:00 Netherlands - Eredivisie : PSV vs Fortuna Sittard - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN 2 NL
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=386
+
+#EXTINF:-1 tvg-id="Netherlands - Eredivisie - PSV vs Fortuna Sittard" tvg-name="21:00 Netherlands - Eredivisie : PSV vs Fortuna Sittard - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Viaplay Sports 2 UK
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=550
+
+#EXTINF:-1 tvg-id="Netherlands - Eredivisie - PSV vs Fortuna Sittard" tvg-name="21:00 Netherlands - Eredivisie : PSV vs Fortuna Sittard - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Premier Sports 2 Ireland
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=799
+
+#EXTINF:-1 tvg-id="Netherlands - Eredivisie - PSV vs Fortuna Sittard" tvg-name="21:00 Netherlands - Eredivisie : PSV vs Fortuna Sittard - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sportdigital FUSSBALL DE
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=571
+
+#EXTINF:-1 tvg-id="Netherlands - Eredivisie - PSV vs Fortuna Sittard" tvg-name="21:00 Netherlands - Eredivisie : PSV vs Fortuna Sittard - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", GOL PLAY ES
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=530
+
+#EXTINF:-1 tvg-id="Netherlands - Eredivisie - PSV vs Fortuna Sittard" tvg-name="21:00 Netherlands - Eredivisie : PSV vs Fortuna Sittard - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN Eleven 2 Portugal
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=456
+
+#EXTINF:-1 tvg-id="Netherlands - Eredivisie - PSV vs Fortuna Sittard" tvg-name="21:00 Netherlands - Eredivisie : PSV vs Fortuna Sittard - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Astro Football
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=124
+
+#EXTINF:-1 tvg-id="Netherlands - Eredivisie - PSV vs Fortuna Sittard" tvg-name="21:00 Netherlands - Eredivisie : PSV vs Fortuna Sittard - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 1 Serbia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=429
+
+#EXTINF:-1 tvg-id="Netherlands - Eredivisie - PSV vs Fortuna Sittard" tvg-name="21:00 Netherlands - Eredivisie : PSV vs Fortuna Sittard - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN4 Mexico
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=928
+
+#EXTINF:-1 tvg-id="Netherlands - Eredivisie - PSV vs Fortuna Sittard" tvg-name="21:00 Netherlands - Eredivisie : PSV vs Fortuna Sittard - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Ring bg
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=471
+
+#EXTINF:-1 tvg-id="Netherlands - Eredivisie - PSV vs Fortuna Sittard" tvg-name="21:00 Netherlands - Eredivisie : PSV vs Fortuna Sittard - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 3 Israel
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=142
+
+#EXTINF:-1 tvg-id="France - Ligue 2 - Simulcast" tvg-name="21:00 France - Ligue 2 : Simulcast - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports 1 France
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=116
+
+#EXTINF:-1 tvg-id="France - Ligue 2 - Bastia vs Clermont" tvg-name="21:00 France - Ligue 2 : Bastia vs Clermont - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MAX 7 France
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=497
+
+#EXTINF:-1 tvg-id="France - Ligue 2 - Guingamp vs Laval" tvg-name="21:00 France - Ligue 2 : Guingamp vs Laval - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MAX 6 France
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=496
+
+#EXTINF:-1 tvg-id="France - Ligue 2 - Le Mans vs Nancy" tvg-name="21:00 France - Ligue 2 : Le Mans vs Nancy - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MAX 5 France
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=495
+
+#EXTINF:-1 tvg-id="France - Ligue 2 - Montpellier vs Rodez" tvg-name="21:00 France - Ligue 2 : Montpellier vs Rodez - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MAX 4 France
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=494
+
+#EXTINF:-1 tvg-id="France - Ligue 2 - Annecy vs Boulogne" tvg-name="21:00 France - Ligue 2 : Annecy vs Boulogne - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MAX 8 France
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=498
+
+#EXTINF:-1 tvg-id="Hungary - NB1 - Várda SE vs Nyíregyháza Spartacus" tvg-name="21:00 Hungary - NB1 : Várda SE vs Nyíregyháza Spartacus - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", M4 Sports Hungary
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=265
+
+#EXTINF:-1 tvg-id="Netherlands - Eerste Divisie - VVV vs Vitesse" tvg-name="21:00 Netherlands - Eerste Divisie : VVV vs Vitesse - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN 4 NL
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=4
+
+#EXTINF:-1 tvg-id="Netherlands - Eerste Divisie - Oss vs Helmond Sport" tvg-name="21:00 Netherlands - Eerste Divisie : Oss vs Helmond Sport - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN 3 NL
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=888
+
+#EXTINF:-1 tvg-id="Switzerland - Challenge League - Étoile Carouge vs Bellinzona" tvg-name="21:15 Switzerland - Challenge League : Étoile Carouge vs Bellinzona - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Blue Sport 1 Live
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=107
+
+#EXTINF:-1 tvg-id="Switzerland - Challenge League - Yverdon Sport vs Vaduz" tvg-name="21:15 Switzerland - Challenge League : Yverdon Sport vs Vaduz - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Blue Sport D 1
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=108
+
+#EXTINF:-1 tvg-id="Spain - Segunda Division - Racing Santander vs Real Sociedad II" tvg-name="21:30 Spain - Segunda Division : Racing Santander vs Real Sociedad II - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", LALIGA TV Hypermotion
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=539
+
+#EXTINF:-1 tvg-id="Spain - Segunda Division - Racing Santander vs Real Sociedad II" tvg-name="21:30 Spain - Segunda Division : Racing Santander vs Real Sociedad II - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 4 Serbia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=581
+
+#EXTINF:-1 tvg-id="Italy - Serie C - Casertana vs Catania" tvg-name="21:30 Italy - Serie C : Casertana vs Catania - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SKY Go Italia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=27
+
+#EXTINF:-1 tvg-id="Italy - Serie C - Picerno vs Cavese" tvg-name="21:30 Italy - Serie C : Picerno vs Cavese - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SKY Go Italia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=28
+
+#EXTINF:-1 tvg-id="Austria - 2. Liga - Kapfenberger SV vs Austria Salzburg" tvg-name="21:30 Austria - 2. Liga : Kapfenberger SV vs Austria Salzburg - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ORF Sport Plus
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=5
+
+#EXTINF:-1 tvg-id="England - FA Cup - Luton Town vs Forest Green Rovers" tvg-name="21:30 England - FA Cup : Luton Town vs Forest Green Rovers - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TNT Sports 1 UK
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=31
+
+#EXTINF:-1 tvg-id="England - FA Cup - Luton Town vs Forest Green Rovers" tvg-name="21:30 England - FA Cup : Luton Town vs Forest Green Rovers - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sportsnet World
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=410
+
+#EXTINF:-1 tvg-id="England - FA Cup - Luton Town vs Forest Green Rovers" tvg-name="21:30 England - FA Cup : Luton Town vs Forest Green Rovers - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN1 DE
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=426
+
+#EXTINF:-1 tvg-id="England - FA Cup - Luton Town vs Forest Green Rovers" tvg-name="21:30 England - FA Cup : Luton Town vs Forest Green Rovers - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Nova Sport 2 CZ
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1022
+
+#EXTINF:-1 tvg-id="England - FA Cup - Luton Town vs Forest Green Rovers" tvg-name="21:30 England - FA Cup : Luton Town vs Forest Green Rovers - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Cosmote Sport 7 Greece
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=628
+
+#EXTINF:-1 tvg-id="England - FA Cup - Luton Town vs Forest Green Rovers" tvg-name="21:30 England - FA Cup : Luton Town vs Forest Green Rovers - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Diema Sport Bulgaria
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=465
+
+#EXTINF:-1 tvg-id="Germany - Bundesliga - Augsburg vs Borussia Dortmund" tvg-name="21:30 Germany - Bundesliga : Augsburg vs Borussia Dortmund - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport Bundesliga 1
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=558
+
+#EXTINF:-1 tvg-id="Germany - Bundesliga - Augsburg vs Borussia Dortmund" tvg-name="21:30 Germany - Bundesliga : Augsburg vs Borussia Dortmund - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport Top Event DE
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=556
+
+#EXTINF:-1 tvg-id="Germany - Bundesliga - Augsburg vs Borussia Dortmund" tvg-name="21:30 Germany - Bundesliga : Augsburg vs Borussia Dortmund - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport Calcio IT
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=870
+
+#EXTINF:-1 tvg-id="Germany - Bundesliga - Augsburg vs Borussia Dortmund" tvg-name="21:30 Germany - Bundesliga : Augsburg vs Borussia Dortmund - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN Eleven 1 Portugal
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=455
+
+#EXTINF:-1 tvg-id="Germany - Bundesliga - Augsburg vs Borussia Dortmund" tvg-name="21:30 Germany - Bundesliga : Augsburg vs Borussia Dortmund - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Eleven Sports 1 Poland
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=71
+
+#EXTINF:-1 tvg-id="Germany - Bundesliga - Augsburg vs Borussia Dortmund" tvg-name="21:30 Germany - Bundesliga : Augsburg vs Borussia Dortmund - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN SPORTS Australia 3
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=493
+
+#EXTINF:-1 tvg-id="Germany - Bundesliga - Augsburg vs Borussia Dortmund" tvg-name="21:30 Germany - Bundesliga : Augsburg vs Borussia Dortmund - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports 2 France
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=117
+
+#EXTINF:-1 tvg-id="Germany - Bundesliga - Augsburg vs Borussia Dortmund" tvg-name="21:30 Germany - Bundesliga : Augsburg vs Borussia Dortmund - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SONY TEN 2 HD
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=886
+
+#EXTINF:-1 tvg-id="Germany - Bundesliga - Augsburg vs Borussia Dortmund" tvg-name="21:30 Germany - Bundesliga : Augsburg vs Borussia Dortmund - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports 3 Malaysia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=714
+
+#EXTINF:-1 tvg-id="Germany - Bundesliga - Augsburg vs Borussia Dortmund" tvg-name="21:30 Germany - Bundesliga : Augsburg vs Borussia Dortmund - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Digi Sport 3 Romania
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=402
+
+#EXTINF:-1 tvg-id="Germany - Bundesliga - Augsburg vs Borussia Dortmund" tvg-name="21:30 Germany - Bundesliga : Augsburg vs Borussia Dortmund - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Prima Sport 2 Romania
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=584
+
+#EXTINF:-1 tvg-id="Germany - Bundesliga - Augsburg vs Borussia Dortmund" tvg-name="21:30 Germany - Bundesliga : Augsburg vs Borussia Dortmund - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena 3 Premium Serbia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=139
+
+#EXTINF:-1 tvg-id="Germany - Bundesliga - Augsburg vs Borussia Dortmund" tvg-name="21:30 Germany - Bundesliga : Augsburg vs Borussia Dortmund - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Nova Sports 3 Greece
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=633
+
+#EXTINF:-1 tvg-id="Germany - Bundesliga - Augsburg vs Borussia Dortmund" tvg-name="21:30 Germany - Bundesliga : Augsburg vs Borussia Dortmund - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV3 MAX Denmark
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=223
+
+#EXTINF:-1 tvg-id="Germany - Bundesliga - Augsburg vs Borussia Dortmund" tvg-name="21:30 Germany - Bundesliga : Augsburg vs Borussia Dortmund - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SporTV BR
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=78
+
+#EXTINF:-1 tvg-id="Germany - Bundesliga - Augsburg vs Borussia Dortmund" tvg-name="21:30 Germany - Bundesliga : Augsburg vs Borussia Dortmund - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Diema Sport 3 Bulgaria
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=467
+
+#EXTINF:-1 tvg-id="Germany - Bundesliga - Augsburg vs Borussia Dortmund" tvg-name="21:30 Germany - Bundesliga : Augsburg vs Borussia Dortmund - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN2 Argentina
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=150
+
+#EXTINF:-1 tvg-id="Germany - Bundesliga - Augsburg vs Borussia Dortmund" tvg-name="21:30 Germany - Bundesliga : Augsburg vs Borussia Dortmund - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sportklub 3 Croatia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=103
+
+#EXTINF:-1 tvg-id="Germany - Bundesliga - Augsburg vs Borussia Dortmund" tvg-name="21:30 Germany - Bundesliga : Augsburg vs Borussia Dortmund - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 1 Israel
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=140
+
+#EXTINF:-1 tvg-id="Poland - Ekstraklasa - Piast Gliwice vs Korona Kielce" tvg-name="21:30 Poland - Ekstraklasa : Piast Gliwice vs Korona Kielce - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Canal+ Sport 3 Poland
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=259
+
+#EXTINF:-1 tvg-id="Poland - Ekstraklasa - Piast Gliwice vs Korona Kielce" tvg-name="21:30 Poland - Ekstraklasa : Piast Gliwice vs Korona Kielce - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Canal+ Sport Poland
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=48
+
+#EXTINF:-1 tvg-id="Poland - Ekstraklasa - Piast Gliwice vs Korona Kielce" tvg-name="21:30 Poland - Ekstraklasa : Piast Gliwice vs Korona Kielce - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN SPORTS USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=425
+
+#EXTINF:-1 tvg-id="Poland - Ekstraklasa - Piast Gliwice vs Korona Kielce" tvg-name="21:30 Poland - Ekstraklasa : Piast Gliwice vs Korona Kielce - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN SPORTS en Español
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=372
+
+#EXTINF:-1 tvg-id="Poland - Ekstraklasa - Piast Gliwice vs Korona Kielce" tvg-name="21:30 Poland - Ekstraklasa : Piast Gliwice vs Korona Kielce - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 4 Croatia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=580
+
+#EXTINF:-1 tvg-id="Poland - I Liga - Ruch Chorzów vs Tychy 71" tvg-name="21:30 Poland - I Liga : Ruch Chorzów vs Tychy 71 - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TVP Sport Poland
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=128
+
+#EXTINF:-1 tvg-id="Belgium - Pro League - Standard Liège vs Sporting Charleroi" tvg-name="21:45 Belgium - Pro League : Standard Liège vs Sporting Charleroi - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN Pro League 1 Belgium
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=55
+
+#EXTINF:-1 tvg-id="Scotland - Scottish Championship - Ayr United vs Dunfermline Athletic" tvg-name="21:45 Scotland - Scottish Championship : Ayr United vs Dunfermline Athletic - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", BBC Scotland
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=10
+
+#EXTINF:-1 tvg-id="England - Championship - Wrexham vs Coventry City" tvg-name="22:00 England - Championship : Wrexham vs Coventry City - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sports Football UK
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=35
+
+#EXTINF:-1 tvg-id="England - Championship - Wrexham vs Coventry City" tvg-name="22:00 England - Championship : Wrexham vs Coventry City - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sports Main Event UK
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=38
+
+#EXTINF:-1 tvg-id="England - Championship - Wrexham vs Coventry City" tvg-name="22:00 England - Championship : Wrexham vs Coventry City - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Nova SPORT 6 CZ
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1026
+
+#EXTINF:-1 tvg-id="England - Championship - Wrexham vs Coventry City" tvg-name="22:00 England - Championship : Wrexham vs Coventry City - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV3 Portugal
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=454
+
+#EXTINF:-1 tvg-id="England - Championship - Wrexham vs Coventry City" tvg-name="22:00 England - Championship : Wrexham vs Coventry City - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN SPORTS Australia 2
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=492
+
+#EXTINF:-1 tvg-id="England - Championship - Wrexham vs Coventry City" tvg-name="22:00 England - Championship : Wrexham vs Coventry City - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN3 Mexico
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=927
+
+#EXTINF:-1 tvg-id="England - Championship - Wrexham vs Coventry City" tvg-name="22:00 England - Championship : Wrexham vs Coventry City - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 5 Serbia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=940
+
+#EXTINF:-1 tvg-id="England - Championship - Wrexham vs Coventry City" tvg-name="22:00 England - Championship : Wrexham vs Coventry City - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Cosmote Sport 3 Greece
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=624
+
+#EXTINF:-1 tvg-id="England - Championship - Wrexham vs Coventry City" tvg-name="22:00 England - Championship : Wrexham vs Coventry City - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 3 Croatia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=434
+
+#EXTINF:-1 tvg-id="England - Championship - Wrexham vs Coventry City" tvg-name="22:00 England - Championship : Wrexham vs Coventry City - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", V Sport Premium
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=11
+
+#EXTINF:-1 tvg-id="England - Championship - Wrexham vs Coventry City" tvg-name="22:00 England - Championship : Wrexham vs Coventry City - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Diema Sport 2 Bulgaria
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=466
+
+#EXTINF:-1 tvg-id="England - Championship - Wrexham vs Coventry City" tvg-name="22:00 England - Championship : Wrexham vs Coventry City - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", FOX Sports Argentina
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=787
+
+#EXTINF:-1 tvg-id="England - Championship - Wrexham vs Coventry City" tvg-name="22:00 England - Championship : Wrexham vs Coventry City - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport Football
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=56
+
+#EXTINF:-1 tvg-id="England - Championship - Wrexham vs Coventry City" tvg-name="22:00 England - Championship : Wrexham vs Coventry City - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 2
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=92
+
+#EXTINF:-1 tvg-id="England - Championship - Wrexham vs Coventry City" tvg-name="22:00 England - Championship : Wrexham vs Coventry City - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA English 1
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=61
+
+#EXTINF:-1 tvg-id="England - Championship - Wrexham vs Coventry City" tvg-name="22:00 England - Championship : Wrexham vs Coventry City - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 2 Israel
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=141
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Girona" tvg-name="22:00 Spain - La Liga : Getafe vs Girona - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", M+ LALIGA TV
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=84
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Girona" tvg-name="22:00 Spain - La Liga : Getafe vs Girona - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", LaLiga TV UK
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=276
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Girona" tvg-name="22:00 Spain - La Liga : Getafe vs Girona - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Viaplay Sports 1 UK
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=451
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Girona" tvg-name="22:00 Spain - La Liga : Getafe vs Girona - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Premier Sports 1 Ireland
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=771
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Girona" tvg-name="22:00 Spain - La Liga : Getafe vs Girona - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Nova SPORT 4 CZ
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1024
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Girona" tvg-name="22:00 Spain - La Liga : Getafe vs Girona - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN2 DE
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=427
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Girona" tvg-name="22:00 Spain - La Liga : Getafe vs Girona - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN Eleven 3 Portugal
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=457
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Girona" tvg-name="22:00 Spain - La Liga : Getafe vs Girona - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Eleven Sports 3 Poland
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=428
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Girona" tvg-name="22:00 Spain - La Liga : Getafe vs Girona - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Ziggo Sport 2 NL
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=398
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Girona" tvg-name="22:00 Spain - La Liga : Getafe vs Girona - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MAX 9 France
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=499
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Girona" tvg-name="22:00 Spain - La Liga : Getafe vs Girona - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports Malaysia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=712
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Girona" tvg-name="22:00 Spain - La Liga : Getafe vs Girona - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN Deportes
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=375
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Girona" tvg-name="22:00 Spain - La Liga : Getafe vs Girona - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Match! Football 2 Russia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=137
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Girona" tvg-name="22:00 Spain - La Liga : Getafe vs Girona - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Match TV Russia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=127
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Girona" tvg-name="22:00 Spain - La Liga : Getafe vs Girona - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena 2 Premium Serbia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=135
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Girona" tvg-name="22:00 Spain - La Liga : Getafe vs Girona - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV2 Sport Denmark
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=810
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Girona" tvg-name="22:00 Spain - La Liga : Getafe vs Girona - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Nova Sports 1 Greece
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=631
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Girona" tvg-name="22:00 Spain - La Liga : Getafe vs Girona - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Digi Sport 4 Romania
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=403
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Girona" tvg-name="22:00 Spain - La Liga : Getafe vs Girona - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Prima Sport 4 Romania
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=586
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Girona" tvg-name="22:00 Spain - La Liga : Getafe vs Girona - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 1 Croatia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=432
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Girona" tvg-name="22:00 Spain - La Liga : Getafe vs Girona - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV4 Fotball
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=747
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Girona" tvg-name="22:00 Spain - La Liga : Getafe vs Girona - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MAX Sport 4 Bulgaria
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=475
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Girona" tvg-name="22:00 Spain - La Liga : Getafe vs Girona - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN3 Brazil
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=83
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Girona" tvg-name="22:00 Spain - La Liga : Getafe vs Girona - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport Laliga
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=415
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Girona" tvg-name="22:00 Spain - La Liga : Getafe vs Girona - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport MaXimo 1
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=572
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Girona" tvg-name="22:00 Spain - La Liga : Getafe vs Girona - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 3
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=93
+
+#EXTINF:-1 tvg-id="France - Première Ligue - Olympique Marseille vs Strasbourg" tvg-name="22:00 France - Première Ligue : Olympique Marseille vs Strasbourg - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Canal+ Foot France
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=463
+
+#EXTINF:-1 tvg-id="France - Première Ligue - Olympique Marseille vs Strasbourg" tvg-name="22:00 France - Première Ligue : Olympique Marseille vs Strasbourg - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Nova Sport 5 CZ
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1025
+
+#EXTINF:-1 tvg-id="France - Première Ligue - Olympique Marseille vs Strasbourg" tvg-name="22:00 France - Première Ligue : Olympique Marseille vs Strasbourg - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport Football
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=56
+
+#EXTINF:-1 tvg-id="Portugal - Primeira Liga - Sporting CP vs Alverca" tvg-name="22:15 Portugal - Primeira Liga : Sporting CP vs Alverca - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV1 Portugal
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=49
+
+#EXTINF:-1 tvg-id="Portugal - Primeira Liga - Sporting CP vs Alverca" tvg-name="22:15 Portugal - Primeira Liga : Sporting CP vs Alverca - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", GOLTV USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=597
+
+#EXTINF:-1 tvg-id="Portugal - Primeira Liga - Sporting CP vs Alverca" tvg-name="22:15 Portugal - Primeira Liga : Sporting CP vs Alverca - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Eleven Sports 2 Poland
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=72
+
+#EXTINF:-1 tvg-id="Portugal - Primeira Liga - Sporting CP vs Alverca" tvg-name="22:15 Portugal - Primeira Liga : Sporting CP vs Alverca - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MAX 10 France
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=500
+
+#EXTINF:-1 tvg-id="Portugal - Primeira Liga - Sporting CP vs Alverca" tvg-name="22:15 Portugal - Primeira Liga : Sporting CP vs Alverca - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 2 Serbia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=430
+
+#EXTINF:-1 tvg-id="Portugal - Primeira Liga - Sporting CP vs Alverca" tvg-name="22:15 Portugal - Primeira Liga : Sporting CP vs Alverca - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Cosmote Sport 2 Greece
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=623
+
+#EXTINF:-1 tvg-id="Portugal - Primeira Liga - Sporting CP vs Alverca" tvg-name="22:15 Portugal - Primeira Liga : Sporting CP vs Alverca - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sportklub 1 Croatia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=101
+
+#EXTINF:-1 tvg-id="Portugal - Primeira Liga - Sporting CP vs Alverca" tvg-name="22:15 Portugal - Primeira Liga : Sporting CP vs Alverca - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Ring bg
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=471
+
+#EXTINF:-1 tvg-id="Portugal - Primeira Liga - Sporting CP vs Alverca" tvg-name="22:15 Portugal - Primeira Liga : Sporting CP vs Alverca - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sportdigital FUSSBALL DE
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=571
+
+#EXTINF:-1 tvg-id="Portugal - Primeira Liga - Sporting CP vs Alverca" tvg-name="22:15 Portugal - Primeira Liga : Sporting CP vs Alverca - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN4 Brazil
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=85
+
+#EXTINF:-1 tvg-id="Chile - Primera Division - Deportes Iquique vs La Serena" tvg-name="22:30 Chile - Primera Division : Deportes Iquique vs La Serena - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TNT SPORTS Premium Chile
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=642
+
+#EXTINF:-1 tvg-id="Argentina - Primera División - San Lorenzo vs Deportivo Riestra" tvg-name="00:00 Argentina - Primera División : San Lorenzo vs Deportivo Riestra - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN Premium Argentina
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=387
+
+#EXTINF:-1 tvg-id="Argentina - Primera División - San Lorenzo vs Deportivo Riestra" tvg-name="00:00 Argentina - Primera División : San Lorenzo vs Deportivo Riestra - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Viaplay Sports 2 UK
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=550
+
+#EXTINF:-1 tvg-id="Argentina - Primera División - San Lorenzo vs Deportivo Riestra" tvg-name="00:00 Argentina - Primera División : San Lorenzo vs Deportivo Riestra - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena 3 Premium Serbia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=139
+
+#EXTINF:-1 tvg-id="Argentina - Primera División - San Lorenzo vs Deportivo Riestra" tvg-name="00:00 Argentina - Primera División : San Lorenzo vs Deportivo Riestra - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 3 Croatia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=434
+
+#EXTINF:-1 tvg-id="Uruguay - Primera Division - Wanderers vs Boston River" tvg-name="01:00 Uruguay - Primera Division : Wanderers vs Boston River - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", VTV+ Uruguay
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=391
+
+#EXTINF:-1 tvg-id="Uruguay - Primera Division - Wanderers vs Boston River" tvg-name="01:00 Uruguay - Primera Division : Wanderers vs Boston River - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", GOLTV USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=597
+
+#EXTINF:-1 tvg-id="United States - NCAA Men's Soccer - North Carolina vs Duke" tvg-name="02:00 United States - NCAA Men's Soccer : North Carolina vs Duke - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ACC Network USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=664
+
+#EXTINF:-1 tvg-id="Argentina - Primera División - Instituto vs Rosario Central" tvg-name="02:15 Argentina - Primera División : Instituto vs Rosario Central - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN Premium Argentina
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=387
+
+#EXTINF:-1 tvg-id="Argentina - Primera División - Instituto vs Rosario Central" tvg-name="02:15 Argentina - Primera División : Instituto vs Rosario Central - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV1 Portugal
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=49
+
+#EXTINF:-1 tvg-id="Argentina - Primera División - Newell's Old Boys vs Unión Santa Fe" tvg-name="02:15 Argentina - Primera División : Newell's Old Boys vs Unión Santa Fe - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TNT Sports Argentina
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=388
+
+#EXTINF:-1 tvg-id="Argentina - Primera Nacional - Estudiantes Río Cuarto vs Gimnasia y Tiro" tvg-name="02:30 Argentina - Primera Nacional : Estudiantes Río Cuarto vs Gimnasia y Tiro - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TyC Sports Argentina
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=746
+
+#EXTINF:-1 tvg-id="Brazil - Serie B - Ferroviária vs Criciúma" tvg-name="02:35 Brazil - Serie B : Ferroviária vs Criciúma - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN Brazil
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=81
+
+#EXTINF:-1 tvg-id="Peru - Primera Division - Alianza Lima vs Melgar" tvg-name="03:00 Peru - Primera Division : Alianza Lima vs Melgar - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Liga 1 Max Peru
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1
+
+#EXTINF:-1 tvg-id="Mexico - Liga MX - Necaxa vs Santos Laguna" tvg-name="03:00 Mexico - Liga MX : Necaxa vs Santos Laguna - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Azteca 7 MX
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=844
+
+#EXTINF:-1 tvg-id="Mexico - Liga MX - Necaxa vs Santos Laguna" tvg-name="03:00 Mexico - Liga MX : Necaxa vs Santos Laguna - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TUDN USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=66
+
+#EXTINF:-1 tvg-id="Mexico - Liga de Expansión MX - Correcaminos UAT vs Mineros de Zacatecas" tvg-name="03:00 Mexico - Liga de Expansión MX : Correcaminos UAT vs Mineros de Zacatecas - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN3 Mexico
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=927
+
+#EXTINF:-1 tvg-id="Mexico - Liga de Expansión MX - Irapuato vs Tapatío" tvg-name="03:00 Mexico - Liga de Expansión MX : Irapuato vs Tapatío - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN2 Mexico
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=926
+
+#EXTINF:-1 tvg-id="Mexico - Liga MX - Atlético San Luis vs Juárez" tvg-name="05:00 Mexico - Liga MX : Atlético San Luis vs Juárez - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN2 Mexico
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=926
+
+#EXTINF:-1 tvg-id="Mexico - Liga MX - Puebla vs Cruz Azul" tvg-name="05:05 Mexico - Liga MX : Puebla vs Cruz Azul - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Azteca 7 MX
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=844
+
+#EXTINF:-1 tvg-id="Australia - A-League Women - Sydney FC vs Melbourne City" tvg-name="05:15 Australia - A-League Women : Sydney FC vs Melbourne City - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TNT Sports 4 UK
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=34
+
+#EXTINF:-1 tvg-id="Australia - A-League Women - Sydney FC vs Melbourne City" tvg-name="05:15 Australia - A-League Women : Sydney FC vs Melbourne City - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport 5 NZ
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=592
+
+#EXTINF:-1 tvg-id="ATP - PARIS - Vacherot V. vs Auger-Aliassime F." tvg-name="15:00 ATP - PARIS : Vacherot V. vs Auger-Aliassime F. - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Paris", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1507
+
+#EXTINF:-1 tvg-id="ATP - PARIS - Vacherot V. vs Auger-Aliassime F." tvg-name="15:00 ATP - PARIS : Vacherot V. vs Auger-Aliassime F. - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Paris", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1520
+
+#EXTINF:-1 tvg-id="ATP - PARIS - Halys Q./Herbert P. vs Gonzalez M./Molteni A." tvg-name="15:00 ATP - PARIS : Halys Q./Herbert P. vs Gonzalez M./Molteni A. - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Paris", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1508
+
+#EXTINF:-1 tvg-id="ATP - PARIS - Bublik A. vs De Minaur A." tvg-name="16:30 ATP - PARIS : Bublik A. vs De Minaur A. - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Paris", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1507
+
+#EXTINF:-1 tvg-id="ATP - PARIS - Bublik A. vs De Minaur A." tvg-name="16:30 ATP - PARIS : Bublik A. vs De Minaur A. - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Paris", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1520
+
+#EXTINF:-1 tvg-id="ATP - PARIS - Heliovaara H./Patten H. vs Erler A./Galloway R." tvg-name="16:30 ATP - PARIS : Heliovaara H./Patten H. vs Erler A./Galloway R. - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Paris", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1508
+
+#EXTINF:-1 tvg-id="ATP - PARIS - Peers J./Tracy J. vs Cabral F./Miedler L." tvg-name="18:00 ATP - PARIS : Peers J./Tracy J. vs Cabral F./Miedler L. - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Paris", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1508
+
+#EXTINF:-1 tvg-id="ATP - PARIS - Krawietz K./Puetz T. vs Cash J./Glasspool L." tvg-name="19:30 ATP - PARIS : Krawietz K./Puetz T. vs Cash J./Glasspool L. - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Paris", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1508
+
+#EXTINF:-1 tvg-id="ATP - PARIS - Shelton B. vs Sinner J." tvg-name="20:00 ATP - PARIS : Shelton B. vs Sinner J. - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Paris", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1507
+
+#EXTINF:-1 tvg-id="ATP - PARIS - Shelton B. vs Sinner J." tvg-name="20:00 ATP - PARIS : Shelton B. vs Sinner J. - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Paris", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1520
+
+#EXTINF:-1 tvg-id="ATP - PARIS - Medvedev D. vs Zverev A." tvg-name="21:30 ATP - PARIS : Medvedev D. vs Zverev A. - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Paris", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1507
+
+#EXTINF:-1 tvg-id="ATP - PARIS - Medvedev D. vs Zverev A." tvg-name="21:30 ATP - PARIS : Medvedev D. vs Zverev A. - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Paris", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1520
+
+#EXTINF:-1 tvg-id="WTA - HONG KONG - Bencic B. vvs Bucsa C." tvg-name="08:00 WTA - HONG KONG : Bencic B. vvs Bucsa C. - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Hong Kong", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1524
+
+#EXTINF:-1 tvg-id="WTA - HONG KONG - Bencic B. vvs Bucsa C." tvg-name="08:00 WTA - HONG KONG : Bencic B. vvs Bucsa C. - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Hong Kong", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1501
+
+#EXTINF:-1 tvg-id="WTA - HONG KONG - Sakatsume H. vs Joint M." tvg-name="09:30 WTA - HONG KONG : Sakatsume H. vs Joint M. - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Hong Kong", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1524
+
+#EXTINF:-1 tvg-id="WTA - HONG KONG - Sakatsume H. vs Joint M." tvg-name="09:30 WTA - HONG KONG : Sakatsume H. vs Joint M. - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Hong Kong", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1501
+
+#EXTINF:-1 tvg-id="WTA - HONG KONG - Kalinskaya A. vs Mboko V." tvg-name="12:30 WTA - HONG KONG : Kalinskaya A. vs Mboko V. - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Hong Kong", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1524
+
+#EXTINF:-1 tvg-id="WTA - HONG KONG - Kalinskaya A. vs Mboko V." tvg-name="12:30 WTA - HONG KONG : Kalinskaya A. vs Mboko V. - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Hong Kong", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1501
+
+#EXTINF:-1 tvg-id="WTA - HONG KONG - Cirstea S. vs Fernandez L." tvg-name="14:00 WTA - HONG KONG : Cirstea S. vs Fernandez L. - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Hong Kong", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1524
+
+#EXTINF:-1 tvg-id="WTA - HONG KONG - Cirstea S. vs Fernandez L." tvg-name="14:00 WTA - HONG KONG : Cirstea S. vs Fernandez L. - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Hong Kong", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1501
+
+#EXTINF:-1 tvg-id="WTA - CHENNAI - Rodionova Ar. vs Garland J." tvg-name="12:30 WTA - CHENNAI : Rodionova Ar. vs Garland J. - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Chennai", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1502
+
+#EXTINF:-1 tvg-id="WTA - CHENNAI - Tjen J. vs Pohankova M." tvg-name="14:00 WTA - CHENNAI : Tjen J. vs Pohankova M. - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Chennai", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1502
+
+#EXTINF:-1 tvg-id="WTA - CHENNAI - Birrell K. vs Vekic D." tvg-name="15:30 WTA - CHENNAI : Birrell K. vs Vekic D. - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Chennai", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1502
+
+#EXTINF:-1 tvg-id="WTA - CHENNAI - Tararudee L. vs latcenko P." tvg-name="17:00 WTA - CHENNAI : Tararudee L. vs latcenko P. - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Chennai", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1502
+
+#EXTINF:-1 tvg-id="WTA - JIUJIANG - Tagger L. vs Korpatsch T." tvg-name="05:00 WTA - JIUJIANG : Tagger L. vs Korpatsch T. - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Jiujiang", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1504
+
+#EXTINF:-1 tvg-id="WTA - JIUJIANG - Putintseva Y. vs Golubic V." tvg-name="06:30 WTA - JIUJIANG : Putintseva Y. vs Golubic V. - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Jiujiang", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1504
+
+#EXTINF:-1 tvg-id="WTA - JIUJIANG - Bai Z. vs Salkova D." tvg-name="08:30 WTA - JIUJIANG : Bai Z. vs Salkova D. - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Jiujiang", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1504
+
+#EXTINF:-1 tvg-id="WTA - JIUJIANG - Parks A. vs Blinkova A." tvg-name="11:00 WTA - JIUJIANG : Parks A. vs Blinkova A. - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Jiujiang", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1504
+
+#EXTINF:-1 tvg-id="Paris-ATP, Jiujiang-WTA, Hong Kong-WTA &amp; Chennai-WTA Early Rounds - Paris-ATP, Jiujiang-WTA, Hong Kong-WTA &amp; Chennai-WTA Early Rounds" tvg-name="08:00 Paris-ATP, Jiujiang-WTA, Hong Kong-WTA &amp; Chennai-WTA Early Rounds - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=40
+
+#EXTINF:-1 tvg-id="Paris-ATP, Jiujiang-WTA, Hong Kong-WTA &amp; Chennai-WTA Early Rounds - Paris-ATP, Jiujiang-WTA, Hong Kong-WTA &amp; Chennai-WTA Early Rounds" tvg-name="08:00 Paris-ATP, Jiujiang-WTA, Hong Kong-WTA &amp; Chennai-WTA Early Rounds - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports+
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=36
+
+#EXTINF:-1 tvg-id="Paris-ATP, Jiujiang-WTA, Hong Kong-WTA &amp; Chennai-WTA Early Rounds - Paris-ATP, Jiujiang-WTA, Hong Kong-WTA &amp; Chennai-WTA Early Rounds" tvg-name="08:00 Paris-ATP, Jiujiang-WTA, Hong Kong-WTA &amp; Chennai-WTA Early Rounds - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 2 France
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=117
+
+#EXTINF:-1 tvg-id="Paris-ATP, Jiujiang-WTA, Hong Kong-WTA &amp; Chennai-WTA Early Rounds - Paris-ATP, Jiujiang-WTA, Hong Kong-WTA &amp; Chennai-WTA Early Rounds" tvg-name="08:00 Paris-ATP, Jiujiang-WTA, Hong Kong-WTA &amp; Chennai-WTA Early Rounds - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis UK
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=46
+
+#EXTINF:-1 tvg-id="Paris-ATP, Jiujiang-WTA, Hong Kong-WTA &amp; Chennai-WTA Early Rounds - Paris-ATP, Jiujiang-WTA, Hong Kong-WTA &amp; Chennai-WTA Early Rounds" tvg-name="08:00 Paris-ATP, Jiujiang-WTA, Hong Kong-WTA &amp; Chennai-WTA Early Rounds - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis DE
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=884
+
+#EXTINF:-1 tvg-id="Paris-ATP, Jiujiang-WTA, Hong Kong-WTA &amp; Chennai-WTA Early Rounds - Paris-ATP, Jiujiang-WTA, Hong Kong-WTA &amp; Chennai-WTA Early Rounds" tvg-name="08:00 Paris-ATP, Jiujiang-WTA, Hong Kong-WTA &amp; Chennai-WTA Early Rounds - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sport Tennis Italy
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=576
+
+#EXTINF:-1 tvg-id="Paris-ATP, Jiujiang-WTA, Hong Kong-WTA &amp; Chennai-WTA Early Rounds - Paris-ATP, Jiujiang-WTA, Hong Kong-WTA &amp; Chennai-WTA Early Rounds" tvg-name="08:00 Paris-ATP, Jiujiang-WTA, Hong Kong-WTA &amp; Chennai-WTA Early Rounds - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TV4 Tennis
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=701
+
+#EXTINF:-1 tvg-id="Paris-ATP, Jiujiang-WTA, Hong Kong-WTA &amp; Chennai-WTA Early Rounds - Paris-ATP, Jiujiang-WTA, Hong Kong-WTA &amp; Chennai-WTA Early Rounds" tvg-name="08:00 Paris-ATP, Jiujiang-WTA, Hong Kong-WTA &amp; Chennai-WTA Early Rounds - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Arena Tennis
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=612
+
+#EXTINF:-1 tvg-id="Paris-ATP, Jiujiang-WTA, Hong Kong-WTA &amp; Chennai-WTA Early Rounds - Paris-ATP, Jiujiang-WTA, Hong Kong-WTA &amp; Chennai-WTA Early Rounds" tvg-name="08:00 Paris-ATP, Jiujiang-WTA, Hong Kong-WTA &amp; Chennai-WTA Early Rounds - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 2 Croatia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=102
+
+#EXTINF:-1 tvg-id="Paris-ATP, Jiujiang-WTA, Hong Kong-WTA &amp; Chennai-WTA Early Rounds - Paris-ATP, Jiujiang-WTA, Hong Kong-WTA &amp; Chennai-WTA Early Rounds" tvg-name="08:00 Paris-ATP, Jiujiang-WTA, Hong Kong-WTA &amp; Chennai-WTA Early Rounds - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", MAX Sport 1 Bulgaria
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=472
+
+#EXTINF:-1 tvg-id="Paris-ATP, Jiujiang-WTA, Hong Kong-WTA &amp; Chennai-WTA Early Rounds - Paris-ATP, Jiujiang-WTA, Hong Kong-WTA &amp; Chennai-WTA Early Rounds" tvg-name="08:00 Paris-ATP, Jiujiang-WTA, Hong Kong-WTA &amp; Chennai-WTA Early Rounds - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 3 NL
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=919
+
+#EXTINF:-1 tvg-id="Paris-ATP, Jiujiang-WTA, Hong Kong-WTA &amp; Chennai-WTA Early Rounds - Paris-ATP, Jiujiang-WTA, Hong Kong-WTA &amp; Chennai-WTA Early Rounds" tvg-name="08:00 Paris-ATP, Jiujiang-WTA, Hong Kong-WTA &amp; Chennai-WTA Early Rounds - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 1 NL
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=393
+
+#EXTINF:-1 tvg-id="Paris-ATP, Jiujiang-WTA, Hong Kong-WTA &amp; Chennai-WTA Early Rounds - Paris-ATP, Jiujiang-WTA, Hong Kong-WTA &amp; Chennai-WTA Early Rounds" tvg-name="08:00 Paris-ATP, Jiujiang-WTA, Hong Kong-WTA &amp; Chennai-WTA Early Rounds - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS Australia 1
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=491
+
+#EXTINF:-1 tvg-id="Paris-ATP, Jiujiang-WTA, Hong Kong-WTA &amp; Chennai-WTA Early Rounds - Paris-ATP, Jiujiang-WTA, Hong Kong-WTA &amp; Chennai-WTA Early Rounds" tvg-name="08:00 Paris-ATP, Jiujiang-WTA, Hong Kong-WTA &amp; Chennai-WTA Early Rounds - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS Australia 2
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=492
+
+#EXTINF:-1 tvg-id="Paris-ATP, Jiujiang-WTA, Hong Kong-WTA &amp; Chennai-WTA Early Rounds - Paris-ATP, Jiujiang-WTA, Hong Kong-WTA &amp; Chennai-WTA Early Rounds" tvg-name="08:00 Paris-ATP, Jiujiang-WTA, Hong Kong-WTA &amp; Chennai-WTA Early Rounds - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 4 NL
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=396
+
+#EXTINF:-1 tvg-id="Paris-ATP, Jiujiang-WTA, Hong Kong-WTA &amp; Chennai-WTA Early Rounds - Paris-ATP, Jiujiang-WTA, Hong Kong-WTA &amp; Chennai-WTA Early Rounds" tvg-name="08:00 Paris-ATP, Jiujiang-WTA, Hong Kong-WTA &amp; Chennai-WTA Early Rounds - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub HD Croatia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=453
+
+#EXTINF:-1 tvg-id="Paris-ATP, Jiujiang-WTA, Hong Kong-WTA &amp; Chennai-WTA Early Rounds - Paris-ATP, Jiujiang-WTA, Hong Kong-WTA &amp; Chennai-WTA Early Rounds" tvg-name="08:00 Paris-ATP, Jiujiang-WTA, Hong Kong-WTA &amp; Chennai-WTA Early Rounds - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 2 Malaysia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=713
+
+#EXTINF:-1 tvg-id="NASCAR Craftsman Truck Series Championship, Qualifying - NASCAR Craftsman Truck Series Championship, Qualifying" tvg-name="21:30 NASCAR Craftsman Truck Series Championship, Qualifying - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport (Nascar)", Fox Sports 2 USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=758
+
+#EXTINF:-1 tvg-id="NASCAR Cup Series Championship - NASCAR Cup Series | Practice - NASCAR Cup Series Championship - NASCAR Cup Series | Practice" tvg-name="01:00 NASCAR Cup Series Championship - NASCAR Cup Series | Practice - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport (Nascar)", TruTV USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=341
+
+#EXTINF:-1 tvg-id="NASCAR Craftsman Truck Series Championship Race - NASCAR Craftsman Truck Series Championship Race" tvg-name="01:30 NASCAR Craftsman Truck Series Championship Race - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport (Nascar)", Fox Sports 1 USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=758
+
+#EXTINF:-1 tvg-id="NASCAR Craftsman Truck Series Championship Race - NASCAR Craftsman Truck Series Championship Race" tvg-name="01:30 NASCAR Craftsman Truck Series Championship Race - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport (Nascar)", Sport TV4 Portugal
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=289
+
+#EXTINF:-1 tvg-id="NASCAR Craftsman Truck Series Championship Race - NASCAR Craftsman Truck Series Championship Race" tvg-name="01:30 NASCAR Craftsman Truck Series Championship Race - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport (Nascar)", Ziggo Sport 3 NL
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=919
+
+#EXTINF:-1 tvg-id="Boxe Internacional - Ivan Actis x Ariel Lopez" tvg-name="02:00 Boxe Internacional : Ivan Actis x Ariel Lopez - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Boxe", ESPN Deportes
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=375
+
+#EXTINF:-1 tvg-id="Boxe Internacional - Ivan Actis x Ariel Lopez" tvg-name="02:00 Boxe Internacional : Ivan Actis x Ariel Lopez - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Boxe", ESPN2 BR
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=82
+
+#EXTINF:-1 tvg-id="ONE Friday Fights 131 - ONE Friday Fights 131" tvg-name="14:30 ONE Friday Fights 131 - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma", PPV Feed
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=68
+
+#EXTINF:-1 tvg-id="ONE Friday Fights 131 - ONE Friday Fights 131" tvg-name="14:30 ONE Friday Fights 131 - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma", beIN Sports USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=425
+
+#EXTINF:-1 tvg-id="ONE Friday Fights 131 - ONE Friday Fights 131" tvg-name="14:30 ONE Friday Fights 131 - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma", Match TV Russia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=127
+
+#EXTINF:-1 tvg-id="ONE Friday Fights 131 - ONE Friday Fights 131" tvg-name="14:30 ONE Friday Fights 131 - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma", Match Box Russia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=395
+
+#EXTINF:-1 tvg-id="ONE Friday Fights 131 - ONE Friday Fights 131" tvg-name="14:30 ONE Friday Fights 131 - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma", Astro Grandstand
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=123
+
+#EXTINF:-1 tvg-id="ONE Friday Fights 131 - ONE Friday Fights 131" tvg-name="14:30 ONE Friday Fights 131 - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma", Nova Sports Prime Greece
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=638
+
+#EXTINF:-1 tvg-id="ONE Friday Fights 131 - ONE Friday Fights 131" tvg-name="14:30 ONE Friday Fights 131 - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma", RMC Sport 2 France
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=120
+
+#EXTINF:-1 tvg-id="ONE Friday Fights 131 - ONE Friday Fights 131" tvg-name="14:30 ONE Friday Fights 131 - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma", Oneplay Sport 1 CZ
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1027
+
+#EXTINF:-1 tvg-id="ONE Friday Fights 131 - ONE Friday Fights 131" tvg-name="14:30 ONE Friday Fights 131 - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma", beIN SPORTS English 1
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=61
+
+#EXTINF:-1 tvg-id="ONE Friday Fights 131 - ONE Friday Fights 131" tvg-name="14:30 ONE Friday Fights 131 - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma", beIN SPORTS 1
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=91
+
+#EXTINF:-1 tvg-id="ONE Friday Fights 131 - ONE Friday Fights 131" tvg-name="14:30 ONE Friday Fights 131 - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma", Bandsports Brasil
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=275
+
+#EXTINF:-1 tvg-id="WWE Friday Night SmackDown - WWE Friday Night SmackDown" tvg-name="02:00 WWE Friday Night SmackDown - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe Smackdown", USA Network
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=343
+
+#EXTINF:-1 tvg-id="WWE Friday Night SmackDown - WWE Friday Night SmackDown" tvg-name="02:00 WWE Friday Night SmackDown - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe Smackdown", Sport 5 PLUS Israel
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=145
+
+#EXTINF:-1 tvg-id="NCAAF - Brown at Penn" tvg-name="01:00 NCAAF : Brown at Penn - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPNU USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=316
+
+#EXTINF:-1 tvg-id="NCAAF - Memphis vs Rice" tvg-name="01:00 NCAAF : Memphis vs Rice - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN2 USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=45
+
+#EXTINF:-1 tvg-id="NCAAF - North Carolina vs Syracuse" tvg-name="01:30 NCAAF : North Carolina vs Syracuse - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=44
+
+#EXTINF:-1 tvg-id="NCAAF - North Carolina vs Syracuse" tvg-name="01:30 NCAAF : North Carolina vs Syracuse - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", TSN2
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=112
+
+#EXTINF:-1 tvg-id="NCAAF - North Carolina vs Syracuse" tvg-name="01:30 NCAAF : North Carolina vs Syracuse - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", Sportklub 1 Croatia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=101
+
+#EXTINF:-1 tvg-id="NCAAF - Sam Houston vs Louisiana Tech" tvg-name="02:00 NCAAF : Sam Houston vs Louisiana Tech - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", CBSSN
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=308
+
+#EXTINF:-1 tvg-id="NCAAF - Northern Arizona vs Idaho" tvg-name="04:30 NCAAF : Northern Arizona vs Idaho - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN2 USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=45
+
+#EXTINF:-1 tvg-id="AFL Women - Hawthorn Hawks W vs North Melbourne Kangaroos W" tvg-name="10:15 AFL Women : Hawthorn Hawks W vs North Melbourne Kangaroos W - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Football Australiano", FOX Sports 2 USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=758
+
+#EXTINF:-1 tvg-id="AFL Women - Hawthorn Hawks W vs North Melbourne Kangaroos W" tvg-name="10:15 AFL Women : Hawthorn Hawks W vs North Melbourne Kangaroos W - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Football Australiano", Sky Sport 6 NZ
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=593
+
+#EXTINF:-1 tvg-id="AFL Women - West Coast Eagles (W) vs Carlton Blues (W)" tvg-name="12:15 AFL Women : West Coast Eagles (W) vs Carlton Blues (W) - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Football Australiano", FOX Sports 2 USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=758
+
+#EXTINF:-1 tvg-id="AFL Women - Greater Western Sydney W vs Port Adelaide W" tvg-name="04:00 AFL Women : Greater Western Sydney W vs Port Adelaide W - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Football Australiano", FOX Sports 2 USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=758
+
+#EXTINF:-1 tvg-id="AFL Women - Greater Western Sydney W vs Port Adelaide W" tvg-name="04:00 AFL Women : Greater Western Sydney W vs Port Adelaide W - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Football Australiano", Sky Sport 9 NZ
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=596
+
+#EXTINF:-1 tvg-id="MLB - Los Angeles Dodgers vs Toronto Blue Jays" tvg-name="02:00 MLB : Los Angeles Dodgers vs Toronto Blue Jays - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", MLB League Pass
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=2
+
+#EXTINF:-1 tvg-id="MLB - Los Angeles Dodgers vs Toronto Blue Jays" tvg-name="02:00 MLB : Los Angeles Dodgers vs Toronto Blue Jays - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", TNT Sports 2 UK
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=32
+
+#EXTINF:-1 tvg-id="MLB - Los Angeles Dodgers vs Toronto Blue Jays" tvg-name="02:00 MLB : Los Angeles Dodgers vs Toronto Blue Jays - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", FOX USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=54
+
+#EXTINF:-1 tvg-id="MLB - Los Angeles Dodgers vs Toronto Blue Jays" tvg-name="02:00 MLB : Los Angeles Dodgers vs Toronto Blue Jays - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", FOXNY USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=768
+
+#EXTINF:-1 tvg-id="MLB - Los Angeles Dodgers vs Toronto Blue Jays" tvg-name="02:00 MLB : Los Angeles Dodgers vs Toronto Blue Jays - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", Sportsnet Ontario
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=406
+
+#EXTINF:-1 tvg-id="MLB - Los Angeles Dodgers vs Toronto Blue Jays" tvg-name="02:00 MLB : Los Angeles Dodgers vs Toronto Blue Jays - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", Sportsnet West
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=407
+
+#EXTINF:-1 tvg-id="MLB - Los Angeles Dodgers vs Toronto Blue Jays" tvg-name="02:00 MLB : Los Angeles Dodgers vs Toronto Blue Jays - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", Sportsnet East
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=408
+
+#EXTINF:-1 tvg-id="MLB - Los Angeles Dodgers vs Toronto Blue Jays" tvg-name="02:00 MLB : Los Angeles Dodgers vs Toronto Blue Jays - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", Movistar Deportes Spain
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=436
+
+#EXTINF:-1 tvg-id="MLB - Los Angeles Dodgers vs Toronto Blue Jays" tvg-name="02:00 MLB : Los Angeles Dodgers vs Toronto Blue Jays - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", beIN Sports 3 France
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=118
+
+#EXTINF:-1 tvg-id="MLB - Los Angeles Dodgers vs Toronto Blue Jays" tvg-name="02:00 MLB : Los Angeles Dodgers vs Toronto Blue Jays - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", Fox Deportes
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=643
+
+#EXTINF:-1 tvg-id="MLB - Los Angeles Dodgers vs Toronto Blue Jays" tvg-name="02:00 MLB : Los Angeles Dodgers vs Toronto Blue Jays - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", ESPN 1 NL
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=379
+
+#EXTINF:-1 tvg-id="MLB - Los Angeles Dodgers vs Toronto Blue Jays" tvg-name="02:00 MLB : Los Angeles Dodgers vs Toronto Blue Jays - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", Arena Sport 1 Croatia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=432
+
+#EXTINF:-1 tvg-id="MLB - Los Angeles Dodgers vs Toronto Blue Jays" tvg-name="02:00 MLB : Los Angeles Dodgers vs Toronto Blue Jays - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", ESPN2 Argentina
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=150
+
+#EXTINF:-1 tvg-id="MLB - Los Angeles Dodgers vs Toronto Blue Jays" tvg-name="02:00 MLB : Los Angeles Dodgers vs Toronto Blue Jays - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", Sport 2 Israel
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=141
+
+#EXTINF:-1 tvg-id="Women's Rapid League - Hoiho vs Pouakai" tvg-name="07:30 Women's Rapid League : Hoiho vs Pouakai - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sky Sport 2 NZ
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=589
+
+#EXTINF:-1 tvg-id="NBL - Illawarra Hawks vs New Zealand Breakers" tvg-name="10:30 NBL : Illawarra Hawks vs New Zealand Breakers - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", NBA TV USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=404
+
+#EXTINF:-1 tvg-id="Super League - Nes Ziona vs Hapoel Holon" tvg-name="13:00 Super League : Nes Ziona vs Hapoel Holon - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport 5 Plus Israel
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=145
+
+#EXTINF:-1 tvg-id="Süper Ligi - Esenler Erokspor vs Tofas" tvg-name="18:00 Süper Ligi : Esenler Erokspor vs Tofas - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", beIN SPORTS 5 Turkey
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1010
+
+#EXTINF:-1 tvg-id="Süper Ligi - Esenler Erokspor vs Tofas" tvg-name="18:00 Süper Ligi : Esenler Erokspor vs Tofas - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Arena Sport 3 Serbia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=431
+
+#EXTINF:-1 tvg-id="ABA League - Mega Soccerbet vs Ilirija" tvg-name="19:00 ABA League : Mega Soccerbet vs Ilirija - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Arena Sport 2 Serbia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=430
+
+#EXTINF:-1 tvg-id="ABA League - Mega Soccerbet vs Ilirija" tvg-name="19:00 ABA League : Mega Soccerbet vs Ilirija - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Arena Sport 4 Croatia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=580
+
+#EXTINF:-1 tvg-id="Euroleague - Monaco vs Panathinaikos" tvg-name="20:00 Euroleague : Monaco vs Panathinaikos - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Magenta Sport 309
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=12
+
+#EXTINF:-1 tvg-id="Euroleague - Monaco vs Panathinaikos" tvg-name="20:00 Euroleague : Monaco vs Panathinaikos - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Movistar Deportes 4 Spain
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=527
+
+#EXTINF:-1 tvg-id="Euroleague - Monaco vs Panathinaikos" tvg-name="20:00 Euroleague : Monaco vs Panathinaikos - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport TV4 Portugal
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=289
+
+#EXTINF:-1 tvg-id="Euroleague - Monaco vs Panathinaikos" tvg-name="20:00 Euroleague : Monaco vs Panathinaikos - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Arena 2 Premium Serbia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=135
+
+#EXTINF:-1 tvg-id="Euroleague - Monaco vs Panathinaikos" tvg-name="20:00 Euroleague : Monaco vs Panathinaikos - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Nova Sports 4 Greece
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=634
+
+#EXTINF:-1 tvg-id="Euroleague - Monaco vs Panathinaikos" tvg-name="20:00 Euroleague : Monaco vs Panathinaikos - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Polsat Sport Extra 3 Poland
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=110
+
+#EXTINF:-1 tvg-id="Euroleague - Monaco vs Panathinaikos" tvg-name="20:00 Euroleague : Monaco vs Panathinaikos - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sportklub 1 Croatia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=101
+
+#EXTINF:-1 tvg-id="Euroleague - Monaco vs Panathinaikos" tvg-name="20:00 Euroleague : Monaco vs Panathinaikos - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport 5 Live Israel
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=146
+
+#EXTINF:-1 tvg-id="Euroleague - Olympiakos vs Hapoel Tel-Aviv" tvg-name="21:15 Euroleague : Olympiakos vs Hapoel Tel-Aviv - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Magenta Sport 310
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=13
+
+#EXTINF:-1 tvg-id="Euroleague - Olympiakos vs Hapoel Tel-Aviv" tvg-name="21:15 Euroleague : Olympiakos vs Hapoel Tel-Aviv - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Movistar Deportes 5 Spain
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=69
+
+#EXTINF:-1 tvg-id="Euroleague - Olympiakos vs Hapoel Tel-Aviv" tvg-name="21:15 Euroleague : Olympiakos vs Hapoel Tel-Aviv - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Nova Sports Prime Greece
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=638
+
+#EXTINF:-1 tvg-id="Euroleague - Olympiakos vs Hapoel Tel-Aviv" tvg-name="21:15 Euroleague : Olympiakos vs Hapoel Tel-Aviv - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Arena 5 Premium Serbia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=105
+
+#EXTINF:-1 tvg-id="Euroleague - Olympiakos vs Hapoel Tel-Aviv" tvg-name="21:15 Euroleague : Olympiakos vs Hapoel Tel-Aviv - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", MAX Sport 3 Bulgaria
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=474
+
+#EXTINF:-1 tvg-id="Euroleague - Olympiakos vs Hapoel Tel-Aviv" tvg-name="21:15 Euroleague : Olympiakos vs Hapoel Tel-Aviv - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport 5 Israel
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=144
+
+#EXTINF:-1 tvg-id="Polish Basketball League - Krosno vs Gornik Walbrzych" tvg-name="21:15 Polish Basketball League : Krosno vs Gornik Walbrzych - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Polsat Sport 3 Poland
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=129
+
+#EXTINF:-1 tvg-id="Euroleague - Baskonia vs Anadolu Efes" tvg-name="21:30 Euroleague : Baskonia vs Anadolu Efes - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Magenta Sport 311
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=14
+
+#EXTINF:-1 tvg-id="Euroleague - Baskonia vs Anadolu Efes" tvg-name="21:30 Euroleague : Baskonia vs Anadolu Efes - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Movistar Deportes Spain
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=436
+
+#EXTINF:-1 tvg-id="Euroleague - Baskonia vs Anadolu Efes" tvg-name="21:30 Euroleague : Baskonia vs Anadolu Efes - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Arena 4 Premium Serbia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=106
+
+#EXTINF:-1 tvg-id="Euroleague - Baskonia vs Anadolu Efes" tvg-name="21:30 Euroleague : Baskonia vs Anadolu Efes - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Polsat Sport Premium 2 Poland
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=16
+
+#EXTINF:-1 tvg-id="Euroleague - Baskonia vs Anadolu Efes" tvg-name="21:30 Euroleague : Baskonia vs Anadolu Efes - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Nova Sports Start Greece
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=637
+
+#EXTINF:-1 tvg-id="Euroleague - Baskonia vs Anadolu Efes" tvg-name="21:30 Euroleague : Baskonia vs Anadolu Efes - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sportklub 4 Croatia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=104
+
+#EXTINF:-1 tvg-id="Euroleague - Baskonia vs Anadolu Efes" tvg-name="21:30 Euroleague : Baskonia vs Anadolu Efes - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport 5 Live Israel
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=146
+
+#EXTINF:-1 tvg-id="Euroleague - Partizan vs Barcelona" tvg-name="21:30 Euroleague : Partizan vs Barcelona - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Magenta Sport 318
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=15
+
+#EXTINF:-1 tvg-id="Euroleague - Partizan vs Barcelona" tvg-name="21:30 Euroleague : Partizan vs Barcelona - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Oneplay Sport 1 CZ
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1027
+
+#EXTINF:-1 tvg-id="Euroleague - Partizan vs Barcelona" tvg-name="21:30 Euroleague : Partizan vs Barcelona - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Movistar Deportes 3 Spain
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=526
+
+#EXTINF:-1 tvg-id="Euroleague - Partizan vs Barcelona" tvg-name="21:30 Euroleague : Partizan vs Barcelona - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Arena 1 Premium Serbia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=134
+
+#EXTINF:-1 tvg-id="Euroleague - Partizan vs Barcelona" tvg-name="21:30 Euroleague : Partizan vs Barcelona - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", MAX Sport 2 Bulgaria
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=473
+
+#EXTINF:-1 tvg-id="Euroleague - Partizan vs Barcelona" tvg-name="21:30 Euroleague : Partizan vs Barcelona - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Nova Sports 6 Greece
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=636
+
+#EXTINF:-1 tvg-id="Euroleague - Partizan vs Barcelona" tvg-name="21:30 Euroleague : Partizan vs Barcelona - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sportklub HD Croatia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=453
+
+#EXTINF:-1 tvg-id="Euroleague - Partizan vs Barcelona" tvg-name="21:30 Euroleague : Partizan vs Barcelona - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport 5 Plus Israel
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=145
+
+#EXTINF:-1 tvg-id="LNB - Saint Quentin vs Nanterre" tvg-name="21:30 LNB : Saint Quentin vs Nanterre - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Arena Sport 7 Serbia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=942
+
+#EXTINF:-1 tvg-id="NBB - Flamengo vs Corinthians Paulista" tvg-name="00:45 NBB : Flamengo vs Corinthians Paulista - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", ESPN2 BR
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=82
+
+#EXTINF:-1 tvg-id="Women's Rapid League - Whai vs Queens" tvg-name="03:00 Women's Rapid League : Whai vs Queens - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sky Sport 3 NZ
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=590
+
+#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs Atlanta Hawks" tvg-name="01:00 NBA : Indiana Pacers vs Atlanta Hawks - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", NBA League Pass
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=3
+
+#EXTINF:-1 tvg-id="NBA - Philadelphia 76ers vs Boston Celtics" tvg-name="01:00 NBA : Philadelphia 76ers vs Boston Celtics - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", NBA League Pass
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=4
+
+#EXTINF:-1 tvg-id="NBA - Cleveland Cavaliers vs Toronto Raptors" tvg-name="01:30 NBA : Cleveland Cavaliers vs Toronto Raptors - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", NBA League Pass
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=5
+
+#EXTINF:-1 tvg-id="NBA - Cleveland Cavaliers vs Toronto Raptors" tvg-name="01:30 NBA : Cleveland Cavaliers vs Toronto Raptors - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", TSN4
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=114
+
+#EXTINF:-1 tvg-id="NBA - Cleveland Cavaliers vs Toronto Raptors" tvg-name="01:30 NBA : Cleveland Cavaliers vs Toronto Raptors - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", RDS 2
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=840
+
+#EXTINF:-1 tvg-id="NBA - Cleveland Cavaliers vs Toronto Raptors" tvg-name="01:30 NBA : Cleveland Cavaliers vs Toronto Raptors - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", TSN1
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=111
+
+#EXTINF:-1 tvg-id="NBA - Cleveland Cavaliers vs Toronto Raptors" tvg-name="01:30 NBA : Cleveland Cavaliers vs Toronto Raptors - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", TSN3
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=113
+
+#EXTINF:-1 tvg-id="NBA - Cleveland Cavaliers vs Toronto Raptors" tvg-name="01:30 NBA : Cleveland Cavaliers vs Toronto Raptors - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", TSN5
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=115
+
+#EXTINF:-1 tvg-id="NBA - Chicago Bulls vs New York Knicks" tvg-name="02:00 NBA : Chicago Bulls vs New York Knicks - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", NBA League Pass
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=6
+
+#EXTINF:-1 tvg-id="NBA - Chicago Bulls vs New York Knicks" tvg-name="02:00 NBA : Chicago Bulls vs New York Knicks - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", MSG USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=765
+
+#EXTINF:-1 tvg-id="NBA - Chicago Bulls vs New York Knicks" tvg-name="02:00 NBA : Chicago Bulls vs New York Knicks - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Chicago Sports Network
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=776
+
+#EXTINF:-1 tvg-id="NBA - Memphis Grizzlies vs Los Angeles Lakers" tvg-name="03:30 NBA : Memphis Grizzlies vs Los Angeles Lakers - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", NBA League Pass
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=7
+
+#EXTINF:-1 tvg-id="NBA - Memphis Grizzlies vs Los Angeles Lakers" tvg-name="03:30 NBA : Memphis Grizzlies vs Los Angeles Lakers - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Spectrum SportsNet USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=982
+
+#EXTINF:-1 tvg-id="NBA - Phoenix Suns vs Utah Jazz" tvg-name="04:00 NBA : Phoenix Suns vs Utah Jazz - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", NBA League Pass
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=8
+
+#EXTINF:-1 tvg-id="NBA - Portland Trail Blazers vs Denver Nuggets" tvg-name="04:00 NBA : Portland Trail Blazers vs Denver Nuggets - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", NBA League Pass
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=9
+
+#EXTINF:-1 tvg-id="NBA - Portland Trail Blazers vs Denver Nuggets" tvg-name="04:00 NBA : Portland Trail Blazers vs Denver Nuggets - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Altitude USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=923
+
+#EXTINF:-1 tvg-id="NBA - Los Angeles Clippers vs New Orleans Pelicans" tvg-name="04:30 NBA : Los Angeles Clippers vs New Orleans Pelicans - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", NBA League Pass
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=10
+
+#EXTINF:-1 tvg-id="Bowls Premier League Cup Final - Bowls Premier League Cup Final" tvg-name="05:00 Bowls Premier League Cup Final - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Bowling", Sky Sport 2 NZ
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=589
+
+#EXTINF:-1 tvg-id="Bowls Premier League 22 - Night 4 - Bowls Premier League 22 - Night 4" tvg-name="08:00 Bowls Premier League 22 - Night 4 - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Bowling", Sky Sport 4 NZ
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=591
+
+#EXTINF:-1 tvg-id="Liga SportZone - Ferreira do Zezere vs Electrico" tvg-name="22:30 Liga SportZone : Ferreira do Zezere vs Electrico - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Futsal", Canal 11 Portugal
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=540
+
+#EXTINF:-1 tvg-id="NHL - Colorado Avalanche vs Vegas Golden Knights" tvg-name="22:00 NHL : Colorado Avalanche vs Vegas Golden Knights - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", NHL Gamecenter
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=26
+
+#EXTINF:-1 tvg-id="NHL - Colorado Avalanche vs Vegas Golden Knights" tvg-name="22:00 NHL : Colorado Avalanche vs Vegas Golden Knights - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", Altitude USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=923
+
+#EXTINF:-1 tvg-id="NHL - Colorado Avalanche vs Vegas Golden Knights" tvg-name="22:00 NHL : Colorado Avalanche vs Vegas Golden Knights - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", Sportsnet Ontario
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=406
+
+#EXTINF:-1 tvg-id="NHL - Colorado Avalanche vs Vegas Golden Knights" tvg-name="22:00 NHL : Colorado Avalanche vs Vegas Golden Knights - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", Sportsnet One
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=411
+
+#EXTINF:-1 tvg-id="NHL - Colorado Avalanche vs Vegas Golden Knights" tvg-name="22:00 NHL : Colorado Avalanche vs Vegas Golden Knights - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", Sportsnet East
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=408
+
+#EXTINF:-1 tvg-id="NHL - Colorado Avalanche vs Vegas Golden Knights" tvg-name="22:00 NHL : Colorado Avalanche vs Vegas Golden Knights - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", Arena Sport 2 Croatia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=433
+
+#EXTINF:-1 tvg-id="NHL - Colorado Avalanche vs Vegas Golden Knights" tvg-name="22:00 NHL : Colorado Avalanche vs Vegas Golden Knights - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", Arena Sport 6 Serbia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=941
+
+#EXTINF:-1 tvg-id="NHL - Colorado Avalanche vs Vegas Golden Knights" tvg-name="22:00 NHL : Colorado Avalanche vs Vegas Golden Knights - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", Sport TV4 Portugal
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=289
+
+#EXTINF:-1 tvg-id="NHL - Colorado Avalanche vs Vegas Golden Knights" tvg-name="22:00 NHL : Colorado Avalanche vs Vegas Golden Knights - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", V Sport Vinter
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=24
+
+#EXTINF:-1 tvg-id="NHL - Colorado Avalanche vs Vegas Golden Knights" tvg-name="22:00 NHL : Colorado Avalanche vs Vegas Golden Knights - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", Sport 5 Stars Israel
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=147
+
+#EXTINF:-1 tvg-id="NHL - New York Islanders vs Washington Capitals" tvg-name="01:00 NHL : New York Islanders vs Washington Capitals - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", NHL Gamecenter
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=11
+
+#EXTINF:-1 tvg-id="NHL - New York Islanders vs Washington Capitals" tvg-name="01:00 NHL : New York Islanders vs Washington Capitals - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", Viaplay Sports 1 UK
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=451
+
+#EXTINF:-1 tvg-id="NHL - New York Islanders vs Washington Capitals" tvg-name="01:00 NHL : New York Islanders vs Washington Capitals - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", NHL Network USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=663
+
+#EXTINF:-1 tvg-id="NHL - New York Islanders vs Washington Capitals" tvg-name="01:00 NHL : New York Islanders vs Washington Capitals - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", TVA Sports
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=833
+
+#EXTINF:-1 tvg-id="NHL - New York Islanders vs Washington Capitals" tvg-name="01:00 NHL : New York Islanders vs Washington Capitals - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", Sportsnet One
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=411
+
+#EXTINF:-1 tvg-id="NHL - New York Islanders vs Washington Capitals" tvg-name="01:00 NHL : New York Islanders vs Washington Capitals - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", Nova Sport 1 CZ
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1021
+
+#EXTINF:-1 tvg-id="NHL - New York Islanders vs Washington Capitals" tvg-name="01:00 NHL : New York Islanders vs Washington Capitals - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", Monumental Sports Network
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=778
+
+#EXTINF:-1 tvg-id="NHL - New York Islanders vs Washington Capitals" tvg-name="01:00 NHL : New York Islanders vs Washington Capitals - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", Sportsnet 360
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=409
+
+#EXTINF:-1 tvg-id="NHL - New York Islanders vs Washington Capitals" tvg-name="01:00 NHL : New York Islanders vs Washington Capitals - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", Sky Sport Mix DE
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=557
+
+#EXTINF:-1 tvg-id="NHL - New York Islanders vs Washington Capitals" tvg-name="01:00 NHL : New York Islanders vs Washington Capitals - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", Sky Sport Top Event DE
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=556
+
+#EXTINF:-1 tvg-id="NHL - New York Islanders vs Washington Capitals" tvg-name="01:00 NHL : New York Islanders vs Washington Capitals - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", TV3 Sport Denmark
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=809
+
+#EXTINF:-1 tvg-id="NHL - New York Islanders vs Washington Capitals" tvg-name="01:00 NHL : New York Islanders vs Washington Capitals - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", V Sport Vinter
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=24
+
+#EXTINF:-1 tvg-id="NHL - New York Islanders vs Washington Capitals" tvg-name="01:00 NHL : New York Islanders vs Washington Capitals - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", Sport 5 Israel
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=144
+
+#EXTINF:-1 tvg-id="NHL - Detroit Red Wings vs Anaheim Ducks" tvg-name="04:00 NHL : Detroit Red Wings vs Anaheim Ducks - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", NHL Gamecenter
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=12
+
+#EXTINF:-1 tvg-id="NHL - Detroit Red Wings vs Anaheim Ducks" tvg-name="04:00 NHL : Detroit Red Wings vs Anaheim Ducks - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", Sportsnet One
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=411
+
+#EXTINF:-1 tvg-id="NHL - Detroit Red Wings vs Anaheim Ducks" tvg-name="04:00 NHL : Detroit Red Wings vs Anaheim Ducks - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", Max Sport 2 Bulgaria
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=473
+
+#EXTINF:-1 tvg-id="NHL - Detroit Red Wings vs Anaheim Ducks" tvg-name="04:00 NHL : Detroit Red Wings vs Anaheim Ducks - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", V Sport Vinter
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=24
+
+#EXTINF:-1 tvg-id="NHL - Detroit Red Wings vs Anaheim Ducks" tvg-name="04:00 NHL : Detroit Red Wings vs Anaheim Ducks - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", Sport 5 Live Israel
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=146
+
+#EXTINF:-1 tvg-id="Figure Skating - Skate Canada" tvg-name="12:00 Figure Skating: Skate Canada - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pattinaggio Su Ghiaccio", Polsat Sport 1 Poland
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=47
+
+#EXTINF:-1 tvg-id="Daikin NK Distances Speed ??Skating - Daikin NK Distances Speed ??Skating" tvg-name="19:50 Daikin NK Distances Speed ??Skating - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pattinaggio Su Ghiaccio", NPO 1 NL
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=23
+
+#EXTINF:-1 tvg-id="Daikin NK Distances Speed ??Skating - Daikin NK Distances Speed ??Skating" tvg-name="22:30 Daikin NK Distances Speed ??Skating - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pattinaggio Su Ghiaccio", NPO 1 NL
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=23
+
+#EXTINF:-1 tvg-id="Pro D2 - Beziers vs Colomiers" tvg-name="20:00 Pro D2 : Beziers vs Colomiers - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby Union", Canal+ Sport France
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=122
+
+#EXTINF:-1 tvg-id="Pro D2 - Vannes vs Valence Romans" tvg-name="20:30 Pro D2 : Vannes vs Valence Romans - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby Union", Canal+ Live 2 France
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=162
+
+#EXTINF:-1 tvg-id="Pro D2 - Mont-de-Marsan vs Nevers" tvg-name="20:30 Pro D2 : Mont-de-Marsan vs Nevers - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby Union", Canal+ Live 4 France
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=161
+
+#EXTINF:-1 tvg-id="Pro D2 - Carcassonne vs Biarritz Olympique" tvg-name="20:30 Pro D2 : Carcassonne vs Biarritz Olympique - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby Union", Canal+ Live 6 France
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=164
+
+#EXTINF:-1 tvg-id="Pro D2 - Aurillac vs Union Sportive Oyonnax" tvg-name="20:30 Pro D2 : Aurillac vs Union Sportive Oyonnax - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby Union", Canal+ Live 3 France
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=165
+
+#EXTINF:-1 tvg-id="Pro D2 - Agen vs US Dax" tvg-name="20:30 Pro D2 : Agen vs US Dax - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby Union", Canal+ Live 5 France
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=166
+
+#EXTINF:-1 tvg-id="Rugby Europe Trophy - Croatia vs Denmark" tvg-name="21:00 Rugby Europe Trophy : Croatia vs Denmark - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby Union", SPTV Croatia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=76
+
+#EXTINF:-1 tvg-id="Pro D2 - Provence Rugby vs Brive" tvg-name="22:00 Pro D2 : Provence Rugby vs Brive - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby Union", Canal+ Sport France
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=122
+
+#EXTINF:-1 tvg-id="Premier Padel. Newgiza (T2025) - Women's Semifinal 1" tvg-name="14:00 Premier Padel. Newgiza (T2025): Women's Semifinal 1 - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Squash", M+ #Vamos ES
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=521
+
+#EXTINF:-1 tvg-id="Premier Padel. Newgiza (T2025) - Women's Semifinal 1" tvg-name="14:00 Premier Padel. Newgiza (T2025): Women's Semifinal 1 - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Squash", Sport 2 Israel
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=141
+
+#EXTINF:-1 tvg-id="Premier Padel. Newgiza (T2025) - Men's Semifinal 1" tvg-name="16:00 Premier Padel. Newgiza (T2025): Men's Semifinal 1 - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Squash", Movistar Deportes Spain
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=436
+
+#EXTINF:-1 tvg-id="Premier Padel. Newgiza (T2025) - Women's Semifinal 2" tvg-name="18:00 Premier Padel. Newgiza (T2025): Women's Semifinal 2 - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Squash", Elias Vamos ES
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=24
+
+#EXTINF:-1 tvg-id="Premier Padel. Newgiza (T2025) - Men's Semifinal 2" tvg-name="19:45 Premier Padel. Newgiza (T2025): Men's Semifinal 2 - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Squash", M+ #Vamos ES
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=521
+
+#EXTINF:-1 tvg-id="Orlen Liga Women - Budowlani Lodz W vs Chemik Police W" tvg-name="18:30 Orlen Liga Women : Budowlani Lodz W vs Chemik Police W - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Polsat Sport 2 Poland
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=50
+
+#EXTINF:-1 tvg-id="Orlen Liga Women - Budowlani Lodz W vs Chemik Police W" tvg-name="18:30 Orlen Liga Women : Budowlani Lodz W vs Chemik Police W - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Sportklub 4 Croatia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=104
+
+#EXTINF:-1 tvg-id="SuperLiga - CSKA Sofia vs Montana" tvg-name="19:30 SuperLiga : CSKA Sofia vs Montana - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", MAX Sport 2 Bulgaria
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=473
+
+#EXTINF:-1 tvg-id="Orlen Liga Women - Rzeszow W vs Radom W" tvg-name="20:00 Orlen Liga Women : Rzeszow W vs Radom W - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Polsat Sport Fight Poland
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=25
+
+#EXTINF:-1 tvg-id="PlusLiga - Slepsk Suwalki vs Trefl Gdansk" tvg-name="21:30 PlusLiga : Slepsk Suwalki vs Trefl Gdansk - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Polsat Sport 1 Poland
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=47
+
+#EXTINF:-1 tvg-id="Serie A1 - Posillipo vs Napoli" tvg-name="20:30 Serie A1 : Posillipo vs Napoli - 31/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallanuoto", Rai Sport 1 Italy
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=882
 
