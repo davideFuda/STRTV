@@ -2420,11 +2420,11 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd
 #EXTINF:-1 tvg-id="CFL - BC Lions vs Calgary Stampeders" tvg-name="23:30 CFL : BC Lions vs Calgary Stampeders - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", TSN5
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=115
 
-#EXTINF:-1 tvg-id="NCAAF - Penn State at No. 1 Ohio State" tvg-name="18:00 NCAAF : Penn State at No. 1 Ohio State - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", FOX USA
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=54
+#EXTINF:-1 tvg-id="NCAAF - Rutgers at Illinois" tvg-name="18:00 NCAAF : Rutgers at Illinois - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", NBC USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=53
 
-#EXTINF:-1 tvg-id="NCAAF - Penn State at No. 1 Ohio State" tvg-name="18:00 NCAAF : Penn State at No. 1 Ohio State - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", FOXNY USA
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=768
+#EXTINF:-1 tvg-id="NCAAF - Rutgers at Illinois" tvg-name="18:00 NCAAF : Rutgers at Illinois - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", NBCNY USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=769
 
 #EXTINF:-1 tvg-id="NCAAF - No. 9 Vanderbilt at No. 20 Texas" tvg-name="18:00 NCAAF : No. 9 Vanderbilt at No. 20 Texas - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ABC USA
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=51
@@ -2468,17 +2468,128 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd
 #EXTINF:-1 tvg-id="NCAAF - Navy at North Texas" tvg-name="18:00 NCAAF : Navy at North Texas - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN2 USA
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=45
 
+#EXTINF:-1 tvg-id="NCAAF - LIU at CCSU" tvg-name="18:00 NCAAF : LIU at CCSU - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", NEC Front Row
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=200
+
+#EXTINF:-1 tvg-id="NCAAF - Wagner at Saint Francis U." tvg-name="18:00 NCAAF : Wagner at Saint Francis U. - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", NEC Front Row
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=201
+
+#EXTINF:-1 tvg-id="NCAAF - Towson at North Carolina A&T" tvg-name="18:00 NCAAF : Towson at North Carolina A&T - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", FloSports
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=202
+
+#EXTINF:-1 tvg-id="NCAAF - Buffalo at Bowling Green" tvg-name="18:00 NCAAF : Buffalo at Bowling Green - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=203
+
+#EXTINF:-1 tvg-id="NCAAF - New Haven at Sacred Heart" tvg-name="18:00 NCAAF : New Haven at Sacred Heart - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=204
+
+#EXTINF:-1 tvg-id="NCAAF - Columbia at Yale" tvg-name="18:00 NCAAF : Columbia at Yale - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=205
+
+#EXTINF:-1 tvg-id="NCAAF - Georgetown at Lehigh" tvg-name="18:00 NCAAF : Georgetown at Lehigh - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=206
+
 #EXTINF:-1 tvg-id="NCAAF - Arizona State at Iowa State" tvg-name="19:00 NCAAF : Arizona State at Iowa State - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", TNT USA
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=338
 
 #EXTINF:-1 tvg-id="NCAAF - Arizona State at Iowa State" tvg-name="19:00 NCAAF : Arizona State at Iowa State - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", truTV USA
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=341
 
+#EXTINF:-1 tvg-id="NCAAF - Monmouth at Bryant" tvg-name="19:00 NCAAF : Monmouth at Bryant - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", FloSports
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=207
+
+#EXTINF:-1 tvg-id="NCAAF - Drake at Butler" tvg-name="19:00 NCAAF : Drake at Butler - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", FloSports
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=209
+
+#EXTINF:-1 tvg-id="NCAAF - Davidson at Morehead State" tvg-name="19:00 NCAAF : Davidson at Morehead State - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=210
+
+#EXTINF:-1 tvg-id="NCAAF - Valparaiso at Presbyterian" tvg-name="19:00 NCAAF : Valparaiso at Presbyterian - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=211
+
+#EXTINF:-1 tvg-id="NCAAF - Princeton at Cornell" tvg-name="19:00 NCAAF : Princeton at Cornell - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=212
+
+#EXTINF:-1 tvg-id="NCAAF - Stony Brook at Maine" tvg-name="19:00 NCAAF : Stony Brook at Maine - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", FloSports
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=213
+
+#EXTINF:-1 tvg-id="NCAAF - Lafayette at Holy Cross" tvg-name="19:00 NCAAF : Lafayette at Holy Cross - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=214
+
+#EXTINF:-1 tvg-id="NCAAF - Merrimack at Colgate" tvg-name="19:00 NCAAF : Merrimack at Colgate - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=215
+
+#EXTINF:-1 tvg-id="NCAAF - Samford at Wofford" tvg-name="19:30 NCAAF : Samford at Wofford - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=168
+
+#EXTINF:-1 tvg-id="NCAAF - East Carolina at Temple" tvg-name="20:00 NCAAF : East Carolina at Temple - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=179
+
+#EXTINF:-1 tvg-id="NCAAF - Montana State at Northern Colorado" tvg-name="20:00 NCAAF : Montana State at Northern Colorado - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=180
+
+#EXTINF:-1 tvg-id="NCAAF - Charleston Southern at Southeast Missouri State" tvg-name="20:00 NCAAF : Charleston Southern at Southeast Missouri State - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=181
+
+#EXTINF:-1 tvg-id="NCAAF - Marist at St. Thomas" tvg-name="20:00 NCAAF : Marist at St. Thomas - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", MidcoSports+
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=182
+
+#EXTINF:-1 tvg-id="NCAAF - Morgan State at South Carolina State" tvg-name="20:00 NCAAF : Morgan State at South Carolina State - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=183
+
+#EXTINF:-1 tvg-id="NCAAF - North Dakota at South Dakota" tvg-name="20:00 NCAAF : North Dakota at South Dakota - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=184
+
+#EXTINF:-1 tvg-id="NCAAF - Mercer at Furman" tvg-name="20:00 NCAAF : Mercer at Furman - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=185
+
+#EXTINF:-1 tvg-id="NCAAF - VMI at The Citadel" tvg-name="20:00 NCAAF : VMI at The Citadel - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=186
+
+#EXTINF:-1 tvg-id="NCAAF - Fordham at Richmond" tvg-name="20:00 NCAAF : Fordham at Richmond - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=186
+
 #EXTINF:-1 tvg-id="NCAAF - No. 16 Louisville at Virginia Tech" tvg-name="21:00 NCAAF : No. 16 Louisville at Virginia Tech - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", The CW Network
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=300
 
 #EXTINF:-1 tvg-id="NCAAF - No. 16 Louisville at Virginia Tech" tvg-name="21:00 NCAAF : No. 16 Louisville at Virginia Tech - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", CW PIX 11 USA
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=280
+
+#EXTINF:-1 tvg-id="NCAAF - New Mexico at UNLV" tvg-name="21:00 NCAAF : New Mexico at UNLV - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", Mountain West Network
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=188
+
+#EXTINF:-1 tvg-id="NCAAF - Alcorn State at Texas Southern" tvg-name="21:00 NCAAF : Alcorn State at Texas Southern - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", HBCU GO
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=189
+
+#EXTINF:-1 tvg-id="NCAAF - Southern at UAPB" tvg-name="21:00 NCAAF : Southern at UAPB - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", SWAC TV
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=190
+
+#EXTINF:-1 tvg-id="NCAAF - Alabama A&M at Grambling State" tvg-name="21:00 NCAAF : Alabama A&M at Grambling State - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", SWAC TV
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=191
+
+#EXTINF:-1 tvg-id="NCAAF - Alabama State at Prairie View A&M" tvg-name="21:00 NCAAF : Alabama State at Prairie View A&M - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", SWAC TV
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=193
+
+#EXTINF:-1 tvg-id="NCAAF - Montana at Weber State" tvg-name="21:00 NCAAF : Montana at Weber State - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=194
+
+#EXTINF:-1 tvg-id="NCAAF - UT Martin at Eastern Illinois" tvg-name="21:00 NCAAF : UT Martin at Eastern Illinois - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=195
+
+#EXTINF:-1 tvg-id="NCAAF - UNI at Illinois State" tvg-name="21:00 NCAAF : UNI at Illinois State - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=196
+
+#EXTINF:-1 tvg-id="NCAAF - Indiana State at South Dakota State" tvg-name="21:00 NCAAF : Indiana State at South Dakota State - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=197
+
+#EXTINF:-1 tvg-id="NCAAF - Lamar at UIW" tvg-name="21:00 NCAAF : Lamar at UIW - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=198
+
+#EXTINF:-1 tvg-id="NCAAF - Dartmouth at Harvard" tvg-name="21:00 NCAAF : Dartmouth at Harvard - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=200
+
+#EXTINF:-1 tvg-id="NCAAF - UAlbany at William & Mary" tvg-name="21:00 NCAAF : UAlbany at William & Mary - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", FloSports
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=201
 
 #EXTINF:-1 tvg-id="NCAAF - No. 2 Indiana at Maryland" tvg-name="21:30 NCAAF : No. 2 Indiana at Maryland - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", CBS USA
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=52
@@ -2510,8 +2621,23 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd
 #EXTINF:-1 tvg-id="NCAAF - Delaware at Liberty" tvg-name="21:30 NCAAF : Delaware at Liberty - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", CBSSN USA
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=308
 
+#EXTINF:-1 tvg-id="NCAAF - New Mexico State at Western Kentucky" tvg-name="21:30 NCAAF : New Mexico State at Western Kentucky - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=202
+
 #EXTINF:-1 tvg-id="NCAAF - Fresno State at Boise State" tvg-name="21:30 NCAAF : Fresno State at Boise State - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", FS1 USA
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=39
+
+#EXTINF:-1 tvg-id="NCAAF - Old Dominion at UL Monroe" tvg-name="21:30 NCAAF : Old Dominion at UL Monroe - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=163
+
+#EXTINF:-1 tvg-id="NCAAF - Louisiana at South Alabama" tvg-name="21:30 NCAAF : Louisiana at South Alabama - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=164
+
+#EXTINF:-1 tvg-id="NCAAF - NC Central at Howard" tvg-name="21:30 NCAAF : NC Central at Howard - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=172
+
+#EXTINF:-1 tvg-id="NCAAF - Youngstown State at North Dakota State" tvg-name="21:30 NCAAF : Youngstown State at North Dakota State - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=174
 
 #EXTINF:-1 tvg-id="NCAAF - No. 15 Virginia at Cal" tvg-name="21:45 NCAAF : No. 15 Virginia at Cal - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN2 USA
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=45
@@ -2519,8 +2645,44 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd
 #EXTINF:-1 tvg-id="NCAAF - Mississippi State at Arkansas" tvg-name="22:00 NCAAF : Mississippi State at Arkansas - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", SEC Network USA
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=385
 
+#EXTINF:-1 tvg-id="NCAAF - Oklahoma State at Kansas" tvg-name="22:00 NCAAF : Oklahoma State at Kansas - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=176
+
 #EXTINF:-1 tvg-id="NCAAF - Central Michigan at Western Michigan" tvg-name="22:00 NCAAF : Central Michigan at Western Michigan - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPNU USA
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=316
+
+#EXTINF:-1 tvg-id="NCAAF - Sacramento State at Eastern Washington" tvg-name="22:00 NCAAF : Sacramento State at Eastern Washington - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=177
+
+#EXTINF:-1 tvg-id="NCAAF - Idaho Sate at UC Davis" tvg-name="22:00 NCAAF : Idaho Sate at UC Davis - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=178
+
+#EXTINF:-1 tvg-id="NCAAF - Tarleton State at Abilene Christian" tvg-name="22:00 NCAAF : Tarleton State at Abilene Christian - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=199
+
+#EXTINF:-1 tvg-id="NCAAF - North Alabama at Utah Tech" tvg-name="22:00 NCAAF : North Alabama at Utah Tech - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=203
+
+#EXTINF:-1 tvg-id="NCAAF - Houston Christian at Nicholls" tvg-name="22:00 NCAAF : Houston Christian at Nicholls - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=204
+
+#EXTINF:-1 tvg-id="NCAAF - Western Carolina at Chattanooga" tvg-name="22:00 NCAAF : Western Carolina at Chattanooga - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=205
+
+#EXTINF:-1 tvg-id="NCAAF - Dayton at San Diego" tvg-name="22:00 NCAAF : Dayton at San Diego - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=206
+
+#EXTINF:-1 tvg-id="NCAAF - Lindenwood at Tennessee State" tvg-name="22:30 NCAAF : Lindenwood at Tennessee State - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=207
+
+#EXTINF:-1 tvg-id="NCAAF - Portland State at Cal Poly" tvg-name="23:00 NCAAF : Portland State at Cal Poly - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=208
+
+#EXTINF:-1 tvg-id="NCAAF - Eastern Kentucky at Central Arkansas" tvg-name="23:00 NCAAF : Eastern Kentucky at Central Arkansas - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=209
+
+#EXTINF:-1 tvg-id="NCAAF - Southern Illinois at Murray State" tvg-name="23:00 NCAAF : Southern Illinois at Murray State - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=210
 
 #EXTINF:-1 tvg-id="NCAAF - South Carolina at No. 7 Ole Miss" tvg-name="01:00 NCAAF : South Carolina at No. 7 Ole Miss - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN USA
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=44
@@ -2537,17 +2699,20 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd
 #EXTINF:-1 tvg-id="NCAAF - Wyoming at San Diego State" tvg-name="01:00 NCAAF : Wyoming at San Diego State - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", CBSSN USA
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=308
 
+#EXTINF:-1 tvg-id="NCAAF - Jackson State at Florida A&M" tvg-name="01:00 NCAAF : Jackson State at Florida A&M - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=179
+
+#EXTINF:-1 tvg-id="NCAAF - East Texas A&M at SE Louisiana" tvg-name="01:00 NCAAF : East Texas A&M at SE Louisiana - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=180
+
+#EXTINF:-1 tvg-id="NCAAF - Northwestern State at McNeese" tvg-name="01:00 NCAAF : Northwestern State at McNeese - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=181
+
+#EXTINF:-1 tvg-id="NCAAF - UT Rio Grande Valley at Stephen F. Austin" tvg-name="01:00 NCAAF : UT Rio Grande Valley at Stephen F. Austin - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=182
+
 #EXTINF:-1 tvg-id="NCAAF - No. 8 Georgia Tech at NC State" tvg-name="01:30 NCAAF : No. 8 Georgia Tech at NC State - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN2 USA
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=45
-
-#EXTINF:-1 tvg-id="NCAAF - No. 18 Oklahoma at No. 14 Tennessee" tvg-name="01:30 NCAAF : No. 18 Oklahoma at No. 14 Tennessee - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ABC USA
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=51
-
-#EXTINF:-1 tvg-id="NCAAF - No. 18 Oklahoma at No. 14 Tennessee" tvg-name="01:30 NCAAF : No. 18 Oklahoma at No. 14 Tennessee - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ABC NY USA
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=766
-
-#EXTINF:-1 tvg-id="NCAAF - No. 18 Oklahoma at No. 14 Tennessee" tvg-name="01:30 NCAAF : No. 18 Oklahoma at No. 14 Tennessee - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN Deportes
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=375
 
 #EXTINF:-1 tvg-id="NCAAF - No. 23 USC at Nebraska" tvg-name="01:30 NCAAF : No. 23 USC at Nebraska - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", NBC USA
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=53
@@ -2569,6 +2734,9 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd
 
 #EXTINF:-1 tvg-id="NCAAF - Arkansas State at Troy" tvg-name="02:00 NCAAF : Arkansas State at Troy - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPNU USA
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=316
+
+#EXTINF:-1 tvg-id="NCAAF - Austin Peay at Southern Utah" tvg-name="02:30 NCAAF : Austin Peay at Southern Utah - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=183
 
 #EXTINF:-1 tvg-id="NCAAF - No. 17 Cincinnati at No. 24 Utah" tvg-name="04:15 NCAAF : No. 17 Cincinnati at No. 24 Utah - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN USA
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=44
