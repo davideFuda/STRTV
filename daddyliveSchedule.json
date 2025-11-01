@@ -4787,7 +4787,7 @@
             },
             {
                 "time": "18:00",
-                "event": "Polaris 34",
+                "event": "Grappling Event : Polaris 34",
                 "channels": [
                     {
                         "channel_name": "UFC Fight Pass",
@@ -5068,6 +5068,20 @@
                     {
                         "channel_name": "NBCNY USA",
                         "channel_id": "769"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "NCAAF : Penn State at No. 1 Ohio State",
+                "channels": [
+                    {
+                        "channel_name": "FOX USA",
+                        "channel_id": "54"
+                    },
+                    {
+                        "channel_name": "FOXNY USA",
+                        "channel_id": "768"
                     }
                 ]
             },

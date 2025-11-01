@@ -2324,7 +2324,7 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd
 #EXTINF:-1 tvg-id="OKTAGON 79 - Ion Surdu vs Andrej Kalasnik" tvg-name="18:30 OKTAGON 79 : Ion Surdu vs Andrej Kalasnik - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma", Cosmote Sport 6 Greece
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=627
 
-#EXTINF:-1 tvg-id="Polaris 34 - Polaris 34" tvg-name="20:00 Polaris 34 - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma", UFC Fight Pass
+#EXTINF:-1 tvg-id="Grappling Event - Polaris 34" tvg-name="20:00 Grappling Event : Polaris 34 - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma", UFC Fight Pass
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=152
 
 #EXTINF:-1 tvg-id="Enfusion #154 - Enfusion #154" tvg-name="20:30 Enfusion #154 - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma", PPV Feed
@@ -2425,6 +2425,12 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd
 
 #EXTINF:-1 tvg-id="NCAAF - Rutgers at Illinois" tvg-name="18:00 NCAAF : Rutgers at Illinois - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", NBCNY USA
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=769
+
+#EXTINF:-1 tvg-id="NCAAF - Penn State at No. 1 Ohio State" tvg-name="18:00 NCAAF : Penn State at No. 1 Ohio State - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", FOX USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=54
+
+#EXTINF:-1 tvg-id="NCAAF - Penn State at No. 1 Ohio State" tvg-name="18:00 NCAAF : Penn State at No. 1 Ohio State - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", FOXNY USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=768
 
 #EXTINF:-1 tvg-id="NCAAF - No. 9 Vanderbilt at No. 20 Texas" tvg-name="18:00 NCAAF : No. 9 Vanderbilt at No. 20 Texas - 01/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ABC USA
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=51
