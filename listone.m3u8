@@ -1,317 +1,5 @@
 #EXTM3U url-tvg="https://github.com/nomegit/nomerepo/raw/branch/main/epg.xml"
 
-#EXTINF:-1 tvg-id="27twentyseven.it" tvg-name="27 Twenty Seven" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/260px-Twentyseven_logo.svg.png" group-title="Mediaset",27 TWENTY SEVEN (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/6087746837741766a74b3&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="animalplanet.it" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Sky",ANIMAL PLANET (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/190887752614ef25f5e1fd&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="boing.it" tvg-name="Boing" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/boing-it.png" group-title="Bambini",BOING (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/3022771961a341b55db1c5&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="canale5.it" tvg-name="Canale 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/canale5-it.png" group-title="Mediaset",CANALE 5 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/110155966670807e698f7d&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="cartoonnetwork.it" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini",CARTOON NETWORK (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/1289777017c50e3cf3fd74&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="cartoonito.it" tvg-name="Cartoonito" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini",CARTOONITO (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/1907000512776efa40e32a&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="cartoonito.it" tvg-name="Cartoonito (backup)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini",CARTOONITO (BACKUP) (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/217871728282294e996afe&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="catfish.it" tvg-name="Catfish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Catfish%2C_the_TV_Show_Logo.PNG" group-title="Altro",CATFISH (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/23815838281e427554084f&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="cielo.it" tvg-name="Cielo" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cielo-it.png" group-title="Sky",CIELO (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/3743894403dc7e6005c138&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="cine34.it" tvg-name="Cine 34 Mediaset" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cine34-it.png" group-title="Intrattenimento;Mediaset",CINE 34 MEDIASET (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/17686701870faa9fea0a38&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="comedycentral.it" tvg-name="Comedy Central" tvg-logo="https://yt3.googleusercontent.com/FPzu1EWCI54fIh2j9JEp0NOzwoeugjL4sZTQCdoxoQY1U4QHyKx2L3wPSw27IueuZGchIxtKfv8=s900-c-k-c0x00ffffff-no-rj" group-title="Sky",COMEDY CENTRAL (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/433893159bf516cde9a97&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="dazn.it" tvg-name="Dazn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1024px-DAZN_logo.svg.png" group-title="Sport",DAZN (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/2745635299ab0cc043a143&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="deejaytv.it" tvg-name="Deejay Tv" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Altro",DEEJAY TV (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/3802167244650eb7a51319&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="discoverychannel.it" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/discovery-channel-it.png" group-title="Documentari;Discovery",DISCOVERY CHANNEL (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/355484191439d5194fc358&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="focustv.it" tvg-name="Discovery Focus" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/focus-it.png" group-title="Intrattenimento;Mediaset",DISCOVERY FOCUS (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/21132730647ae733a10331&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="k2.it" tvg-name="Discovery K2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini;Discovery",DISCOVERY K2 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/3037871903561253a95659&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="nove.it" tvg-name="Discovery Nove" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nove-it.png" group-title="Documentari;Discovery",DISCOVERY NOVE (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/1574591400f5a3b24c62fc&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="disney+film.it" tvg-name="Disney+ Film" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/2560px-Disney%2B_logo.svg.png" group-title="Film",DISNEY+ FILM (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/1264775727d4145aa36927&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="dmax.it" tvg-name="Dmax" tvg-logo="https://cdn.cookielaw.org/logos/50417659-aa29-4f7f-b59d-f6e887deed53/a32be519-de41-40f4-abed-d2934ba6751b/9a44af24-5ca6-4098-aa95-594755bd7b2d/dmax_logo.png" group-title="Discovery",DMAX (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/3803638765756268d23edc&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="eurosport1.it" tvg-name="Eurosport 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/34480753177564a146da63&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="eurosport2.it" tvg-name="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport",EUROSPORT 2 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/23176844530f9ee58ada3e&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="focustv.it" tvg-name="Focus" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/focus-it.png" group-title="Intrattenimento;Mediaset",FOCUS (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/29825504332b9997336c1e&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="foodnetwork.it" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="Discovery",FOOD NETWORK (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/276786104991c55564696b&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="foxhd.it" tvg-name="Fox" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/fox-it.png" group-title="Film;Sky",FOX (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/56316060941df205a0842&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="giallo.it" tvg-name="Giallo" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/giallo-it.png" group-title="Altro",GIALLO (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/40604994550f228d5b9b59&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="hgtv.it" tvg-name="Hgtv" tvg-logo="https://d204lf4nuskf6u.cloudfront.net/italy-images/c2cbeaabb81be73e81c7f4291cf798e3.png?k=2nWZhtOSUQdq2s2ItEDH5%2BQEPdq1khUY8YJSK0%2BNV90dhkyaUQQ82V1zGPD7O5%2BS" group-title="Discovery",HGTV (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/42489970292d2930202d0e&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="k2.it" tvg-name="K2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini",K2 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/11090349bae706bd9ec4&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="la5.it" tvg-name="La 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la5-it.png" group-title="Altro",LA 5 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/14256673753de6371f2c50&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="la7.it" tvg-name="La 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro",LA 7 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/7755300630832713e7adb&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="mediaset1.it" tvg-name="Mediaset 1" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Intrattenimento;Mediaset",MEDIASET 1 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/633342961994dc5083ad5&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="20mediasethd.it" tvg-name="Mediaset 20" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png" group-title="Intrattenimento;Mediaset",MEDIASET 20 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/313448120145a6443975e1&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="iris.it" tvg-name="Mediaset Iris" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Intrattenimento;Mediaset",MEDIASET IRIS (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/23919988fc371eea2329&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="italia2.it" tvg-name="Mediaset Italia 2" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/c/c5/Logo_Italia2.svg/520px-Logo_Italia2.svg.png" group-title="Intrattenimento;Mediaset",MEDIASET ITALIA 2 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/3538009430947511be2991&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="nationalgeohd.it" tvg-name="Nat Geo" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari;Sky",NAT GEO (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/179844839442a5ed454fe&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="nationalgeographicwild.it" tvg-name="Nat Geo Wild" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-wild-it.png" group-title="Documentari;Sky",NAT GEO WILD (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/3229664409bbe85d51bba2&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="premiumcrime.it" tvg-name="Premium Crime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/premium-crime-it.png" group-title="Mediaset",PREMIUM CRIME (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/444768053e397c96fc6df&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="rai1.it" tvg-name="Rai 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Intrattenimento;Rai Tv",RAI 1 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/122565375973a967da4f03&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="rai2.it" tvg-name="Rai 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-2-it.png" group-title="Intrattenimento;Rai Tv",RAI 2 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/246253359a81d94887441&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="rai3.it" tvg-name="Rai 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-3-it.png" group-title="Intrattenimento;Rai Tv",RAI 3 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/869117599e36bb7de752c&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="rai4.it" tvg-name="Rai 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-4-it.png" group-title="Intrattenimento;Rai Tv",RAI 4 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/2179822223e6f7fefa408e&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="rai5.it" tvg-name="Rai 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-5-it.png" group-title="Intrattenimento;Rai Tv",RAI 5 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/31633805432b7c33717323&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="raigulp.it" tvg-name="Rai Gulp" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-gulp-it.png" group-title="Intrattenimento;Rai Tv",RAI GULP (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/1803677691b051ba6d360f&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="raimovie.it" tvg-name="Rai Movie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Film;Rai Tv",RAI MOVIE (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/1925964148b9cb23cc2bce&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="rainews24.it" tvg-name="Rai News 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="Notizie;Rai Tv",RAI NEWS 24 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/2239645272d37ede79369f&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="raipremium.it" tvg-name="Rai Premium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-premium-it.png" group-title="Intrattenimento;Rai Tv",RAI PREMIUM (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/282845555296ba7681a581&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="raiscuola.it" tvg-name="Rai Scuola" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-scuola-it.png" group-title="Intrattenimento;Rai Tv",RAI SCUOLA (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/1886684667a4cfd0e271d1&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="raisport.it" tvg-name="Rai Sport [live During Events Only]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-sport-it.png" group-title="Sport;Rai Tv",RAI SPORT [LIVE DURING EVENTS ONLY] (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/55173022458f32c70e30a&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="raisport+.it" tvg-name="Rai Sport+" tvg-logo="" group-title="Sport;Rai Tv",RAI SPORT+ (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/843891896d79f7a764c19&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="raistoria.it" tvg-name="Rai Storia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-storia-it.png" group-title="Intrattenimento;Rai Tv",RAI STORIA (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/57338653b83f61385a9f&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="raisüdtirol.it" tvg-name="Rai Südtirol" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI SÜDTIROL (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/441082840c9ecc6bf454e&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="raiyoyo.it" tvg-name="Rai Yoyo" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-yoyo-it.png" group-title="Intrattenimento;Rai Tv",RAI YOYO (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="rakutencomedymovies.it" tvg-name="Rakuten Comedy Movies" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film;Rakuten",RAKUTEN COMEDY MOVIES (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/11093727783b90d83934c6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="rakutendrama.it" tvg-name="Rakuten Drama" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Rakuten",RAKUTEN DRAMA (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/209862439074120bb15132&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="rakutenfamily.it" tvg-name="Rakuten Family" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Rakuten",RAKUTEN FAMILY (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/3902650955a82543dc27a4&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="rakutentopfree.it" tvg-name="Rakuten Top Free" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Rakuten",RAKUTEN TOP FREE (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/1572866962efea4ca22353&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="rakutentvshows.it" tvg-name="Rakuten Tv Shows" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Rakuten",RAKUTEN TV SHOWS (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/860912269147f85ae7a8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="realtime.it" tvg-name="Real Time" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/real-time-it.png" group-title="Intrattenimento;Discovery",REAL TIME (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/2251241999722578d55332&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="rete4.it" tvg-name="Rete 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rete4-it.png" group-title="Mediaset",RETE 4 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/22357320045f329c720096&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="la1.it" tvg-name="Rsi La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1200px-RSI_La_1_2012.svg.png" group-title="Altro",RSI LA 1 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/22903950460d6b257bf610&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="la2.it" tvg-name="Rsi La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png" group-title="Altro",RSI LA 2 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/3475299702c52e31a7073f&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skyarte.it" tvg-name="Sky Arte" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari;Sky",SKY ARTE (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/1902695925283bcfc576b0&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skyatlantic.it" tvg-name="Sky Atlantic" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-atlantic-it.png" group-title="Sky",SKY ATLANTIC (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/1482866609814ff0b05ac7&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="Sky Cinema Action" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film;Sky",SKY CINEMA ACTION (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/11441287266db50fc09b62&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="Sky Cinema Action (backup)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film;Sky",SKY CINEMA ACTION (BACKUP) (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/2242741766a460e21385e6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skycinemacollectionhd.it" tvg-name="Sky Cinema Collection" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-collection-it.png" group-title="Film;Sky",SKY CINEMA COLLECTION (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/352583705711c4cbe44bbb&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skycinemacomedy.it" tvg-name="Sky Cinema Comedy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="Film;Sky",SKY CINEMA COMEDY (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/3131104474771735b548ce&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skycinemadue.it" tvg-name="Sky Cinema Due" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film;Sky",SKY CINEMA DUE (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/2330574729acc52d969174&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skycinemadue+24.it" tvg-name="Sky Cinema Due +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film;Sky",SKY CINEMA DUE +24 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/1078650168cbe5484d34ad&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skycinemafamily.it" tvg-name="Sky Cinema Family" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film;Sky",SKY CINEMA FAMILY (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/32165161175e13c1d3f56a&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skycinemaromance.it" tvg-name="Sky Cinema Romance" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film;Sky",SKY CINEMA ROMANCE (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/128126488561be9a87267f&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skycinemasuspense.it" tvg-name="Sky Cinema Suspense" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film;Sky",SKY CINEMA SUSPENSE (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/3060043751014db62f5b06&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skycinemauno.it" tvg-name="Sky Cinema Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film;Sky",SKY CINEMA UNO (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/17596257388e83c18bb676&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skycinemauno+24.it" tvg-name="Sky Cinema Uno +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film;Sky",SKY CINEMA UNO +24 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/16998765309700e7076450&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skyprimafila1.it" tvg-name="Sky Primafila 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 1 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/1492183364e2c25c729efa&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skyprimafila10.it" tvg-name="Sky Primafila 10" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 10 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/2268489342059d1f4882c8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skyprimafila2.it" tvg-name="Sky Primafila 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 2 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/525374356eb78c097e6a2&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skyprimafila3.it" tvg-name="Sky Primafila 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 3 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/573618724778189abe38c&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skyprimafila4.it" tvg-name="Sky Primafila 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 4 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/2416993844407639cb4e74&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skyprimafila5.it" tvg-name="Sky Primafila 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 5 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/29098187562943fdca9002&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skyprimafila6.it" tvg-name="Sky Primafila 6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 6 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/39395136840a7593b75855&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skyprimafila7.it" tvg-name="Sky Primafila 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 7 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/3618643172a26b31eba4b4&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skyprimafila8.it" tvg-name="Sky Primafila 8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 8 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/14407790614bc8041c450d&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skyprimafila9.it" tvg-name="Sky Primafila 9" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 9 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/17532606771304e2497369&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysport.it" tvg-name="Sky Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport",SKY SPORT (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/92466165981ba6f81de20&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysport24.it" tvg-name="Sky Sport 24 [live During Events Only]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 [LIVE DURING EVENTS ONLY] (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/344556251909fe0b312736&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="Sky Sport Calcio" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/449990998077a7691828f&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysportfootball.it" tvg-name="Sky Sport Football [live During Events Only]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY] (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/198930923100c09085a1ae&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysportgolf.it" tvg-name="Sky Sport Golf" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png" group-title="Sport",SKY SPORT GOLF (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/3897711086f5655aa4d5fb&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysportmotogp.it" tvg-name="Sky Sport Motogp" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-motogp-it.png" group-title="Sport",SKY SPORT MOTOGP (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/2090703806f47d7eb551ce&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysportnba.it" tvg-name="Sky Sport Nba" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png" group-title="Sport",SKY SPORT NBA (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/3268253262aec282eb346&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysporttennis.it" tvg-name="Sky Sport Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/78546677680f40b76841&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysportuno.it" tvg-name="Sky Sport Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport",SKY SPORT UNO (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/3192996672d2c923be0346&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysportf1.it" tvg-name="Sky Sports F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORTS F1 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/22890389722acc4573933d&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="supertennis.it" tvg-name="Sky Super Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SUPER TENNIS (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/55828211836e421b20575&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skytg24.it" tvg-name="Sky Tg 24" tvg-logo="https://play-lh.googleusercontent.com/0RJjBW8_r64dWLAbG7kUVrkESbBr9Ukx30pDI83e5_o1obv2MTC7KSpBAIhhXvJAkXE" group-title="Notizie;Sky",SKY TG 24 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/3180571288b987548e3fe&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skyuno.it" tvg-name="Sky Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Sky",SKY UNO (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/32202484989ac14421915&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="sportitalia.it" tvg-name="Sport Italia (backup)" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport;Mediaset",SPORT ITALIA (BACKUP) (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/3165086929ad0bcbc4fc19&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="sportitaliasolocalcio.it" tvg-name="Sport Italia Solo Calcio [live During Events Only]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport;Mediaset",SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY] (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/83094948658201829f87a&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="supertennis.it" tvg-name="Super Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/super-tennis-it.png" group-title="Sport",SUPER TENNIS (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/300937751365646200d097&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="super!.it" tvg-name="Super!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/1024px-Super%21_logo_2021.svg.png" group-title="Bambini",SUPER! (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/2900362153b8a056cb86c0&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="tgcom24.it" tvg-name="Tg Com 24" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kVh4SupZFtHrALXp9dRWD9aahJOUfl8rhSF8VroefSLg=s900-c-k-c0x00ffffff-no-rj" group-title="Notizie;Mediaset",TG COM 24 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/1785098768e3514b1dbecc&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="topcrime.it" tvg-name="Top Crime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/top-crime-it.png" group-title="Discovery",TOP CRIME (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/3420407456fb80f4ceda0b&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="tv8.it" tvg-name="Tv 8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/tv8-it.png" group-title="Sky",TV 8 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/2706291008928411daf9bb&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="wwechannel.it" tvg-name="Wwe Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/WWE_Network_logo.jpeg" group-title="Discovery",WWE CHANNEL (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/2989824407cb0184041b08&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="dazn1.it" tvg-name="DAZN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/774px-DAZN_1_Logo.svg.png" group-title="Sport", DAZN 1 (D)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://dlhd.dad/watch.php?id=877
 
@@ -1209,6 +897,1215 @@ https://hls.kangal.icu/hls/skynba/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhon
 # Playlist generata da Hattrick
 # Playlist generata da ThisNotBusiness
 # Playlist generata da SkyStreaming
+#EXTINF:-1 tvg-id="Europe - U19 Euro Qualifying - Scotland U19 vs England U19" tvg-name="12:00 Europe - U19 Euro Qualifying : Scotland U19 vs England U19 - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Diema Sport Bulgaria
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=465
+
+#EXTINF:-1 tvg-id="Friendly - Japan vs Bolivia" tvg-name="12:15 Friendly : Japan vs Bolivia - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Astro Football
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=124
+
+#EXTINF:-1 tvg-id="Asia - Asian Cup Qualification - Sri Lanka vs Thailand" tvg-name="12:15 Asia - Asian Cup Qualification : Sri Lanka vs Thailand - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", True Sport 2 Thailand
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1
+
+#EXTINF:-1 tvg-id="Europe - U19 Euro Qualifying - Croatia U19 vs Serbia U19" tvg-name="12:30 Europe - U19 Euro Qualifying : Croatia U19 vs Serbia U19 - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MAX Sport 1 Croatia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=779
+
+#EXTINF:-1 tvg-id="Friendly - Wales U19 vs Germany U19" tvg-name="13:00 Friendly : Wales U19 vs Germany U19 - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport Top Event DE
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=556
+
+#EXTINF:-1 tvg-id="Slovakia - Slovenský Pohár - Púchov vs Tatran Prešov" tvg-name="14:00 Slovakia - Slovenský Pohár : Púchov vs Tatran Prešov - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", RTVS Sport Slovakia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=2
+
+#EXTINF:-1 tvg-id="World - FIFA U-17 World Cup - Italy U17 vs Uzbekistan U17" tvg-name="14:30 World - FIFA U-17 World Cup : Italy U17 vs Uzbekistan U17 - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 2 Israel
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=141
+
+#EXTINF:-1 tvg-id="World - FIFA U-17 World Cup - Mexico U17 vs Portugal U17" tvg-name="15:00 World - FIFA U-17 World Cup : Mexico U17 vs Portugal U17 - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TUDN Mexico
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=935
+
+#EXTINF:-1 tvg-id="World - FIFA U-17 World Cup - Mexico U17 vs Portugal U17" tvg-name="15:00 World - FIFA U-17 World Cup : Mexico U17 vs Portugal U17 - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Canal 11 Portugal
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=540
+
+#EXTINF:-1 tvg-id="World - FIFA U-17 World Cup - Mexico U17 vs Portugal U17" tvg-name="15:00 World - FIFA U-17 World Cup : Mexico U17 vs Portugal U17 - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 3 Israel
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=142
+
+#EXTINF:-1 tvg-id="Asia - Asian Cup Qualification - Nepal vs Malaysia" tvg-name="15:00 Asia - Asian Cup Qualification : Nepal vs Malaysia - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Astro Arena Bola
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=3
+
+#EXTINF:-1 tvg-id="World - FIFA U-17 World Cup - Brazil U17 vs France U17" tvg-name="15:30 World - FIFA U-17 World Cup : Brazil U17 vs France U17 - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", L'Equipe France
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=645
+
+#EXTINF:-1 tvg-id="World - FIFA U-17 World Cup - Brazil U17 vs France U17" tvg-name="15:30 World - FIFA U-17 World Cup : Brazil U17 vs France U17 - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SporTV BR
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=78
+
+#EXTINF:-1 tvg-id="World - FIFA U-17 World Cup - Brazil U17 vs France U17" tvg-name="15:30 World - FIFA U-17 World Cup : Brazil U17 vs France U17 - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 4 Israel
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=143
+
+#EXTINF:-1 tvg-id="Asia - Asian Cup Qualification - Bangladesh vs India" tvg-name="16:00 Asia - Asian Cup Qualification : Bangladesh vs India - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", T Sports Bangladesh
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=270
+
+#EXTINF:-1 tvg-id="Europe - Euro U-21 Qualifying - Belarus U21 vs Denmark U21" tvg-name="16:00 Europe - Euro U-21 Qualifying : Belarus U21 vs Denmark U21 - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Belarus 5
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=4
+
+#EXTINF:-1 tvg-id="Europe - Euro U-21 Qualifying - Greece U21 vs Northern Ireland U21" tvg-name="16:00 Europe - Euro U-21 Qualifying : Greece U21 vs Northern Ireland U21 - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ERT 2 Greece
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1
+
+#EXTINF:-1 tvg-id="Europe - U19 Euro Qualifying - Poland U19 vs Italy U19" tvg-name="16:00 Europe - U19 Euro Qualifying : Poland U19 vs Italy U19 - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", RAI Sport 1 IT
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=882
+
+#EXTINF:-1 tvg-id="World - FIFA U-17 World Cup - Switzerland U17 vs Republic of Ireland U17" tvg-name="16:45 World - FIFA U-17 World Cup : Switzerland U17 vs Republic of Ireland U17 - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", RTE 2 Ireland
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=365
+
+#EXTINF:-1 tvg-id="World - FIFA U-17 World Cup - Switzerland U17 vs Republic of Ireland U17" tvg-name="16:45 World - FIFA U-17 World Cup : Switzerland U17 vs Republic of Ireland U17 - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 2 Israel
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=141
+
+#EXTINF:-1 tvg-id="Portugal - Liga Revelação - Torreense U23 vs União de Leiria U23" tvg-name="17:00 Portugal - Liga Revelação : Torreense U23 vs União de Leiria U23 - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Canal 11 Portugal
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=540
+
+#EXTINF:-1 tvg-id="World - FIFA U-17 World Cup - Austria U17 vs England U17" tvg-name="17:45 World - FIFA U-17 World Cup : Austria U17 vs England U17 - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ITV 4 UK
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=353
+
+#EXTINF:-1 tvg-id="World - FIFA U-17 World Cup - Austria U17 vs England U17" tvg-name="17:45 World - FIFA U-17 World Cup : Austria U17 vs England U17 - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 3 Israel
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=142
+
+#EXTINF:-1 tvg-id="World - FIFA U-17 World Cup - Morocco U17 vs Mali U17" tvg-name="17:45 World - FIFA U-17 World Cup : Morocco U17 vs Mali U17 - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 4 Israel
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=143
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Iraq vs United Arab Emirates" tvg-name="18:00 World Cup Qualifying : Iraq vs United Arab Emirates - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN 2 NL
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=386
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Iraq vs United Arab Emirates" tvg-name="18:00 World Cup Qualifying : Iraq vs United Arab Emirates - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sportdigital FUSSBALL DE
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=571
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Iraq vs United Arab Emirates" tvg-name="18:00 World Cup Qualifying : Iraq vs United Arab Emirates - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN Mexico
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=925
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Iraq vs United Arab Emirates" tvg-name="18:00 World Cup Qualifying : Iraq vs United Arab Emirates - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Diema Sport 2 Bulgaria
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=466
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Iraq vs United Arab Emirates" tvg-name="18:00 World Cup Qualifying : Iraq vs United Arab Emirates - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN4 Brazil
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=85
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Iraq vs United Arab Emirates" tvg-name="18:00 World Cup Qualifying : Iraq vs United Arab Emirates - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 1 Serbia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=429
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Iraq vs United Arab Emirates" tvg-name="18:00 World Cup Qualifying : Iraq vs United Arab Emirates - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sportklub 3 Croatia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=103
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Iraq vs United Arab Emirates" tvg-name="18:00 World Cup Qualifying : Iraq vs United Arab Emirates - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 1
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=91
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Iraq vs United Arab Emirates" tvg-name="18:00 World Cup Qualifying : Iraq vs United Arab Emirates - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 2
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=92
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Iraq vs United Arab Emirates" tvg-name="18:00 World Cup Qualifying : Iraq vs United Arab Emirates - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", 5Sport Gold Israel
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=148
+
+#EXTINF:-1 tvg-id="Europe - Euro U-21 Qualifying - Lithuania U21 vs Türkiye U21" tvg-name="18:00 Europe - Euro U-21 Qualifying : Lithuania U21 vs Türkiye U21 - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TRT Spor Türkiye
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=889
+
+#EXTINF:-1 tvg-id="Europe - Euro U-21 Qualifying - North Macedonia U21 vs Poland U21" tvg-name="18:00 Europe - Euro U-21 Qualifying : North Macedonia U21 vs Poland U21 - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TVP Sport Poland
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=128
+
+#EXTINF:-1 tvg-id="Friendly - Saudi Arabia vs Algeria" tvg-name="18:30 Friendly : Saudi Arabia vs Algeria - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV 6 Algeria
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=5
+
+#EXTINF:-1 tvg-id="Europe - U19 Euro Qualifying - Hungary U19 vs France U19" tvg-name="18:30 Europe - U19 Euro Qualifying : Hungary U19 vs France U19 - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", M4 Sports Hungary
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=265
+
+#EXTINF:-1 tvg-id="Europe - U19 Euro Qualifying - Belgium U19 vs Portugal U19" tvg-name="19:00 Europe - U19 Euro Qualifying : Belgium U19 vs Portugal U19 - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Canal 11 Portugal
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=540
+
+#EXTINF:-1 tvg-id="Europe - Euro U-21 Qualifying - Georgia U21 vs Germany U21" tvg-name="19:00 Europe - Euro U-21 Qualifying : Georgia U21 vs Germany U21 - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sat.1 DE
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=729
+
+#EXTINF:-1 tvg-id="Europe - Euro U-21 Qualifying - Romania U21 vs Spain U21" tvg-name="19:00 Europe - Euro U-21 Qualifying : Romania U21 vs Spain U21 - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Teledeporte Spain (TDP)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=529
+
+#EXTINF:-1 tvg-id="Europe - Euro U-21 Qualifying - Romania U21 vs Spain U21" tvg-name="19:00 Europe - Euro U-21 Qualifying : Romania U21 vs Spain U21 - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Pro Arena Romania
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=6
+
+#EXTINF:-1 tvg-id="Europe - Euro U-21 Qualifying - Slovakia U21 vs England U21" tvg-name="19:00 Europe - Euro U-21 Qualifying : Slovakia U21 vs England U21 - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", RTVS Sport Slovakia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=2
+
+#EXTINF:-1 tvg-id="Europe - Euro U-21 Qualifying - Czechia U21 vs Portugal U21" tvg-name="19:00 Europe - Euro U-21 Qualifying : Czechia U21 vs Portugal U21 - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ČT Sport CZ
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1033
+
+#EXTINF:-1 tvg-id="Europe - Euro U-21 Qualifying - Czechia U21 vs Portugal U21" tvg-name="19:00 Europe - Euro U-21 Qualifying : Czechia U21 vs Portugal U21 - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Canal 11 Portugal
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=540
+
+#EXTINF:-1 tvg-id="Friendly - Faroe Islands vs Kazakhstan" tvg-name="19:00 Friendly : Faroe Islands vs Kazakhstan - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Qazsport
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=3
+
+#EXTINF:-1 tvg-id="Friendly - Chile vs Peru" tvg-name="19:00 Friendly : Chile vs Peru - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Match Premier Russia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=573
+
+#EXTINF:-1 tvg-id="Friendly - Cyprus vs Estonia" tvg-name="19:00 Friendly : Cyprus vs Estonia - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ETV 2 Estonia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=7
+
+#EXTINF:-1 tvg-id="Friendly - Cyprus vs Estonia" tvg-name="19:00 Friendly : Cyprus vs Estonia - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Fox Soccer Plus
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=756
+
+#EXTINF:-1 tvg-id="Friendly - Cyprus vs Estonia" tvg-name="19:00 Friendly : Cyprus vs Estonia - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport 2 NZ
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=589
+
+#EXTINF:-1 tvg-id="Friendly - Cyprus vs Estonia" tvg-name="19:00 Friendly : Cyprus vs Estonia - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Polsat Sport Premium 1 Poland
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=8
+
+#EXTINF:-1 tvg-id="Friendly - Cyprus vs Estonia" tvg-name="19:00 Friendly : Cyprus vs Estonia - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Nova Sports Start Greece
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=637
+
+#EXTINF:-1 tvg-id="Friendly - Cyprus vs Estonia" tvg-name="19:00 Friendly : Cyprus vs Estonia - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV2 Sport X Denmark
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=808
+
+#EXTINF:-1 tvg-id="Friendly - Cyprus vs Estonia" tvg-name="19:00 Friendly : Cyprus vs Estonia - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sportklub 4 Croatia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=104
+
+#EXTINF:-1 tvg-id="Friendly - Cyprus vs Estonia" tvg-name="19:00 Friendly : Cyprus vs Estonia - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Diema Sport 3 Bulgaria
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=467
+
+#EXTINF:-1 tvg-id="Friendly - Serbia U21 vs United States U21" tvg-name="19:00 Friendly : Serbia U21 vs United States U21 - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena 5 Premium Serbia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=13
+
+#EXTINF:-1 tvg-id="Europe - Euro U-21 Qualifying - Montenegro U21 vs Italy U21" tvg-name="19:30 Europe - Euro U-21 Qualifying : Montenegro U21 vs Italy U21 - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", RAI 2 IT
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=851
+
+#EXTINF:-1 tvg-id="Europe - Euro U-21 Qualifying - Scotland U21 vs Bulgaria U21" tvg-name="19:30 Europe - Euro U-21 Qualifying : Scotland U21 vs Bulgaria U21 - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Diema Sport Bulgaria
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=465
+
+#EXTINF:-1 tvg-id="Friendly - Jordan vs Mali" tvg-name="20:30 Friendly : Jordan vs Mali - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Jordan TV Sport
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=9
+
+#EXTINF:-1 tvg-id="Europe - Euro U-21 Qualifying - Andorra U21 vs Republic of Ireland U21" tvg-name="20:30 Europe - Euro U-21 Qualifying : Andorra U21 vs Republic of Ireland U21 - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", RTE 2 Ireland
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=365
+
+#EXTINF:-1 tvg-id="Europe - Euro U-21 Qualifying - Israel U21 vs Netherlands U21" tvg-name="20:30 Europe - Euro U-21 Qualifying : Israel U21 vs Netherlands U21 - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN 1 NL
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=379
+
+#EXTINF:-1 tvg-id="Europe - Euro U-21 Qualifying - Israel U21 vs Netherlands U21" tvg-name="20:30 Europe - Euro U-21 Qualifying : Israel U21 vs Netherlands U21 - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", 5Sport Israel
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=144
+
+#EXTINF:-1 tvg-id="Europe - Euro U-21 Qualifying - Hungary U21 vs Croatia U21" tvg-name="21:00 Europe - Euro U-21 Qualifying : Hungary U21 vs Croatia U21 - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", M4 Sport Hungary
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=265
+
+#EXTINF:-1 tvg-id="Europe - Euro U-21 Qualifying - Hungary U21 vs Croatia U21" tvg-name="21:00 Europe - Euro U-21 Qualifying : Hungary U21 vs Croatia U21 - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MAX Sport 1 Croatia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=779
+
+#EXTINF:-1 tvg-id="Friendly - Morocco vs Uganda" tvg-name="21:00 Friendly : Morocco vs Uganda - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arryadia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=10
+
+#EXTINF:-1 tvg-id="Friendly - Brazil vs Tunisia" tvg-name="21:30 Friendly : Brazil vs Tunisia - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ITV 4 UK
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=353
+
+#EXTINF:-1 tvg-id="Friendly - Brazil vs Tunisia" tvg-name="21:30 Friendly : Brazil vs Tunisia - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN SPORTS USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=425
+
+#EXTINF:-1 tvg-id="Friendly - Brazil vs Tunisia" tvg-name="21:30 Friendly : Brazil vs Tunisia - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN SPORTS en Español
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=372
+
+#EXTINF:-1 tvg-id="Friendly - Brazil vs Tunisia" tvg-name="21:30 Friendly : Brazil vs Tunisia - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TRT Spor Turkey
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=889
+
+#EXTINF:-1 tvg-id="Friendly - Brazil vs Tunisia" tvg-name="21:30 Friendly : Brazil vs Tunisia - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Movistar Liga de Campeones
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=435
+
+#EXTINF:-1 tvg-id="Friendly - Brazil vs Tunisia" tvg-name="21:30 Friendly : Brazil vs Tunisia - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV4 Portugal
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=289
+
+#EXTINF:-1 tvg-id="Friendly - Brazil vs Tunisia" tvg-name="21:30 Friendly : Brazil vs Tunisia - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sportdigital FUSSBALL DE
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=571
+
+#EXTINF:-1 tvg-id="Friendly - Brazil vs Tunisia" tvg-name="21:30 Friendly : Brazil vs Tunisia - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Abu Dhabi Sports 1
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=600
+
+#EXTINF:-1 tvg-id="Friendly - Brazil vs Tunisia" tvg-name="21:30 Friendly : Brazil vs Tunisia - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN2 Mexico
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=926
+
+#EXTINF:-1 tvg-id="Friendly - Brazil vs Tunisia" tvg-name="21:30 Friendly : Brazil vs Tunisia - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SporTV BR
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=78
+
+#EXTINF:-1 tvg-id="Friendly - Brazil vs Tunisia" tvg-name="21:30 Friendly : Brazil vs Tunisia - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 3 Israel
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=142
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Simulcast" tvg-name="21:45 World Cup Qualifying : Simulcast - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", L'Equipe France
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=645
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Simulcast" tvg-name="21:45 World Cup Qualifying : Simulcast - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Nova Sports Prime Greece
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=638
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Simulcast" tvg-name="21:45 World Cup Qualifying : Simulcast - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Ziggo Sport 1 NL
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=393
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Simulcast" tvg-name="21:45 World Cup Qualifying : Simulcast - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 1 Israel
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=140
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Kosovo vs Switzerland" tvg-name="21:45 World Cup Qualifying : Kosovo vs Switzerland - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SRF zwei
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Kosovo vs Switzerland" tvg-name="21:45 World Cup Qualifying : Kosovo vs Switzerland - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", RTK1 Kosovo
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=11
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Kosovo vs Switzerland" tvg-name="21:45 World Cup Qualifying : Kosovo vs Switzerland - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV6 Portugal
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=291
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Kosovo vs Switzerland" tvg-name="21:45 World Cup Qualifying : Kosovo vs Switzerland - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Polsat Sport Extra 3 Poland
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=12
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Kosovo vs Switzerland" tvg-name="21:45 World Cup Qualifying : Kosovo vs Switzerland - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport Select NZ
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=587
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Kosovo vs Switzerland" tvg-name="21:45 World Cup Qualifying : Kosovo vs Switzerland - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Nova Sports Start Greece
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=637
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Kosovo vs Switzerland" tvg-name="21:45 World Cup Qualifying : Kosovo vs Switzerland - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", V Sport Fotball
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=86
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Kosovo vs Switzerland" tvg-name="21:45 World Cup Qualifying : Kosovo vs Switzerland - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN2 Brazil
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=82
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Kosovo vs Switzerland" tvg-name="21:45 World Cup Qualifying : Kosovo vs Switzerland - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport Variety 2
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=417
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Kosovo vs Switzerland" tvg-name="21:45 World Cup Qualifying : Kosovo vs Switzerland - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sportklub HD Croatia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=453
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Kosovo vs Switzerland" tvg-name="21:45 World Cup Qualifying : Kosovo vs Switzerland - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 8
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=98
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Spain vs Turkey" tvg-name="21:45 World Cup Qualifying : Spain vs Turkey - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV8 Turkey
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1005
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Spain vs Turkey" tvg-name="21:45 World Cup Qualifying : Spain vs Turkey - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TVE La 1 Spain
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=533
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Spain vs Turkey" tvg-name="21:45 World Cup Qualifying : Spain vs Turkey - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport 1 NZ
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=588
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Spain vs Turkey" tvg-name="21:45 World Cup Qualifying : Spain vs Turkey - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN 1 DE
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=426
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Spain vs Turkey" tvg-name="21:45 World Cup Qualifying : Spain vs Turkey - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV1 Portugal
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=49
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Spain vs Turkey" tvg-name="21:45 World Cup Qualifying : Spain vs Turkey - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Ziggo Sport 2 NL
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=398
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Spain vs Turkey" tvg-name="21:45 World Cup Qualifying : Spain vs Turkey - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Prima Sport 1 Romania
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=583
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Spain vs Turkey" tvg-name="21:45 World Cup Qualifying : Spain vs Turkey - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Nova Sports 1 Greece
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=631
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Spain vs Turkey" tvg-name="21:45 World Cup Qualifying : Spain vs Turkey - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena 1 Premium Serbia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=134
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Spain vs Turkey" tvg-name="21:45 World Cup Qualifying : Spain vs Turkey - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV2 Sport X Denmark
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=808
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Spain vs Turkey" tvg-name="21:45 World Cup Qualifying : Spain vs Turkey - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Diema Sport 3 Bulgaria
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=467
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Spain vs Turkey" tvg-name="21:45 World Cup Qualifying : Spain vs Turkey - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN Brazil
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=81
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Spain vs Turkey" tvg-name="21:45 World Cup Qualifying : Spain vs Turkey - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN Argentina
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=149
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Spain vs Turkey" tvg-name="21:45 World Cup Qualifying : Spain vs Turkey - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport Premier League
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=414
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Spain vs Turkey" tvg-name="21:45 World Cup Qualifying : Spain vs Turkey - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport MaXimo 1
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=572
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Spain vs Turkey" tvg-name="21:45 World Cup Qualifying : Spain vs Turkey - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sportklub 1 Croatia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=101
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Spain vs Turkey" tvg-name="21:45 World Cup Qualifying : Spain vs Turkey - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 1
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=91
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Spain vs Turkey" tvg-name="21:45 World Cup Qualifying : Spain vs Turkey - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 4 Israel
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=143
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Scotland vs Denmark" tvg-name="21:45 World Cup Qualifying : Scotland vs Denmark - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", BBC Two UK
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=357
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Scotland vs Denmark" tvg-name="21:45 World Cup Qualifying : Scotland vs Denmark - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport 2 NZ
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=589
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Scotland vs Denmark" tvg-name="21:45 World Cup Qualifying : Scotland vs Denmark - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN 2 DE
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=427
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Scotland vs Denmark" tvg-name="21:45 World Cup Qualifying : Scotland vs Denmark - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV4 Portugal
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=289
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Scotland vs Denmark" tvg-name="21:45 World Cup Qualifying : Scotland vs Denmark - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Polsat Sport Premium 2 Poland
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=14
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Scotland vs Denmark" tvg-name="21:45 World Cup Qualifying : Scotland vs Denmark - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Nova Sports 2 Greece
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=632
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Scotland vs Denmark" tvg-name="21:45 World Cup Qualifying : Scotland vs Denmark - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena 2 Premium Serbia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=135
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Scotland vs Denmark" tvg-name="21:45 World Cup Qualifying : Scotland vs Denmark - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV2 Sport Denmark
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=810
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Scotland vs Denmark" tvg-name="21:45 World Cup Qualifying : Scotland vs Denmark - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", V Sport Premium
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=15
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Scotland vs Denmark" tvg-name="21:45 World Cup Qualifying : Scotland vs Denmark - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Diema Sport Bulgaria
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=465
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Scotland vs Denmark" tvg-name="21:45 World Cup Qualifying : Scotland vs Denmark - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sportklub 3 Croatia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=103
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Scotland vs Denmark" tvg-name="21:45 World Cup Qualifying : Scotland vs Denmark - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN4 Brazil
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=85
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Scotland vs Denmark" tvg-name="21:45 World Cup Qualifying : Scotland vs Denmark - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN2 Argentina
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=150
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Scotland vs Denmark" tvg-name="21:45 World Cup Qualifying : Scotland vs Denmark - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport PSL
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=413
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Scotland vs Denmark" tvg-name="21:45 World Cup Qualifying : Scotland vs Denmark - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN SPORTS MENA 4
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=94
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Scotland vs Denmark" tvg-name="21:45 World Cup Qualifying : Scotland vs Denmark - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN SPORTS English 1
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=61
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Wales vs North Macedonia" tvg-name="21:45 World Cup Qualifying : Wales vs North Macedonia - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MRT1 Macedonia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=16
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Wales vs North Macedonia" tvg-name="21:45 World Cup Qualifying : Wales vs North Macedonia - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", BBC Three UK
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=358
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Wales vs North Macedonia" tvg-name="21:45 World Cup Qualifying : Wales vs North Macedonia - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", S4C UK
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=670
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Wales vs North Macedonia" tvg-name="21:45 World Cup Qualifying : Wales vs North Macedonia - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport 3 NZ
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=590
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Wales vs North Macedonia" tvg-name="21:45 World Cup Qualifying : Wales vs North Macedonia - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Polsat Sport Extra 2 Poland
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=17
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Wales vs North Macedonia" tvg-name="21:45 World Cup Qualifying : Wales vs North Macedonia - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Digi Sport 3 Romania
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=402
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Wales vs North Macedonia" tvg-name="21:45 World Cup Qualifying : Wales vs North Macedonia - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena 5 Premium Serbia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=13
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Wales vs North Macedonia" tvg-name="21:45 World Cup Qualifying : Wales vs North Macedonia - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Nova Sports Premier League Greece
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=599
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Wales vs North Macedonia" tvg-name="21:45 World Cup Qualifying : Wales vs North Macedonia - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Nova Sport Bulgaria
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=468
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Wales vs North Macedonia" tvg-name="21:45 World Cup Qualifying : Wales vs North Macedonia - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 7
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=97
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Wales vs North Macedonia" tvg-name="21:45 World Cup Qualifying : Wales vs North Macedonia - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA English 2
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=90
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Belgium vs Liechtenstein" tvg-name="21:45 World Cup Qualifying : Belgium vs Liechtenstein - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Fox Sports 2 USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=758
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Belgium vs Liechtenstein" tvg-name="21:45 World Cup Qualifying : Belgium vs Liechtenstein - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", VTM HD Belgium
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=105
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Belgium vs Liechtenstein" tvg-name="21:45 World Cup Qualifying : Belgium vs Liechtenstein - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", La Une Belgium
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=106
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Belgium vs Liechtenstein" tvg-name="21:45 World Cup Qualifying : Belgium vs Liechtenstein - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport 9 NZ
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=596
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Belgium vs Liechtenstein" tvg-name="21:45 World Cup Qualifying : Belgium vs Liechtenstein - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV2 Portugal
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=74
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Belgium vs Liechtenstein" tvg-name="21:45 World Cup Qualifying : Belgium vs Liechtenstein - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Ziggo Sport 3 NL
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=919
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Belgium vs Liechtenstein" tvg-name="21:45 World Cup Qualifying : Belgium vs Liechtenstein - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Polsat Sport Premium 1 Poland
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=8
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Belgium vs Liechtenstein" tvg-name="21:45 World Cup Qualifying : Belgium vs Liechtenstein - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Nova Sports 5 Greece
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=635
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Belgium vs Liechtenstein" tvg-name="21:45 World Cup Qualifying : Belgium vs Liechtenstein - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport Football
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=56
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Belgium vs Liechtenstein" tvg-name="21:45 World Cup Qualifying : Belgium vs Liechtenstein - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 3
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=93
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Romania vs San Marino" tvg-name="21:45 World Cup Qualifying : Romania vs San Marino - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Antena 1 Romania
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=18
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Romania vs San Marino" tvg-name="21:45 World Cup Qualifying : Romania vs San Marino - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Polsat Sport Extra 4 Poland
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=19
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Austria vs Bosnia and Herzegovina" tvg-name="21:45 World Cup Qualifying : Austria vs Bosnia and Herzegovina - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Fox Soccer Plus
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=756
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Austria vs Bosnia and Herzegovina" tvg-name="21:45 World Cup Qualifying : Austria vs Bosnia and Herzegovina - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", BHT 1 Bosnia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=5
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Austria vs Bosnia and Herzegovina" tvg-name="21:45 World Cup Qualifying : Austria vs Bosnia and Herzegovina - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ORF eins
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=6
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Austria vs Bosnia and Herzegovina" tvg-name="21:45 World Cup Qualifying : Austria vs Bosnia and Herzegovina - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport 5 NZ
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=592
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Austria vs Bosnia and Herzegovina" tvg-name="21:45 World Cup Qualifying : Austria vs Bosnia and Herzegovina - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV5 Portugal
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=290
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Austria vs Bosnia and Herzegovina" tvg-name="21:45 World Cup Qualifying : Austria vs Bosnia and Herzegovina - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena 4 Premium Serbia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=107
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Austria vs Bosnia and Herzegovina" tvg-name="21:45 World Cup Qualifying : Austria vs Bosnia and Herzegovina - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Digi Sport 1 Romania
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=400
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Austria vs Bosnia and Herzegovina" tvg-name="21:45 World Cup Qualifying : Austria vs Bosnia and Herzegovina - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Prima Sport 2 Romania
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=584
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Austria vs Bosnia and Herzegovina" tvg-name="21:45 World Cup Qualifying : Austria vs Bosnia and Herzegovina - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Diema Sport 2 Bulgaria
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=466
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Austria vs Bosnia and Herzegovina" tvg-name="21:45 World Cup Qualifying : Austria vs Bosnia and Herzegovina - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport Variety 3
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=418
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Austria vs Bosnia and Herzegovina" tvg-name="21:45 World Cup Qualifying : Austria vs Bosnia and Herzegovina - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 9
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=99
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Austria vs Bosnia and Herzegovina" tvg-name="21:45 World Cup Qualifying : Austria vs Bosnia and Herzegovina - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 2 Israel
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=141
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Bulgaria vs Georgia" tvg-name="21:45 World Cup Qualifying : Bulgaria vs Georgia - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", 1TV Georgia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=7
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Bulgaria vs Georgia" tvg-name="21:45 World Cup Qualifying : Bulgaria vs Georgia - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", BNT 1 Bulgaria
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=476
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Bulgaria vs Georgia" tvg-name="21:45 World Cup Qualifying : Bulgaria vs Georgia - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", BNT 3 Bulgaria
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=478
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Bulgaria vs Georgia" tvg-name="21:45 World Cup Qualifying : Bulgaria vs Georgia - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Nova Sports 4 Greece
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=634
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Bulgaria vs Georgia" tvg-name="21:45 World Cup Qualifying : Bulgaria vs Georgia - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport 6 NZ
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=593
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Bulgaria vs Georgia" tvg-name="21:45 World Cup Qualifying : Bulgaria vs Georgia - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA Xtra 1
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=100
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Belarus vs Greece" tvg-name="21:45 World Cup Qualifying : Belarus vs Greece - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Belarus 5
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=4
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Belarus vs Greece" tvg-name="21:45 World Cup Qualifying : Belarus vs Greece - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Alpha TV Greece
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=3
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Belarus vs Greece" tvg-name="21:45 World Cup Qualifying : Belarus vs Greece - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport 7 NZ
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=594
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Belarus vs Greece" tvg-name="21:45 World Cup Qualifying : Belarus vs Greece - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport Variety 1
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=416
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Belarus vs Greece" tvg-name="21:45 World Cup Qualifying : Belarus vs Greece - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 5
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=95
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Sweden vs Slovenia" tvg-name="21:45 World Cup Qualifying : Sweden vs Slovenia - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ŠTV 1 Slovenia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=20
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Sweden vs Slovenia" tvg-name="21:45 World Cup Qualifying : Sweden vs Slovenia - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport 4 NZ
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=591
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Sweden vs Slovenia" tvg-name="21:45 World Cup Qualifying : Sweden vs Slovenia - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Nova Sports 3 Greece
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=633
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Sweden vs Slovenia" tvg-name="21:45 World Cup Qualifying : Sweden vs Slovenia - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 2 Serbia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=430
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Sweden vs Slovenia" tvg-name="21:45 World Cup Qualifying : Sweden vs Slovenia - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sportklub 4 Croatia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=104
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Sweden vs Slovenia" tvg-name="21:45 World Cup Qualifying : Sweden vs Slovenia - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport Laliga
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=415
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Sweden vs Slovenia" tvg-name="21:45 World Cup Qualifying : Sweden vs Slovenia - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 6
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=96
+
+#EXTINF:-1 tvg-id="Chile - Primera Division - Deportes Concepción vs Antofagasta" tvg-name="23:00 Chile - Primera Division : Deportes Concepción vs Antofagasta - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TNT SPORTS Premium HD Chile
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=642
+
+#EXTINF:-1 tvg-id="Chile - Primera Division - Rangers vs San Marcos" tvg-name="01:30 Chile - Primera Division : Rangers vs San Marcos - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TNT SPORTS Premium HD Chile
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=642
+
+#EXTINF:-1 tvg-id="Brazil U20 Copa do Brasil - Sport Recife U20 vs Atlético Mineiro U20" tvg-name="01:30 Brazil U20 Copa do Brasil : Sport Recife U20 vs Atlético Mineiro U20 - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SporTV BR
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=78
+
+#EXTINF:-1 tvg-id="Brazil - Brasileirão - Botafogo vs Sport Recife" tvg-name="01:30 Brazil - Brasileirão : Botafogo vs Sport Recife - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Match Football 3 Russia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=138
+
+#EXTINF:-1 tvg-id="Colombia - Primera A - Fortaleza CEIF vs Deportes Tolima" tvg-name="01:30 Colombia - Primera A : Fortaleza CEIF vs Deportes Tolima - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Win+ Futbol Colombia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=392
+
+#EXTINF:-1 tvg-id="Friendly - Colombia vs Australia" tvg-name="02:00 Friendly : Colombia vs Australia - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV2 Portugal
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=74
+
+#EXTINF:-1 tvg-id="Friendly - Colombia vs Australia" tvg-name="02:00 Friendly : Colombia vs Australia - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Caracol TV
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1
+
+#EXTINF:-1 tvg-id="Friendly - USA vs Uruguay" tvg-name="02:00 Friendly : USA vs Uruguay - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TNT USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=338
+
+#EXTINF:-1 tvg-id="Friendly - USA vs Uruguay" tvg-name="02:00 Friendly : USA vs Uruguay - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", truTV USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=341
+
+#EXTINF:-1 tvg-id="Friendly - USA vs Uruguay" tvg-name="02:00 Friendly : USA vs Uruguay - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Astro Football
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=124
+
+#EXTINF:-1 tvg-id="Friendly - USA vs Uruguay" tvg-name="02:00 Friendly : USA vs Uruguay - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", NBC UNIVERSO USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=845
+
+#EXTINF:-1 tvg-id="Friendly - USA vs Uruguay" tvg-name="02:00 Friendly : USA vs Uruguay - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN Mexico
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=925
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Jamaica vs Curaçao" tvg-name="03:00 World Cup Qualifying : Jamaica vs Curaçao - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN 2 NL
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=386
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Guatemala vs Suriname" tvg-name="03:00 World Cup Qualifying : Guatemala vs Suriname - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN 1 NL
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=379
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Costa Rica vs Honduras" tvg-name="03:00 World Cup Qualifying : Costa Rica vs Honduras - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Telemundo
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=131
+
+#EXTINF:-1 tvg-id="Friendly - Ecuador vs New Zealand" tvg-name="03:30 Friendly : Ecuador vs New Zealand - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV4 Portugal
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=289
+
+#EXTINF:-1 tvg-id="Friendly - Canada vs Venezuela" tvg-name="03:30 Friendly : Canada vs Venezuela - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Fox Sports 1 USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=39
+
+#EXTINF:-1 tvg-id="Friendly - Canada vs Venezuela" tvg-name="03:30 Friendly : Canada vs Venezuela - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TSN1
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=111
+
+#EXTINF:-1 tvg-id="Friendly - Mexico vs Paraguay" tvg-name="03:30 Friendly : Mexico vs Paraguay - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Azteca 7 MX
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=844
+
+#EXTINF:-1 tvg-id="Friendly - Mexico vs Paraguay" tvg-name="03:30 Friendly : Mexico vs Paraguay - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TUDN USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=66
+
+#EXTINF:-1 tvg-id="Friendly - Mexico vs Paraguay" tvg-name="03:30 Friendly : Mexico vs Paraguay - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", FOX Deportes
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=643
+
+#EXTINF:-1 tvg-id="Friendly - Mexico vs Paraguay" tvg-name="03:30 Friendly : Mexico vs Paraguay - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Univision
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=132
+
+#EXTINF:-1 tvg-id="Davis Cup World Group Teams - France vs Belgium" tvg-name="17:00 Davis Cup World Group Teams : France vs Belgium - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=40
+
+#EXTINF:-1 tvg-id="Davis Cup World Group Teams - France vs Belgium" tvg-name="17:00 Davis Cup World Group Teams : France vs Belgium - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports+
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=36
+
+#EXTINF:-1 tvg-id="Davis Cup World Group Teams - France vs Belgium" tvg-name="17:00 Davis Cup World Group Teams : France vs Belgium - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 1 France
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=116
+
+#EXTINF:-1 tvg-id="Davis Cup World Group Teams - France vs Belgium" tvg-name="17:00 Davis Cup World Group Teams : France vs Belgium - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis UK
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=46
+
+#EXTINF:-1 tvg-id="Davis Cup World Group Teams - France vs Belgium" tvg-name="17:00 Davis Cup World Group Teams : France vs Belgium - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis DE
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=884
+
+#EXTINF:-1 tvg-id="Davis Cup World Group Teams - France vs Belgium" tvg-name="17:00 Davis Cup World Group Teams : France vs Belgium - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sport Tennis Italy
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=576
+
+#EXTINF:-1 tvg-id="Davis Cup World Group Teams - France vs Belgium" tvg-name="17:00 Davis Cup World Group Teams : France vs Belgium - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Digi Sport 2 Romania
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=401
+
+#EXTINF:-1 tvg-id="Davis Cup World Group Teams - France vs Belgium" tvg-name="17:00 Davis Cup World Group Teams : France vs Belgium - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TV4 Tennis
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=701
+
+#EXTINF:-1 tvg-id="Davis Cup World Group Teams - France vs Belgium" tvg-name="17:00 Davis Cup World Group Teams : France vs Belgium - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Arena Tennis
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=612
+
+#EXTINF:-1 tvg-id="Davis Cup World Group Teams - France vs Belgium" tvg-name="17:00 Davis Cup World Group Teams : France vs Belgium - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 2 Croatia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=102
+
+#EXTINF:-1 tvg-id="Davis Cup World Group Teams - France vs Belgium" tvg-name="17:00 Davis Cup World Group Teams : France vs Belgium - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Polsat Sport 3 Poland
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=129
+
+#EXTINF:-1 tvg-id="Davis Cup World Group Teams - France vs Belgium" tvg-name="17:00 Davis Cup World Group Teams : France vs Belgium - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport TV3 Portugal
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=454
+
+#EXTINF:-1 tvg-id="Davis Cup World Group Teams - France vs Belgium" tvg-name="17:00 Davis Cup World Group Teams : France vs Belgium - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", MAX Sport 1 Bulgaria
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=472
+
+#EXTINF:-1 tvg-id="Davis Cup World Group Teams - France vs Belgium" tvg-name="17:00 Davis Cup World Group Teams : France vs Belgium - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 4 NL
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=396
+
+#EXTINF:-1 tvg-id="Davis Cup World Group Teams - France vs Belgium" tvg-name="17:00 Davis Cup World Group Teams : France vs Belgium - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 3 NL
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=919
+
+#EXTINF:-1 tvg-id="Davis Cup World Group Teams - France vs Belgium" tvg-name="17:00 Davis Cup World Group Teams : France vs Belgium - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 1 NL
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=393
+
+#EXTINF:-1 tvg-id="Davis Cup World Group Teams - France vs Belgium" tvg-name="17:00 Davis Cup World Group Teams : France vs Belgium - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS Australia 1
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=491
+
+#EXTINF:-1 tvg-id="Davis Cup World Group Teams - France vs Belgium" tvg-name="17:00 Davis Cup World Group Teams : France vs Belgium - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS Australia 2
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=492
+
+#EXTINF:-1 tvg-id="Davis Cup World Group Teams - France vs Belgium" tvg-name="17:00 Davis Cup World Group Teams : France vs Belgium - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 4 NL
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=396
+
+#EXTINF:-1 tvg-id="Davis Cup World Group Teams - France vs Belgium" tvg-name="17:00 Davis Cup World Group Teams : France vs Belgium - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub HD Croatia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=453
+
+#EXTINF:-1 tvg-id="Davis Cup World Group Teams - France vs Belgium" tvg-name="17:00 Davis Cup World Group Teams : France vs Belgium - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 2 Malaysia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=713
+
+#EXTINF:-1 tvg-id="MotoGP - Valencia Test Day" tvg-name="11:00 MotoGP: Valencia Test Day - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TNT Sports 2 UK
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=32
+
+#EXTINF:-1 tvg-id="MotoGP - Valencia Test Day" tvg-name="11:00 MotoGP: Valencia Test Day - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport MotoGP Italy
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=575
+
+#EXTINF:-1 tvg-id="MotoGP - Valencia Test Day" tvg-name="11:00 MotoGP: Valencia Test Day - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", CANAL+ MotoGP France
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=271
+
+#EXTINF:-1 tvg-id="MotoGP - Valencia Test Day" tvg-name="11:00 MotoGP: Valencia Test Day - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport Mix DE
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=557
+
+#EXTINF:-1 tvg-id="MotoGP - Valencia Test Day" tvg-name="11:00 MotoGP: Valencia Test Day - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport Top Event DE
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=556
+
+#EXTINF:-1 tvg-id="MotoGP - Valencia Test Day" tvg-name="11:00 MotoGP: Valencia Test Day - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Canal+ Sport 360
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=464
+
+#EXTINF:-1 tvg-id="MotoGP - Valencia Test Day" tvg-name="11:00 MotoGP: Valencia Test Day - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport TV4 Portugal
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=289
+
+#EXTINF:-1 tvg-id="MotoGP - Valencia Test Day" tvg-name="11:00 MotoGP: Valencia Test Day - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ESPN Argentina
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=149
+
+#EXTINF:-1 tvg-id="MotoGP - Valencia Test Day" tvg-name="11:00 MotoGP: Valencia Test Day - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cosmote Sport 5 Greece
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=626
+
+#EXTINF:-1 tvg-id="MotoGP - Valencia Test Day" tvg-name="11:00 MotoGP: Valencia Test Day - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cytavision Sports 6
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=916
+
+#EXTINF:-1 tvg-id="MotoGP - Valencia Test Day" tvg-name="11:00 MotoGP: Valencia Test Day - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport Klub 1 Croatia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=101
+
+#EXTINF:-1 tvg-id="MotoGP - Valencia Test Day" tvg-name="11:00 MotoGP: Valencia Test Day - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Ziggo Sport 1 NL
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=393
+
+#EXTINF:-1 tvg-id="MotoGP - Valencia Test Day" tvg-name="15:20 MotoGP: Valencia Test Day - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TNT Sports 2 UK
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=32
+
+#EXTINF:-1 tvg-id="MotoGP - Valencia Test Day" tvg-name="15:20 MotoGP: Valencia Test Day - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport MotoGP Italy
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=575
+
+#EXTINF:-1 tvg-id="MotoGP - Valencia Test Day" tvg-name="15:20 MotoGP: Valencia Test Day - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", CANAL+ MotoGP France
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=271
+
+#EXTINF:-1 tvg-id="MotoGP - Valencia Test Day" tvg-name="15:20 MotoGP: Valencia Test Day - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport Mix DE
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=557
+
+#EXTINF:-1 tvg-id="MotoGP - Valencia Test Day" tvg-name="15:20 MotoGP: Valencia Test Day - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport Top Event DE
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=556
+
+#EXTINF:-1 tvg-id="MotoGP - Valencia Test Day" tvg-name="15:20 MotoGP: Valencia Test Day - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Canal+ Sport 360
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=464
+
+#EXTINF:-1 tvg-id="MotoGP - Valencia Test Day" tvg-name="15:20 MotoGP: Valencia Test Day - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport TV4 Portugal
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=289
+
+#EXTINF:-1 tvg-id="MotoGP - Valencia Test Day" tvg-name="15:20 MotoGP: Valencia Test Day - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ESPN Argentina
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=149
+
+#EXTINF:-1 tvg-id="MotoGP - Valencia Test Day" tvg-name="15:20 MotoGP: Valencia Test Day - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cosmote Sport 5 Greece
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=626
+
+#EXTINF:-1 tvg-id="MotoGP - Valencia Test Day" tvg-name="15:20 MotoGP: Valencia Test Day - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cytavision Sports 6
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=916
+
+#EXTINF:-1 tvg-id="MotoGP - Valencia Test Day" tvg-name="15:20 MotoGP: Valencia Test Day - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport Klub 1 Croatia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=101
+
+#EXTINF:-1 tvg-id="MotoGP - Valencia Test Day" tvg-name="15:20 MotoGP: Valencia Test Day - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Ziggo Sport 1 NL
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=393
+
+#EXTINF:-1 tvg-id="WWE NXT - WWE NXT" tvg-name="02:00 WWE NXT - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe (Nxt)", CW USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=300
+
+#EXTINF:-1 tvg-id="WWE NXT - WWE NXT" tvg-name="02:00 WWE NXT - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe (Nxt)", CW PIX 11 USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=280
+
+#EXTINF:-1 tvg-id="WWE NXT - WWE NXT" tvg-name="02:00 WWE NXT - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe (Nxt)", SuperSport Variety 3
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=418
+
+#EXTINF:-1 tvg-id="WWE NXT - WWE NXT" tvg-name="02:00 WWE NXT - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe (Nxt)", SuperSport Grandstand
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=412
+
+#EXTINF:-1 tvg-id="NCAAF - Akron vs Bowling Green" tvg-name="02:00 NCAAF : Akron vs Bowling Green - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPNU USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=316
+
+#EXTINF:-1 tvg-id="NCAAF - UMass vs Ohio" tvg-name="02:00 NCAAF : UMass vs Ohio - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", CBSSN
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=308
+
+#EXTINF:-1 tvg-id="NCAAF - Western Michigan vs NIU" tvg-name="02:00 NCAAF : Western Michigan vs NIU - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN2 USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=45
+
+#EXTINF:-1 tvg-id="Russia United League - Uralmash Yekaterinburg vs PBC Lokomotiv-Kuban" tvg-name="16:30 Russia United League : Uralmash Yekaterinburg vs PBC Lokomotiv-Kuban - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Match Igra Russia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=108
+
+#EXTINF:-1 tvg-id="United League - Zenit Saint Petersburg vs. BC Nizhny Novgorod" tvg-name="18:30 United League : Zenit Saint Petersburg vs. BC Nizhny Novgorod - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Arena 2 Premium Serbia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=135
+
+#EXTINF:-1 tvg-id="Israeli National League Basketball - Elizur Ashkelon vs Maccabi Rehovot" tvg-name="18:30 Israeli National League Basketball : Elizur Ashkelon vs Maccabi Rehovot - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", 5Sport Israel
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=144
+
+#EXTINF:-1 tvg-id="Slovenia 1. A SKL - ECE Triglav Kranj vs KK Krka Novo Mesto" tvg-name="18:30 Slovenia 1. A SKL : ECE Triglav Kranj vs KK Krka Novo Mesto - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", ŠTV 1 Slovenia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=20
+
+#EXTINF:-1 tvg-id="United Cup - CSKA Moscow vs Parma Permsky Kray" tvg-name="19:00 United Cup : CSKA Moscow vs Parma Permsky Kray - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Match Igra Russia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=108
+
+#EXTINF:-1 tvg-id="United Cup - CSKA Moscow vs Parma Permsky Kray" tvg-name="19:00 United Cup : CSKA Moscow vs Parma Permsky Kray - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Arena 1 Premium Serbia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=134
+
+#EXTINF:-1 tvg-id="Eurocup - Neptunas vs Aris" tvg-name="19:00 Eurocup : Neptunas vs Aris - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Magenta Sport 301
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=21
+
+#EXTINF:-1 tvg-id="Eurocup - Neptunas vs Aris" tvg-name="19:00 Eurocup : Neptunas vs Aris - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Nova Sports 4 Greece
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=634
+
+#EXTINF:-1 tvg-id="Eurocup - Cluj Napoca vs Hapoel M. Jerusalem" tvg-name="19:00 Eurocup : Cluj Napoca vs Hapoel M. Jerusalem - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Magenta Sport 302
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=22
+
+#EXTINF:-1 tvg-id="Eurocup - Cluj Napoca vs Hapoel M. Jerusalem" tvg-name="19:00 Eurocup : Cluj Napoca vs Hapoel M. Jerusalem - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport TV2 Portugal
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=74
+
+#EXTINF:-1 tvg-id="Eurocup - Cluj Napoca vs Hapoel M. Jerusalem" tvg-name="19:00 Eurocup : Cluj Napoca vs Hapoel M. Jerusalem - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", ŠTV 3 Slovenia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=109
+
+#EXTINF:-1 tvg-id="Eurocup - Cluj Napoca vs Hapoel M. Jerusalem" tvg-name="19:00 Eurocup : Cluj Napoca vs Hapoel M. Jerusalem - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Prima Sport 2 Romania
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=584
+
+#EXTINF:-1 tvg-id="Eurocup - Cluj Napoca vs Hapoel M. Jerusalem" tvg-name="19:00 Eurocup : Cluj Napoca vs Hapoel M. Jerusalem - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Arena 4 Premium Serbia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=107
+
+#EXTINF:-1 tvg-id="Eurocup - Cluj Napoca vs Hapoel M. Jerusalem" tvg-name="19:00 Eurocup : Cluj Napoca vs Hapoel M. Jerusalem - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", MAX Sport 2 Bulgaria
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=473
+
+#EXTINF:-1 tvg-id="Eurocup - Cluj Napoca vs Hapoel M. Jerusalem" tvg-name="19:00 Eurocup : Cluj Napoca vs Hapoel M. Jerusalem - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sportklub 1 Croatia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=101
+
+#EXTINF:-1 tvg-id="Eurocup - Cluj Napoca vs Hapoel M. Jerusalem" tvg-name="19:00 Eurocup : Cluj Napoca vs Hapoel M. Jerusalem - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport 1 Israel
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=140
+
+#EXTINF:-1 tvg-id="Champions League - Galatasaray vs Trieste" tvg-name="19:00 Champions League : Galatasaray vs Trieste - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Arena Sport 3 Croatia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=434
+
+#EXTINF:-1 tvg-id="Champions League - Galatasaray vs Trieste" tvg-name="19:00 Champions League : Galatasaray vs Trieste - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Zona DAZN IT
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=877
+
+#EXTINF:-1 tvg-id="Champions League - Galatasaray vs Trieste" tvg-name="19:00 Champions League : Galatasaray vs Trieste - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Nova Sport 2 CZ
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1022
+
+#EXTINF:-1 tvg-id="Champions League - Galatasaray vs Trieste" tvg-name="19:00 Champions League : Galatasaray vs Trieste - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Arena 3 Premium Serbia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=139
+
+#EXTINF:-1 tvg-id="ABA Liga 2 - KK Siroki vs. KK TFT Skopje" tvg-name="19:00 ABA Liga 2 : KK Siroki vs. KK TFT Skopje - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Arena Sport 10 Serbia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=945
+
+#EXTINF:-1 tvg-id="Eurobasket Women - Norway vs. Great Britain" tvg-name="19:00 Eurobasket Women : Norway vs. Great Britain - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", TV2 Sport 1 Norway HD
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=26
+
+#EXTINF:-1 tvg-id="Eurobasket Women - Slovakia W vs Romania W" tvg-name="19:00 Eurobasket Women : Slovakia W vs Romania W - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Digi Sport 3 Romania
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=402
+
+#EXTINF:-1 tvg-id="Eurobasket Women - Slovakia W vs Romania W" tvg-name="19:00 Eurobasket Women : Slovakia W vs Romania W - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Prima Sport 4 Romania
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=586
+
+#EXTINF:-1 tvg-id="Eurobasket Women - Slovakia W vs Romania W" tvg-name="19:00 Eurobasket Women : Slovakia W vs Romania W - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", JOJ Sport Slovakia 2
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=27
+
+#EXTINF:-1 tvg-id="Eurobasket Women - Denmark W vs Greece W" tvg-name="19:30 Eurobasket Women : Denmark W vs Greece W - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", ERT 2 Greece
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1
+
+#EXTINF:-1 tvg-id="Champions League - MLP Academics Heidelberg vs. Promitheas Patras BC" tvg-name="19:30 Champions League : MLP Academics Heidelberg vs. Promitheas Patras BC - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Cosmote Sport 4 Greece
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=625
+
+#EXTINF:-1 tvg-id="Champions League - MLP Academics Heidelberg vs. Promitheas Patras BC" tvg-name="19:30 Champions League : MLP Academics Heidelberg vs. Promitheas Patras BC - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Nova Sport 1 CZ
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1021
+
+#EXTINF:-1 tvg-id="Champions League - Legia Warszawa vs. BC Rytas Vilnius" tvg-name="19:45 Champions League : Legia Warszawa vs. BC Rytas Vilnius - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", TVP Sport Poland
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=128
+
+#EXTINF:-1 tvg-id="EuroBasket, Women, Qualification - Israel vs Ireland" tvg-name="20:00 EuroBasket, Women, Qualification : Israel vs Ireland - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", 5Sport Plus Israel
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=145
+
+#EXTINF:-1 tvg-id="Eurocup - Buducnost vs Ulm" tvg-name="20:00 Eurocup : Buducnost vs Ulm - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Magenta Sport 304
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=23
+
+#EXTINF:-1 tvg-id="Eurocup - Buducnost vs Ulm" tvg-name="20:00 Eurocup : Buducnost vs Ulm - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", ŠTV 2 Slovenia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=110
+
+#EXTINF:-1 tvg-id="Eurocup - Buducnost vs Ulm" tvg-name="20:00 Eurocup : Buducnost vs Ulm - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Arena Sport 1 Serbia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=429
+
+#EXTINF:-1 tvg-id="Eurocup - Slask Wroclaw vs Bahcesehir Koleji" tvg-name="20:00 Eurocup : Slask Wroclaw vs Bahcesehir Koleji - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Magenta Sport 303
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=24
+
+#EXTINF:-1 tvg-id="Eurocup - Slask Wroclaw vs Bahcesehir Koleji" tvg-name="20:00 Eurocup : Slask Wroclaw vs Bahcesehir Koleji - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Polsat Sport 3 Poland
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=129
+
+#EXTINF:-1 tvg-id="Eurocup - Slask Wroclaw vs Bahcesehir Koleji" tvg-name="20:00 Eurocup : Slask Wroclaw vs Bahcesehir Koleji - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Arena Sport 6 Serbia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=941
+
+#EXTINF:-1 tvg-id="Eurobasket Women - Switzerland W vs Austria W" tvg-name="20:00 Eurobasket Women : Switzerland W vs Austria W - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", ORF Sport Plus
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=28
+
+#EXTINF:-1 tvg-id="Eurocup - Aquila Basket Trento vs. Niners Chemnitz" tvg-name="21:00 Eurocup : Aquila Basket Trento vs. Niners Chemnitz - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Magenta Sport 305
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=25
+
+#EXTINF:-1 tvg-id="Eurocup - Aquila Basket Trento vs. Niners Chemnitz" tvg-name="21:00 Eurocup : Aquila Basket Trento vs. Niners Chemnitz - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", ŠTV 3 Slovenia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=109
+
+#EXTINF:-1 tvg-id="Eurocup - Aquila Basket Trento vs. Niners Chemnitz" tvg-name="21:00 Eurocup : Aquila Basket Trento vs. Niners Chemnitz - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Arena Sport 3 Serbia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=431
+
+#EXTINF:-1 tvg-id="Eurocup - Aquila Basket Trento vs. Niners Chemnitz" tvg-name="21:00 Eurocup : Aquila Basket Trento vs. Niners Chemnitz - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", MAX Sport 2 Bulgaria
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=473
+
+#EXTINF:-1 tvg-id="Eurobasket Women - Portugal W vs Iceland W" tvg-name="21:00 Eurobasket Women : Portugal W vs Iceland W - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", RTP 2 Portugal
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=720
+
+#EXTINF:-1 tvg-id="Champions League - Le Mans Sarthe Basket vs. CB Gran Canaria" tvg-name="21:00 Champions League : Le Mans Sarthe Basket vs. CB Gran Canaria - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Arena Sport 3 Croatia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=434
+
+#EXTINF:-1 tvg-id="Champions League - Le Mans Sarthe Basket vs. CB Gran Canaria" tvg-name="21:00 Champions League : Le Mans Sarthe Basket vs. CB Gran Canaria - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Nova Sport 2 CZ
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1022
+
+#EXTINF:-1 tvg-id="Champions League - Le Mans Sarthe Basket vs. CB Gran Canaria" tvg-name="21:00 Champions League : Le Mans Sarthe Basket vs. CB Gran Canaria - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", 5Sport Live Israel
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=146
+
+#EXTINF:-1 tvg-id="Eurobasket Women - Poland W vs Cyprus W" tvg-name="21:35 Eurobasket Women : Poland W vs Cyprus W - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", TVP Sport Poland
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=128
+
+#EXTINF:-1 tvg-id="Brazil NBB - Botafogo vs Caixa Brasilia Basquete" tvg-name="01:30 Brazil NBB : Botafogo vs Caixa Brasilia Basquete - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", ESPN2 Brazil
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=82
+
+#EXTINF:-1 tvg-id="NBA G-League - Sioux Falls Skyforce vs Cleveland Charge" tvg-name="02:30 NBA G-League : Sioux Falls Skyforce vs Cleveland Charge - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", FanDuel Sports Network Sun
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=905
+
+#EXTINF:-1 tvg-id="NCAA - Michigan State vs Kentucky" tvg-name="01:30 NCAA : Michigan State vs Kentucky - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ncaa/Ncaaw Basketball", ESPN USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=44
+
+#EXTINF:-1 tvg-id="NCAA - Michigan State vs Kentucky" tvg-name="01:30 NCAA : Michigan State vs Kentucky - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ncaa/Ncaaw Basketball", TSN2
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=112
+
+#EXTINF:-1 tvg-id="NCAA - Michigan State vs Kentucky" tvg-name="01:30 NCAA : Michigan State vs Kentucky - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ncaa/Ncaaw Basketball", Sportklub 2 Croatia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=102
+
+#EXTINF:-1 tvg-id="NCAA - Rutgers vs American University" tvg-name="01:30 NCAA : Rutgers vs American University - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ncaa/Ncaaw Basketball", BTN USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=397
+
+#EXTINF:-1 tvg-id="NCAA - Drexel vs NJIT" tvg-name="02:00 NCAA : Drexel vs NJIT - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ncaa/Ncaaw Basketball", NBCS Philadelphia USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=777
+
+#EXTINF:-1 tvg-id="NCAA - North Carolina vs Navy" tvg-name="02:00 NCAA : North Carolina vs Navy - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ncaa/Ncaaw Basketball", ACC Network USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=664
+
+#EXTINF:-1 tvg-id="NCAA - Yale vs Rhode Island" tvg-name="03:00 NCAA : Yale vs Rhode Island - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ncaa/Ncaaw Basketball", NESN USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=762
+
+#EXTINF:-1 tvg-id="NCAA - Iowa vs Southeast Missouri State" tvg-name="03:30 NCAA : Iowa vs Southeast Missouri State - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ncaa/Ncaaw Basketball", BTN USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=397
+
+#EXTINF:-1 tvg-id="NCAA - Kansas vs Duke" tvg-name="04:00 NCAA : Kansas vs Duke - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ncaa/Ncaaw Basketball", ESPN USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=44
+
+#EXTINF:-1 tvg-id="NCAA - Kansas vs Duke" tvg-name="04:00 NCAA : Kansas vs Duke - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ncaa/Ncaaw Basketball", TSN2
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=112
+
+#EXTINF:-1 tvg-id="NCAA - Kansas vs Duke" tvg-name="04:00 NCAA : Kansas vs Duke - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ncaa/Ncaaw Basketball", beIN Sports 5 Max France
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=495
+
+#EXTINF:-1 tvg-id="NCAA - Syracuse vs Monmouth" tvg-name="04:00 NCAA : Syracuse vs Monmouth - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ncaa/Ncaaw Basketball", ACC Network USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=664
+
+#EXTINF:-1 tvg-id="NCAA - Texas vs Rider" tvg-name="04:00 NCAA : Texas vs Rider - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ncaa/Ncaaw Basketball", SEC Network USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=385
+
+#EXTINF:-1 tvg-id="NCAA - UCLA vs Sacramento State" tvg-name="05:30 NCAA : UCLA vs Sacramento State - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ncaa/Ncaaw Basketball", BTN USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=397
+
+#EXTINF:-1 tvg-id="NBA - Orlando Magic vs Golden State Warriors" tvg-name="02:00 NBA : Orlando Magic vs Golden State Warriors - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", NBA League Pass
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=2
+
+#EXTINF:-1 tvg-id="NBA - Orlando Magic vs Golden State Warriors" tvg-name="02:00 NBA : Orlando Magic vs Golden State Warriors - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", NBCS Bay Area USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=753
+
+#EXTINF:-1 tvg-id="NBA - Orlando Magic vs Golden State Warriors" tvg-name="02:00 NBA : Orlando Magic vs Golden State Warriors - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", RDS 2 CA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=840
+
+#EXTINF:-1 tvg-id="NBA - Orlando Magic vs Golden State Warriors" tvg-name="02:00 NBA : Orlando Magic vs Golden State Warriors - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Sportsnet One
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=411
+
+#EXTINF:-1 tvg-id="NBA - Orlando Magic vs Golden State Warriors" tvg-name="02:00 NBA : Orlando Magic vs Golden State Warriors - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", FanDuel Sports Network Florida
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=892
+
+#EXTINF:-1 tvg-id="NBA - Orlando Magic vs Golden State Warriors" tvg-name="02:00 NBA : Orlando Magic vs Golden State Warriors - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Arena 1 Premium Serbia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=134
+
+#EXTINF:-1 tvg-id="NBA - Brooklyn Nets vs Boston Celtics" tvg-name="02:30 NBA : Brooklyn Nets vs Boston Celtics - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", NBA League Pass
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=3
+
+#EXTINF:-1 tvg-id="NBA - Brooklyn Nets vs Boston Celtics" tvg-name="02:30 NBA : Brooklyn Nets vs Boston Celtics - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", YES USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=763
+
+#EXTINF:-1 tvg-id="NBA - Brooklyn Nets vs Boston Celtics" tvg-name="02:30 NBA : Brooklyn Nets vs Boston Celtics - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", NBCS Boston USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=754
+
+#EXTINF:-1 tvg-id="NBA - Atlanta Hawks vs Detroit Pistons" tvg-name="02:30 NBA : Atlanta Hawks vs Detroit Pistons - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", NBA League Pass
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=4
+
+#EXTINF:-1 tvg-id="NBA - Atlanta Hawks vs Detroit Pistons" tvg-name="02:30 NBA : Atlanta Hawks vs Detroit Pistons - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", FanDuel Sports Network Detroit
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=891
+
+#EXTINF:-1 tvg-id="NBA - Atlanta Hawks vs Detroit Pistons" tvg-name="02:30 NBA : Atlanta Hawks vs Detroit Pistons - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", FanDuel Sports Network Southeast
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=904
+
+#EXTINF:-1 tvg-id="NBA - Atlanta Hawks vs Detroit Pistons" tvg-name="02:30 NBA : Atlanta Hawks vs Detroit Pistons - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", beIN Sports 1 France
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=116
+
+#EXTINF:-1 tvg-id="NBA - Atlanta Hawks vs Detroit Pistons" tvg-name="02:30 NBA : Atlanta Hawks vs Detroit Pistons - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", beIN SPORTS MENA 8
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=98
+
+#EXTINF:-1 tvg-id="NBA - Atlanta Hawks vs Detroit Pistons" tvg-name="02:30 NBA : Atlanta Hawks vs Detroit Pistons - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", beIN SPORTS MENA English 1
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=61
+
+#EXTINF:-1 tvg-id="NBA - San Antonio Spurs vs Memphis Grizzlies" tvg-name="03:00 NBA : San Antonio Spurs vs Memphis Grizzlies - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", NBA League Pass
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=5
+
+#EXTINF:-1 tvg-id="NBA - San Antonio Spurs vs Memphis Grizzlies" tvg-name="03:00 NBA : San Antonio Spurs vs Memphis Grizzlies - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", NBC USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=53
+
+#EXTINF:-1 tvg-id="NBA - San Antonio Spurs vs Memphis Grizzlies" tvg-name="03:00 NBA : San Antonio Spurs vs Memphis Grizzlies - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", NBCNY USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=769
+
+#EXTINF:-1 tvg-id="NBA - San Antonio Spurs vs Memphis Grizzlies" tvg-name="03:00 NBA : San Antonio Spurs vs Memphis Grizzlies - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Sky Sports+
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=36
+
+#EXTINF:-1 tvg-id="NBA - San Antonio Spurs vs Memphis Grizzlies" tvg-name="03:00 NBA : San Antonio Spurs vs Memphis Grizzlies - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Sky Sports Main Event UK
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=38
+
+#EXTINF:-1 tvg-id="NBA - San Antonio Spurs vs Memphis Grizzlies" tvg-name="03:00 NBA : San Antonio Spurs vs Memphis Grizzlies - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", TSN5
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=115
+
+#EXTINF:-1 tvg-id="NBA - San Antonio Spurs vs Memphis Grizzlies" tvg-name="03:00 NBA : San Antonio Spurs vs Memphis Grizzlies - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Sky Sport Top Event DE
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=556
+
+#EXTINF:-1 tvg-id="NBA - San Antonio Spurs vs Memphis Grizzlies" tvg-name="03:00 NBA : San Antonio Spurs vs Memphis Grizzlies - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Nova SPORT 2 CZ
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1022
+
+#EXTINF:-1 tvg-id="NBA - San Antonio Spurs vs Memphis Grizzlies" tvg-name="03:00 NBA : San Antonio Spurs vs Memphis Grizzlies - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Sportklub 1 Croatia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=101
+
+#EXTINF:-1 tvg-id="NBA - San Antonio Spurs vs Memphis Grizzlies" tvg-name="03:00 NBA : San Antonio Spurs vs Memphis Grizzlies - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Cosmote Sport 4 Greece
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=625
+
+#EXTINF:-1 tvg-id="NBA - San Antonio Spurs vs Memphis Grizzlies" tvg-name="03:00 NBA : San Antonio Spurs vs Memphis Grizzlies - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Diema sport 3 Bulgaria
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=467
+
+#EXTINF:-1 tvg-id="NBA - Los Angeles Lakers vs Utah Jazz" tvg-name="05:30 NBA : Los Angeles Lakers vs Utah Jazz - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", NBA League Pass
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=6
+
+#EXTINF:-1 tvg-id="NBA - Los Angeles Lakers vs Utah Jazz" tvg-name="05:30 NBA : Los Angeles Lakers vs Utah Jazz - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Spectrum SportsNet USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=982
+
+#EXTINF:-1 tvg-id="NBA - Los Angeles Lakers vs Utah Jazz" tvg-name="05:30 NBA : Los Angeles Lakers vs Utah Jazz - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Sportsnet One
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=411
+
+#EXTINF:-1 tvg-id="NBA - Portland Trail Blazers vs Phoenix Suns" tvg-name="06:00 NBA : Portland Trail Blazers vs Phoenix Suns - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", NBA League Pass
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=7
+
+#EXTINF:-1 tvg-id="NBA - Portland Trail Blazers vs Phoenix Suns" tvg-name="06:00 NBA : Portland Trail Blazers vs Phoenix Suns - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Sky Sports+
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=36
+
+#EXTINF:-1 tvg-id="NBA - Portland Trail Blazers vs Phoenix Suns" tvg-name="06:00 NBA : Portland Trail Blazers vs Phoenix Suns - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", TSN5
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=115
+
+#EXTINF:-1 tvg-id="NBA - Portland Trail Blazers vs Phoenix Suns" tvg-name="06:00 NBA : Portland Trail Blazers vs Phoenix Suns - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Nova SPORT 2 CZ
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1022
+
+#EXTINF:-1 tvg-id="NBA - Portland Trail Blazers vs Phoenix Suns" tvg-name="06:00 NBA : Portland Trail Blazers vs Phoenix Suns - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Sky Sport Top Event DE
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=556
+
+#EXTINF:-1 tvg-id="NBA - Portland Trail Blazers vs Phoenix Suns" tvg-name="06:00 NBA : Portland Trail Blazers vs Phoenix Suns - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", beIN Sports 2 France
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=117
+
+#EXTINF:-1 tvg-id="NBA - Portland Trail Blazers vs Phoenix Suns" tvg-name="06:00 NBA : Portland Trail Blazers vs Phoenix Suns - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", beIN SPORTS MENA English 1
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=61
+
+#EXTINF:-1 tvg-id="NBA - Portland Trail Blazers vs Phoenix Suns" tvg-name="06:00 NBA : Portland Trail Blazers vs Phoenix Suns - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", beIN SPORTS MENA 8
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=98
+
+#EXTINF:-1 tvg-id="NHL - St. Louis Blues vs Toronto Maple Leafs" tvg-name="02:00 NHL : St. Louis Blues vs Toronto Maple Leafs - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", NHL Gamecenter
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=8
+
+#EXTINF:-1 tvg-id="NHL - St. Louis Blues vs Toronto Maple Leafs" tvg-name="02:00 NHL : St. Louis Blues vs Toronto Maple Leafs - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", TSN4
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=114
+
+#EXTINF:-1 tvg-id="NHL - St. Louis Blues vs Toronto Maple Leafs" tvg-name="02:00 NHL : St. Louis Blues vs Toronto Maple Leafs - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", TVA Sports
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=833
+
+#EXTINF:-1 tvg-id="NHL - St. Louis Blues vs Toronto Maple Leafs" tvg-name="02:00 NHL : St. Louis Blues vs Toronto Maple Leafs - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", FanDuel Sports Network Indiana
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=894
+
+#EXTINF:-1 tvg-id="NHL - St. Louis Blues vs Toronto Maple Leafs" tvg-name="02:00 NHL : St. Louis Blues vs Toronto Maple Leafs - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", FanDuel Sports Network Kansas City
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=895
+
+#EXTINF:-1 tvg-id="NHL - St. Louis Blues vs Toronto Maple Leafs" tvg-name="02:00 NHL : St. Louis Blues vs Toronto Maple Leafs - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", FanDuel Sports Network Midwest
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=896
+
+#EXTINF:-1 tvg-id="NHL - St. Louis Blues vs Toronto Maple Leafs" tvg-name="02:00 NHL : St. Louis Blues vs Toronto Maple Leafs - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", beIN Sports 4 Max France
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=494
+
+#EXTINF:-1 tvg-id="NHL - New Jersey Devils vs Tampa Bay Lightning" tvg-name="02:00 NHL : New Jersey Devils vs Tampa Bay Lightning - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", NHL Gamecenter
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=9
+
+#EXTINF:-1 tvg-id="NHL - New Jersey Devils vs Tampa Bay Lightning" tvg-name="02:00 NHL : New Jersey Devils vs Tampa Bay Lightning - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", NHL Network USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=663
+
+#EXTINF:-1 tvg-id="NHL - New Jersey Devils vs Tampa Bay Lightning" tvg-name="02:00 NHL : New Jersey Devils vs Tampa Bay Lightning - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", Sportsnet East
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=408
+
+#EXTINF:-1 tvg-id="NHL - New Jersey Devils vs Tampa Bay Lightning" tvg-name="02:00 NHL : New Jersey Devils vs Tampa Bay Lightning - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", Sportsnet Ontario
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=406
+
+#EXTINF:-1 tvg-id="NHL - New Jersey Devils vs Tampa Bay Lightning" tvg-name="02:00 NHL : New Jersey Devils vs Tampa Bay Lightning - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", TV3 Sport Denmark
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=809
+
+#EXTINF:-1 tvg-id="NHL - New Jersey Devils vs Tampa Bay Lightning" tvg-name="02:00 NHL : New Jersey Devils vs Tampa Bay Lightning - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", V Sport Vinter
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=76
+
+#EXTINF:-1 tvg-id="NHL - Seattle Kraken vs Detroit Red Wings" tvg-name="02:00 NHL : Seattle Kraken vs Detroit Red Wings - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", NHL Gamecenter
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=10
+
+#EXTINF:-1 tvg-id="NHL - Seattle Kraken vs Detroit Red Wings" tvg-name="02:00 NHL : Seattle Kraken vs Detroit Red Wings - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", Viaplay Sports 2 UK
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=550
+
+#EXTINF:-1 tvg-id="NHL - Seattle Kraken vs Detroit Red Wings" tvg-name="02:00 NHL : Seattle Kraken vs Detroit Red Wings - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", Sky Sport Mix DE
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=557
+
+#EXTINF:-1 tvg-id="NHL - Seattle Kraken vs Detroit Red Wings" tvg-name="02:00 NHL : Seattle Kraken vs Detroit Red Wings - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", Nova Sport 1 CZ
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1021
+
+#EXTINF:-1 tvg-id="NHL - Seattle Kraken vs Detroit Red Wings" tvg-name="02:00 NHL : Seattle Kraken vs Detroit Red Wings - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", V Sport Premium Sweden
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=15
+
+#EXTINF:-1 tvg-id="NHL - Seattle Kraken vs Detroit Red Wings" tvg-name="02:00 NHL : Seattle Kraken vs Detroit Red Wings - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", MAX Sport 2 Bulgaria
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=473
+
+#EXTINF:-1 tvg-id="NHL - Columbus Blue Jackets vs Winnipeg Jets" tvg-name="03:00 NHL : Columbus Blue Jackets vs Winnipeg Jets - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", NHL Gamecenter
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=11
+
+#EXTINF:-1 tvg-id="NHL - Columbus Blue Jackets vs Winnipeg Jets" tvg-name="03:00 NHL : Columbus Blue Jackets vs Winnipeg Jets - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", TSN3
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=113
+
+#EXTINF:-1 tvg-id="NHL - Columbus Blue Jackets vs Winnipeg Jets" tvg-name="03:00 NHL : Columbus Blue Jackets vs Winnipeg Jets - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", FanDuel Sports Network Ohio
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=899
+
+#EXTINF:-1 tvg-id="NHL - New York Islanders vs Dallas Stars" tvg-name="03:00 NHL : New York Islanders vs Dallas Stars - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", NHL Gamecenter
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=12
+
+#EXTINF:-1 tvg-id="NHL - Calgary Flames vs Chicago Blackhawks" tvg-name="03:30 NHL : Calgary Flames vs Chicago Blackhawks - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", NHL Gamecenter
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=13
+
+#EXTINF:-1 tvg-id="NHL - Calgary Flames vs Chicago Blackhawks" tvg-name="03:30 NHL : Calgary Flames vs Chicago Blackhawks - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", Chicago Sports Network
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=776
+
+#EXTINF:-1 tvg-id="NHL - Calgary Flames vs Chicago Blackhawks" tvg-name="03:30 NHL : Calgary Flames vs Chicago Blackhawks - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", Sportsnet West
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=407
+
+#EXTINF:-1 tvg-id="NHL - New York Rangers vs Vegas Golden Knights" tvg-name="05:00 NHL : New York Rangers vs Vegas Golden Knights - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", NHL Gamecenter
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=14
+
+#EXTINF:-1 tvg-id="NHL - New York Rangers vs Vegas Golden Knights" tvg-name="05:00 NHL : New York Rangers vs Vegas Golden Knights - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", Viaplay Sports 1 UK
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=451
+
+#EXTINF:-1 tvg-id="NHL - New York Rangers vs Vegas Golden Knights" tvg-name="05:00 NHL : New York Rangers vs Vegas Golden Knights - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", MSG USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=765
+
+#EXTINF:-1 tvg-id="NHL - New York Rangers vs Vegas Golden Knights" tvg-name="05:00 NHL : New York Rangers vs Vegas Golden Knights - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", Sportsnet Ontario
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=406
+
+#EXTINF:-1 tvg-id="NHL - New York Rangers vs Vegas Golden Knights" tvg-name="05:00 NHL : New York Rangers vs Vegas Golden Knights - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", Sportsnet West
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=407
+
+#EXTINF:-1 tvg-id="NHL - New York Rangers vs Vegas Golden Knights" tvg-name="05:00 NHL : New York Rangers vs Vegas Golden Knights - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", Sportsnet East
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=408
+
+#EXTINF:-1 tvg-id="NHL - New York Rangers vs Vegas Golden Knights" tvg-name="05:00 NHL : New York Rangers vs Vegas Golden Knights - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", TVA Sports
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=833
+
+#EXTINF:-1 tvg-id="NHL - New York Rangers vs Vegas Golden Knights" tvg-name="05:00 NHL : New York Rangers vs Vegas Golden Knights - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", ESPN3 Argentina
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=798
+
+#EXTINF:-1 tvg-id="NHL - New York Rangers vs Vegas Golden Knights" tvg-name="05:00 NHL : New York Rangers vs Vegas Golden Knights - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", Nova Sport 1 CZ
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1021
+
+#EXTINF:-1 tvg-id="NHL - New York Rangers vs Vegas Golden Knights" tvg-name="05:00 NHL : New York Rangers vs Vegas Golden Knights - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", V Sport Vinter
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=76
+
+#EXTINF:-1 tvg-id="NHL - Utah Mammoth vs San Jose Sharks" tvg-name="05:00 NHL : Utah Mammoth vs San Jose Sharks - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", NHL Gamecenter
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=16
+
+#EXTINF:-1 tvg-id="NHL - Utah Mammoth vs San Jose Sharks" tvg-name="05:00 NHL : Utah Mammoth vs San Jose Sharks - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", NBC Sports California
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=755
+
+#EXTINF:-1 tvg-id="NHL - Utah Mammoth vs San Jose Sharks" tvg-name="05:00 NHL : Utah Mammoth vs San Jose Sharks - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", V Sport Premium Sweden
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=15
+
+#EXTINF:-1 tvg-id="Rugby World Cup - Namibia vs Brazil" tvg-name="15:00 Rugby World Cup : Namibia vs Brazil - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby Union", Sky Sport 1 NZ
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=588
+
+#EXTINF:-1 tvg-id="Rugby World Cup - Namibia vs Brazil" tvg-name="15:00 Rugby World Cup : Namibia vs Brazil - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby Union", ESPN2 Brazil
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=82
+
+#EXTINF:-1 tvg-id="Rugby World Cup - Samoa vs Belgium" tvg-name="17:30 Rugby World Cup : Samoa vs Belgium - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby Union", Sky Sport 1 NZ
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=588
+
+#EXTINF:-1 tvg-id="Beach Volley SP - Adelaide (W)" tvg-name="07:00 Beach Volley SP: Adelaide (W) - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Sportklub HD Croatia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=453
+
+#EXTINF:-1 tvg-id="Beach Volley SP - Adelaide (M)" tvg-name="07:00 Beach Volley SP: Adelaide (M) - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Sportklub 3 Croatia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=103
+
+#EXTINF:-1 tvg-id="PlusLiga - Chks Chelm vs. KS Norwid Czestochowa" tvg-name="18:30 PlusLiga : Chks Chelm vs. KS Norwid Czestochowa - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Polsat Sport 1 Poland
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=47
+
+#EXTINF:-1 tvg-id="Orlen Liga Women - Chemik Police W vs Wroclaw W" tvg-name="20:00 Orlen Liga Women : Chemik Police W vs Wroclaw W - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Polsat Sport Fight Poland
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=77
+
+#EXTINF:-1 tvg-id="Orlen Liga Women - Chemik Police W vs Wroclaw W" tvg-name="20:00 Orlen Liga Women : Chemik Police W vs Wroclaw W - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Sportklub HD Croatia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=453
+
+#EXTINF:-1 tvg-id="PlusLiga - AZS Olsztyn vs. Warta Zawiercie" tvg-name="21:00 PlusLiga : AZS Olsztyn vs. Warta Zawiercie - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Polsat Sport 1 Poland
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=47
+
+#EXTINF:-1 tvg-id="Regional water polo league - New Belgrade vs Sabac" tvg-name="17:30 Regional water polo league : New Belgrade vs Sabac - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallanuoto", Arena Sport 2 Serbia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=430
+
+#EXTINF:-1 tvg-id="Champions League - CSM Oradea vs FTC Waterpolo" tvg-name="19:30 Champions League : CSM Oradea vs FTC Waterpolo - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallanuoto", Arena Sport 4 Serbia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=581
+
+#EXTINF:-1 tvg-id="Champions League - AN Brescia vs. VK Primorac Kotor" tvg-name="21:30 Champions League : AN Brescia vs. VK Primorac Kotor - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallanuoto", Arena Sport 4 Serbia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=581
+
+#EXTINF:-1 tvg-id="Champions League - HAVK Mladost vs. Olympiakos" tvg-name="21:30 Champions League : HAVK Mladost vs. Olympiakos - 18/11/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallanuoto", Arena Sport 2 Croatia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=433
+
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/612e05b885183d0007958101/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-chno="85" tvg-name="Pluto TV Fireplace" tvg-logo="https://images.pluto.tv/channels/612ce23f51cce000078eeed5/colorLogoPNG.png" tvg-id="612ce23f51cce000078eeed5" group-title="Pluto TV Italia",Pluto TV Fireplace
