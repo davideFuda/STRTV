@@ -55,7 +55,13 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vav
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/17686701870faa9fea0a38&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="comedycentral.it" tvg-name="Comedy Central" tvg-logo="https://yt3.googleusercontent.com/FPzu1EWCI54fIh2j9JEp0NOzwoeugjL4sZTQCdoxoQY1U4QHyKx2L3wPSw27IueuZGchIxtKfv8=s900-c-k-c0x00ffffff-no-rj" group-title="Sky",COMEDY CENTRAL (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/365827745096a993ffc066&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="comedycentral.it" tvg-name="Comedy Central (2)" tvg-logo="" group-title="Sky",COMEDY CENTRAL (V) (2)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/433893159bf516cde9a97&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="dazn(matchtime).it" tvg-name="Dazn (match Time)" tvg-logo="" group-title="Sport",DAZN (MATCH TIME) (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/2303792166c73d1b7a1439&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="dazn1.it" tvg-name="Dazn 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/774px-DAZN_1_Logo.svg.png" group-title="Sport",DAZN 1 (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -216,9 +222,6 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vav
 #EXTINF:-1 tvg-id="nickjr.it" tvg-name="Nick Jr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nick-jr-it.png" group-title="Bambini",NICK JR (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/38095847274e645e8a065&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="nickelodeon.it" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nickelodeon-it.png" group-title="Bambini",NICKELODEON (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/30393892159798f5cebb7c&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="premiumcrime.it" tvg-name="Premium Crime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/premium-crime-it.png" group-title="Mediaset",PREMIUM CRIME (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/444768053e397c96fc6df&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -338,6 +341,9 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vav
 
 #EXTINF:-1 tvg-id="skyarte.it" tvg-name="Sky Arte" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari;Sky",SKY ARTE (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/18068154966d18d1d58a9c&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skyarte.it" tvg-name="Sky Arte (2)" tvg-logo="" group-title="Documentari;Sky",SKY ARTE (V) (2)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/1902695925283bcfc576b0&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyatlantic.it" tvg-name="Sky Atlantic" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-atlantic-it.png" group-title="Sky",SKY ATLANTIC (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/1421393119c33a45327918&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
