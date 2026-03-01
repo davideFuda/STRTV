@@ -346,6 +346,9 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vav
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/1902695925283bcfc576b0&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyatlantic.it" tvg-name="Sky Atlantic" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-atlantic-it.png" group-title="Sky",SKY ATLANTIC (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/1421393119c33a45327918&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skyatlantic.it" tvg-name="Sky Atlantic (2)" tvg-logo="" group-title="Sky",SKY ATLANTIC (V) (2)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/1482866609814ff0b05ac7&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="Sky Cinema Action" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film;Sky",SKY CINEMA ACTION (V)
