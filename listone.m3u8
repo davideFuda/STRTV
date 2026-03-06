@@ -120,9 +120,6 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vav
 #EXTINF:-1 tvg-id="focustv.it" tvg-name="Focus" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/focus-it.png" group-title="Intrattenimento;Mediaset",FOCUS (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/3439223610a4fec93d907a&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="focustv.it" tvg-name="Focus (2)" tvg-logo="" group-title="Intrattenimento;Mediaset",FOCUS (V) (2)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/29825504332b9997336c1e&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="foodnetwork.it" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="Discovery",FOOD NETWORK (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/2820683351b557bc63df61&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -215,9 +212,6 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vav
 
 #EXTINF:-1 tvg-id="nickjr.it" tvg-name="Nick Jr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nick-jr-it.png" group-title="Bambini",NICK JR (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/38095847274e645e8a065&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="nickelodeon.it" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nickelodeon-it.png" group-title="Bambini",NICKELODEON (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/30393892159798f5cebb7c&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="premiumcrime.it" tvg-name="Premium Crime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/premium-crime-it.png" group-title="Mediaset",PREMIUM CRIME (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/444768053e397c96fc6df&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -314,6 +308,9 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vav
 
 #EXTINF:-1 tvg-id="realtime.it" tvg-name="Real Time" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/real-time-it.png" group-title="Intrattenimento;Discovery",REAL TIME (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/157497519660249c278f94&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="realtime.it" tvg-name="Real Time (2)" tvg-logo="" group-title="Intrattenimento;Discovery",REAL TIME (V) (2)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/2251241999722578d55332&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="rete4.it" tvg-name="Rete 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rete4-it.png" group-title="Mediaset",RETE 4 (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/4198218214cee07ebbc292&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -1974,6 +1971,9 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd
 #EXTINF:-1 tvg-id="Germany - Bundesliga - Bayern München vs Borussia M'gladbach" tvg-name="21:30 Germany - Bundesliga : Bayern München vs Borussia M'gladbach - 06/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sport 1 Israel
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=140
 
+#EXTINF:-1 tvg-id="Germany - Bundesliga - Bayern München vs Borussia M'gladbach" tvg-name="21:30 Germany - Bundesliga : Bayern München vs Borussia M'gladbach - 06/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Backup Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=4001
+
 #EXTINF:-1 tvg-id="Poland - Ekstraklasa - Lechia Gdańsk vs Jagiellonia Białystok" tvg-name="21:30 Poland - Ekstraklasa : Lechia Gdańsk vs Jagiellonia Białystok - 06/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Canal+ Sport 3 Poland
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=259
 
@@ -2067,6 +2067,9 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd
 #EXTINF:-1 tvg-id="France - Ligue 1 - PSG vs Monaco" tvg-name="21:45 France - Ligue 1 : PSG vs Monaco - 06/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", 5Sport Israel
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=144
 
+#EXTINF:-1 tvg-id="France - Ligue 1 - PSG vs Monaco" tvg-name="21:45 France - Ligue 1 : PSG vs Monaco - 06/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Backup Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=4007
+
 #EXTINF:-1 tvg-id="Italy - Serie A - Napoli vs Torino" tvg-name="21:45 Italy - Serie A : Napoli vs Torino - 06/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Paramount+
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=5
 
@@ -2105,6 +2108,9 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd
 
 #EXTINF:-1 tvg-id="Italy - Serie A - Napoli vs Torino" tvg-name="21:45 Italy - Serie A : Napoli vs Torino - 06/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", SuperSport Football
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=56
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Napoli vs Torino" tvg-name="21:45 Italy - Serie A : Napoli vs Torino - 06/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Backup Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=4009
 
 #EXTINF:-1 tvg-id="Scotland - Scottish Cup - Falkirk vs Dundee United" tvg-name="21:45 Scotland - Scottish Cup : Falkirk vs Dundee United - 06/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", ESPN+ USA
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=181
@@ -2168,6 +2174,9 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd
 
 #EXTINF:-1 tvg-id="England - FA Cup - Wolverhampton Wanderers vs Liverpool" tvg-name="22:00 England - FA Cup : Wolverhampton Wanderers vs Liverpool - 06/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sport 2 Israel
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=141
+
+#EXTINF:-1 tvg-id="England - FA Cup - Wolverhampton Wanderers vs Liverpool" tvg-name="22:00 England - FA Cup : Wolverhampton Wanderers vs Liverpool - 06/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Backup Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=4001
 
 #EXTINF:-1 tvg-id="Spain - La Liga - Celta de Vigo vs Real Madrid" tvg-name="22:00 Spain - La Liga : Celta de Vigo vs Real Madrid - 06/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", M+ LALIGA TV
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=84
@@ -2253,6 +2262,12 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd
 #EXTINF:-1 tvg-id="Spain - La Liga - Celta de Vigo vs Real Madrid" tvg-name="22:00 Spain - La Liga : Celta de Vigo vs Real Madrid - 06/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", beIN Sports MENA 2
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=92
 
+#EXTINF:-1 tvg-id="Spain - La Liga - Celta de Vigo vs Real Madrid" tvg-name="22:00 Spain - La Liga : Celta de Vigo vs Real Madrid - 06/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Backup Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=4006
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Celta de Vigo vs Real Madrid" tvg-name="22:00 Spain - La Liga : Celta de Vigo vs Real Madrid - 06/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Backup Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=4010
+
 #EXTINF:-1 tvg-id="England - Championship - Preston North End vs Oxford United" tvg-name="22:00 England - Championship : Preston North End vs Oxford United - 06/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sports Football UK
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=35
 
@@ -2273,6 +2288,9 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd
 
 #EXTINF:-1 tvg-id="England - Championship - Preston North End vs Oxford United" tvg-name="22:00 England - Championship : Preston North End vs Oxford United - 06/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", beIN SPORTS MENA 4
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=94
+
+#EXTINF:-1 tvg-id="England - Championship - Preston North End vs Oxford United" tvg-name="22:00 England - Championship : Preston North End vs Oxford United - 06/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Backup Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=4002
 
 #EXTINF:-1 tvg-id="Portugal - Primeira Liga - Famalicão vs Arouca" tvg-name="22:15 Portugal - Primeira Liga : Famalicão vs Arouca - 06/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sport TV1 Portugal
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=49
