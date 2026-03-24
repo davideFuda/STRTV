@@ -225,9 +225,6 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vav
 #EXTINF:-1 tvg-id="nickjr.it" tvg-name="Nick Jr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nick-jr-it.png" group-title="Bambini",NICK JR (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/38095847274e645e8a065&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="nickelodeon.it" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nickelodeon-it.png" group-title="Bambini",NICKELODEON (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/30393892159798f5cebb7c&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="premiumcrime.it" tvg-name="Premium Crime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/premium-crime-it.png" group-title="Mediaset",PREMIUM CRIME (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/444768053e397c96fc6df&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -293,9 +290,6 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vav
 
 #EXTINF:-1 tvg-id="raiscuola.it" tvg-name="Rai Scuola" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-scuola-it.png" group-title="Intrattenimento;Rai Tv",RAI SCUOLA (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/20077985117d0ff1cfe128&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="raiscuola.it" tvg-name="Rai Scuola (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI SCUOLA (V) (2)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/1886684667a4cfd0e271d1&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="raisport.it" tvg-name="Rai Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-sport-it.png" group-title="Sport;Rai Tv",RAI SPORT (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/29241350927e983d18bd31&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -1742,6 +1736,114 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd
 
 #EXTINF:-1 tvg-id="Colombia - Primera A - Fortaleza CEIF vs Deportivo Pasto" tvg-name="03:00 Colombia - Primera A : Fortaleza CEIF vs Deportivo Pasto - 24/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Win+ Futbol Colombia
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=392
+
+#EXTINF:-1 tvg-id="ΑΤΡ - ΜΙΑMI - Korda S. vs Landaluce M." tvg-name="17:00 ΑΤΡ - ΜΙΑMI : Korda S. vs Landaluce M. - 24/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ατρ - Μιαmi", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1508
+
+#EXTINF:-1 tvg-id="ΑΤΡ - ΜΙΑMI - Korda S. vs Landaluce M." tvg-name="17:00 ΑΤΡ - ΜΙΑMI : Korda S. vs Landaluce M. - 24/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ατρ - Μιαmi", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1558
+
+#EXTINF:-1 tvg-id="ΑΤΡ - ΜΙΑMI - Lehecka J. vs Fritz T." tvg-name="17:00 ΑΤΡ - ΜΙΑMI : Lehecka J. vs Fritz T. - 24/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ατρ - Μιαmi", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1507
+
+#EXTINF:-1 tvg-id="ΑΤΡ - ΜΙΑMI - Lehecka J. vs Fritz T." tvg-name="17:00 ΑΤΡ - ΜΙΑMI : Lehecka J. vs Fritz T. - 24/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ατρ - Μιαmi", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1557
+
+#EXTINF:-1 tvg-id="ΑΤΡ - ΜΙΑMI - Vacherot V. vs Fils A." tvg-name="18:30 ΑΤΡ - ΜΙΑMI : Vacherot V. vs Fils A. - 24/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ατρ - Μιαmi", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1508
+
+#EXTINF:-1 tvg-id="ΑΤΡ - ΜΙΑMI - Vacherot V. vs Fils A." tvg-name="18:30 ΑΤΡ - ΜΙΑMI : Vacherot V. vs Fils A. - 24/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ατρ - Μιαmi", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1558
+
+#EXTINF:-1 tvg-id="ΑΤΡ - ΜΙΑMI - ΑΤΡ - Etcheverry T. M. vs Paul T." tvg-name="20:00 ΑΤΡ - ΜΙΑMI : ΑΤΡ - Etcheverry T. M. vs Paul T. - 24/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ατρ - Μιαmi", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1508
+
+#EXTINF:-1 tvg-id="ΑΤΡ - ΜΙΑMI - ΑΤΡ - Etcheverry T. M. vs Paul T." tvg-name="20:00 ΑΤΡ - ΜΙΑMI : ΑΤΡ - Etcheverry T. M. vs Paul T. - 24/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ατρ - Μιαmi", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1558
+
+#EXTINF:-1 tvg-id="ΑΤΡ - ΜΙΑMI - Atmane T. vs Tiafoe F." tvg-name="22:00 ΑΤΡ - ΜΙΑMI : Atmane T. vs Tiafoe F. - 24/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ατρ - Μιαmi", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1508
+
+#EXTINF:-1 tvg-id="ΑΤΡ - ΜΙΑMI - Atmane T. vs Tiafoe F." tvg-name="22:00 ΑΤΡ - ΜΙΑMI : Atmane T. vs Tiafoe F. - 24/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ατρ - Μιαmi", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1558
+
+#EXTINF:-1 tvg-id="ΑΤΡ - ΜΙΑMI - Michelsen A. vs Sinner J." tvg-name="22:00 ΑΤΡ - ΜΙΑMI : Michelsen A. vs Sinner J. - 24/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ατρ - Μιαmi", Tennis Channel
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=40
+
+#EXTINF:-1 tvg-id="ΑΤΡ - ΜΙΑMI - Michelsen A. vs Sinner J." tvg-name="22:00 ΑΤΡ - ΜΙΑMI : Michelsen A. vs Sinner J. - 24/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ατρ - Μιαmi", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1520
+
+#EXTINF:-1 tvg-id="ΑΤΡ - ΜΙΑMI - Michelsen A. vs Sinner J." tvg-name="22:00 ΑΤΡ - ΜΙΑMI : Michelsen A. vs Sinner J. - 24/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ατρ - Μιαmi", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1570
+
+#EXTINF:-1 tvg-id="ΑΤΡ - ΜΙΑMI - Michelsen A. vs Sinner J." tvg-name="22:00 ΑΤΡ - ΜΙΑMI : Michelsen A. vs Sinner J. - 24/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ατρ - Μιαmi", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1507
+
+#EXTINF:-1 tvg-id="ΑΤΡ - ΜΙΑMI - Michelsen A. vs Sinner J." tvg-name="22:00 ΑΤΡ - ΜΙΑMI : Michelsen A. vs Sinner J. - 24/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ατρ - Μιαmi", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1557
+
+#EXTINF:-1 tvg-id="ΑΤΡ - ΜΙΑMI - Humbert U. vs Cerundolo F." tvg-name="01:00 ΑΤΡ - ΜΙΑMI : Humbert U. vs Cerundolo F. - 24/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ατρ - Μιαmi", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1508
+
+#EXTINF:-1 tvg-id="ΑΤΡ - ΜΙΑMI - Humbert U. vs Cerundolo F." tvg-name="01:00 ΑΤΡ - ΜΙΑMI : Humbert U. vs Cerundolo F. - 24/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ατρ - Μιαmi", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1558
+
+#EXTINF:-1 tvg-id="ΑΤΡ - ΜΙΑMI - Halys Q. vs Zverev A." tvg-name="02:30 ΑΤΡ - ΜΙΑMI : Halys Q. vs Zverev A. - 24/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ατρ - Μιαmi", Tennis Channel
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=40
+
+#EXTINF:-1 tvg-id="ΑΤΡ - ΜΙΑMI - Halys Q. vs Zverev A." tvg-name="02:30 ΑΤΡ - ΜΙΑMI : Halys Q. vs Zverev A. - 24/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ατρ - Μιαmi", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1520
+
+#EXTINF:-1 tvg-id="ΑΤΡ - ΜΙΑMI - Halys Q. vs Zverev A." tvg-name="02:30 ΑΤΡ - ΜΙΑMI : Halys Q. vs Zverev A. - 24/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ατρ - Μιαmi", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1570
+
+#EXTINF:-1 tvg-id="ΑΤΡ - ΜΙΑMI - Halys Q. vs Zverev A." tvg-name="02:30 ΑΤΡ - ΜΙΑMI : Halys Q. vs Zverev A. - 24/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ατρ - Μιαmi", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1507
+
+#EXTINF:-1 tvg-id="ΑΤΡ - ΜΙΑMI - Halys Q. vs Zverev A." tvg-name="02:30 ΑΤΡ - ΜΙΑMI : Halys Q. vs Zverev A. - 24/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ατρ - Μιαmi", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1557
+
+#EXTINF:-1 tvg-id="WTA - MIAMI - Mboko V. vs Muchova K." tvg-name="20:00 WTA - MIAMI : Mboko V. vs Muchova K. - 24/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Μιαmi", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1501
+
+#EXTINF:-1 tvg-id="WTA - MIAMI - Mboko V. vs Muchova K." tvg-name="20:00 WTA - MIAMI : Mboko V. vs Muchova K. - 24/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Μιαmi", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1551
+
+#EXTINF:-1 tvg-id="WTA - MIAMI - Mboko V. vs Muchova K." tvg-name="20:00 WTA - MIAMI : Mboko V. vs Muchova K. - 24/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Μιαmi", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1524
+
+#EXTINF:-1 tvg-id="WTA - MIAMI - Mboko V. vs Muchova K." tvg-name="20:00 WTA - MIAMI : Mboko V. vs Muchova K. - 24/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Μιαmi", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1574
+
+#EXTINF:-1 tvg-id="WTA - MIAMI - Mboko V. vs Muchova K." tvg-name="20:00 WTA - MIAMI : Mboko V. vs Muchova K. - 24/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Μιαmi", Tennis Channel
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=40
+
+#EXTINF:-1 tvg-id="WTA - MIAMI - Mboko V. vs Muchova K." tvg-name="20:00 WTA - MIAMI : Mboko V. vs Muchova K. - 24/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Μιαmi", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1520
+
+#EXTINF:-1 tvg-id="WTA - MIAMI - Mboko V. vs Muchova K." tvg-name="20:00 WTA - MIAMI : Mboko V. vs Muchova K. - 24/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Μιαmi", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1570
+
+#EXTINF:-1 tvg-id="WTA - MIAMI - Bencic B. vs Gauff C." tvg-name="01:00 WTA - MIAMI : Bencic B. vs Gauff C. - 24/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Μιαmi", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1501
+
+#EXTINF:-1 tvg-id="WTA - MIAMI - Bencic B. vs Gauff C." tvg-name="01:00 WTA - MIAMI : Bencic B. vs Gauff C. - 24/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Μιαmi", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1551
+
+#EXTINF:-1 tvg-id="WTA - MIAMI - Bencic B. vs Gauff C." tvg-name="01:00 WTA - MIAMI : Bencic B. vs Gauff C. - 24/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Μιαmi", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1524
+
+#EXTINF:-1 tvg-id="WTA - MIAMI - Bencic B. vs Gauff C." tvg-name="01:00 WTA - MIAMI : Bencic B. vs Gauff C. - 24/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Μιαmi", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1574
+
+#EXTINF:-1 tvg-id="WTA - MIAMI - Bencic B. vs Gauff C." tvg-name="01:00 WTA - MIAMI : Bencic B. vs Gauff C. - 24/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Μιαmi", Tennis Channel
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=40
+
+#EXTINF:-1 tvg-id="WTA - MIAMI - Bencic B. vs Gauff C." tvg-name="01:00 WTA - MIAMI : Bencic B. vs Gauff C. - 24/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Μιαmi", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1520
+
+#EXTINF:-1 tvg-id="WTA - MIAMI - Bencic B. vs Gauff C." tvg-name="01:00 WTA - MIAMI : Bencic B. vs Gauff C. - 24/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Μιαmi", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1570
 
 #EXTINF:-1 tvg-id="2026 Miami Open Tennis ATP Round of 16; WTA Quarterfinal 1 &amp; 2 - 2026 Miami Open Tennis ATP Round of 16; WTA Quarterfinal 1 &amp; 2" tvg-name="17:00 2026 Miami Open Tennis ATP Round of 16; WTA Quarterfinal 1 &amp; 2 - 24/03/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=40
