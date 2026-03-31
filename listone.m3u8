@@ -66,9 +66,6 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vav
 #EXTINF:-1 tvg-id="dazn1.it" tvg-name="Dazn 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/774px-DAZN_1_Logo.svg.png" group-title="Sport",DAZN 1 (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="dazn2.it" tvg-name="Dazn 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/882px-DAZN_2.svg.png" group-title="Sport",DAZN 2 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/3635062218e0132c616db&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="deejaytv.it" tvg-name="Deejay Tv" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Altro",DEEJAY TV (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/963607327f90ada131395&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -159,9 +156,6 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vav
 #EXTINF:-1 tvg-id="history.it" tvg-name="History" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari;Sky",HISTORY (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/3178376547e2dcc234152&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="history.it" tvg-name="History (2)" tvg-logo="" group-title="Documentari;Sky",HISTORY (V) (2)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="iris.it" tvg-name="Iris" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",IRIS (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/576490047036ac0227958&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -216,14 +210,8 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vav
 #EXTINF:-1 tvg-id="nationalgeohd.it" tvg-name="Nat Geo (2)" tvg-logo="" group-title="Documentari;Sky",NAT GEO (V) (2)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/179844839442a5ed454fe&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="nationalgeographicwild.it" tvg-name="Nat Geo Wild" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-wild-it.png" group-title="Documentari;Sky",NAT GEO WILD (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/3428501495a9ec2ff7bc8e&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="nickjr.it" tvg-name="Nick Jr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nick-jr-it.png" group-title="Bambini",NICK JR (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/38095847274e645e8a065&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="nickelodeon.it" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nickelodeon-it.png" group-title="Bambini",NICKELODEON (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/30393892159798f5cebb7c&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="premiumcrime.it" tvg-name="Premium Crime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/premium-crime-it.png" group-title="Mediaset",PREMIUM CRIME (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/444768053e397c96fc6df&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -242,9 +230,6 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vav
 
 #EXTINF:-1 tvg-id="rai3.it" tvg-name="Rai 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-3-it.png" group-title="Intrattenimento;Rai Tv",RAI 3 (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/1324733956dd45e42ab076&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="rai3.it" tvg-name="Rai 3 (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI 3 (V) (2)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/869117599e36bb7de752c&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="rai4.it" tvg-name="Rai 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-4-it.png" group-title="Intrattenimento;Rai Tv",RAI 4 (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/4241820180667f1d89110e&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -528,9 +513,6 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vav
 #EXTINF:-1 tvg-id="skysportf1.it" tvg-name="Sky Sport F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORT F1 (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/42467740561588897497f2&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skysportfootball.it" tvg-name="Sky Sport Football [live During Events Only]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY] (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/198930923100c09085a1ae&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="skysportgolf.it" tvg-name="Sky Sport Golf" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png" group-title="Sport",SKY SPORT GOLF (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/729945219d6146597896a&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -546,9 +528,6 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vav
 #EXTINF:-1 tvg-id="skysportnba.it" tvg-name="Sky Sport Nba" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png" group-title="Sport",SKY SPORT NBA (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/271195962000118dca31ce&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skysportnba.it" tvg-name="Sky Sport Nba (2)" tvg-logo="" group-title="Sport",SKY SPORT NBA (V) (2)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/3268253262aec282eb346&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="skysporttennis.it" tvg-name="Sky Sport Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/210077178262e76f204fa6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -557,9 +536,6 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vav
 
 #EXTINF:-1 tvg-id="skysportuno.it" tvg-name="Sky Sport Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport",SKY SPORT UNO (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/210669162201ec2365574&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysportuno.it" tvg-name="Sky Sport Uno (2)" tvg-logo="" group-title="Sport",SKY SPORT UNO (V) (2)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/3192996672d2c923be0346&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysportf1.it" tvg-name="Sky Sports F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORTS F1 (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/22890389722acc4573933d&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -623,6 +599,120 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vav
 
 #EXTINF:-1 tvg-id="tv8.it" tvg-name="Tv 8 (2)" tvg-logo="" group-title="Sky",TV 8 (V) (2)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/2706291008928411daf9bb&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="unknown" tvg-name="dazn zona" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", dazn zona (D)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://dlhd.dad/watch.php?id=877
+
+#EXTINF:-1 tvg-id="eurosport1.it" tvg-name="eurosport 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport", eurosport 1 (D)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://dlhd.dad/watch.php?id=878
+
+#EXTINF:-1 tvg-id="eurosport2.it" tvg-name="eurosport 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport", eurosport 2 (D)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://dlhd.dad/watch.php?id=879
+
+#EXTINF:-1 tvg-id="italia1.it" tvg-name="italia 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/italia1-it.png" group-title="Mediaset", italia 1 (D)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://dlhd.dad/watch.php?id=854
+
+#EXTINF:-1 tvg-id="la7.it" tvg-name="la7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Tv Italia", la7 (D)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://dlhd.dad/watch.php?id=855
+
+#EXTINF:-1 tvg-id="la7.it" tvg-name="la7d hd+" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Undefined", la7d hd+ (D)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://dlhd.dad/watch.php?id=856
+
+#EXTINF:-1 tvg-id="rai1.it" tvg-name="rai 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Rai Tv", rai 1 (D)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://dlhd.dad/watch.php?id=850
+
+#EXTINF:-1 tvg-id="rai2.it" tvg-name="rai 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-2-it.png" group-title="Rai Tv", rai 2 (D)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://dlhd.dad/watch.php?id=851
+
+#EXTINF:-1 tvg-id="rai3.it" tvg-name="rai 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-3-it.png" group-title="Rai Tv", rai 3 (D)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://dlhd.dad/watch.php?id=852
+
+#EXTINF:-1 tvg-id="unknown" tvg-name="rai 4" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", rai 4 (D)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://dlhd.dad/watch.php?id=853
+
+#EXTINF:-1 tvg-id="raisport.it" tvg-name="rai sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-sport-it.png" group-title="Sport", rai sport (D)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://dlhd.dad/watch.php?id=882
+
+#EXTINF:-1 tvg-id="raipremium.it" tvg-name="rai premium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-premium-it.png" group-title="Rai Tv", rai premium (D)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://dlhd.dad/watch.php?id=858
+
+#EXTINF:-1 tvg-id="skysportgolf.it" tvg-name="sky sports golf" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png" group-title="Sport", sky sports golf (D)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://dlhd.dad/watch.php?id=574
+
+#EXTINF:-1 tvg-id="skysportmotogp.it" tvg-name="sky sport motogp" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-motogp-it.png" group-title="Sport", sky sport motogp (D)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://dlhd.dad/watch.php?id=575
+
+#EXTINF:-1 tvg-id="skysporttennis.it" tvg-name="sky sport tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport", sky sport tennis (D)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://dlhd.dad/watch.php?id=576
+
+#EXTINF:-1 tvg-id="skysportf1.it" tvg-name="sky sport f1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport", sky sport f1 (D)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://dlhd.dad/watch.php?id=577
+
+#EXTINF:-1 tvg-id="unknown" tvg-name="sky sport max" tvg-logo="https://play-lh.googleusercontent.com/u7UNH06SU4KsMM4ZGWr7wghkJYN75PNCEMxnIYULpA__VPg8zfEOYMIAhUaIdmZnqw=w480-h960-rw" group-title="Undefined", sky sport max (D)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://dlhd.dad/watch.php?id=460
+
+#EXTINF:-1 tvg-id="skysportuno.it" tvg-name="sky sport uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport", sky sport uno (D)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://dlhd.dad/watch.php?id=461
+
+#EXTINF:-1 tvg-id="skysportarena.it" tvg-name="sky sport arena" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport", sky sport arena (D)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://dlhd.dad/watch.php?id=462
+
+#EXTINF:-1 tvg-id="skyuno.it" tvg-name="sky uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Sky", sky uno (D)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://dlhd.dad/watch.php?id=881
+
+#EXTINF:-1 tvg-id="skycinemacollectionhd.it" tvg-name="sky cinema collection" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-collection-it.png" group-title="Sky", sky cinema collection (D)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://dlhd.dad/watch.php?id=859
+
+#EXTINF:-1 tvg-id="skycinemauno.it" tvg-name="sky cinema uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Sky", sky cinema uno (D)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://dlhd.dad/watch.php?id=860
+
+#EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="sky cinema action" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Sky", sky cinema action (D)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://dlhd.dad/watch.php?id=861
+
+#EXTINF:-1 tvg-id="skycinemacomedy.it" tvg-name="sky cinema comedy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="Sky", sky cinema comedy (D)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://dlhd.dad/watch.php?id=862
+
+#EXTINF:-1 tvg-id="skycinemauno.it" tvg-name="sky cinema uno +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Sky", sky cinema uno +24 (D)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://dlhd.dad/watch.php?id=863
+
+#EXTINF:-1 tvg-id="skycinemaromance.it" tvg-name="sky cinema romance" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Sky", sky cinema romance (D)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://dlhd.dad/watch.php?id=864
+
+#EXTINF:-1 tvg-id="skycinemafamily.it" tvg-name="sky cinema family" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Sky", sky cinema family (D)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://dlhd.dad/watch.php?id=865
+
+#EXTINF:-1 tvg-id="skycinemadrama.it" tvg-name="sky cinema drama" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-drama-it.png" group-title="Sky", sky cinema drama (D)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://dlhd.dad/watch.php?id=867
+
+#EXTINF:-1 tvg-id="skycinemasuspense.it" tvg-name="sky cinema suspense" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Sky", sky cinema suspense (D)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://dlhd.dad/watch.php?id=868
+
+#EXTINF:-1 tvg-id="skysport24.it" tvg-name="sky sport 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport", sky sport 24 (D)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://dlhd.dad/watch.php?id=869
+
+#EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="sky sport calcio" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport", sky sport calcio (D)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://dlhd.dad/watch.php?id=870
+
+#EXTINF:-1 tvg-id="skysport251.it" tvg-name="sky calcio 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-select-1-alt-de.png" group-title="Sport", sky calcio 1 (D)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://dlhd.dad/watch.php?id=871
+
+#EXTINF:-1 tvg-id="skysport252.it" tvg-name="sky calcio 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-select-2-alt-de.png" group-title="Sport", sky calcio 2 (D)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://dlhd.dad/watch.php?id=872
+
+#EXTINF:-1 tvg-id="skysport253.it" tvg-name="sky calcio 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-select-3-alt-de.png" group-title="Sport", sky calcio 3 (D)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://dlhd.dad/watch.php?id=873
+
+#EXTINF:-1 tvg-id="skysport254.it" tvg-name="sky calcio 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-select-4-alt-de.png" group-title="Sport", sky calcio 4 (D)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://dlhd.dad/watch.php?id=874
+
+#EXTINF:-1 tvg-id="unknown" tvg-name="sky sport basket" tvg-logo="https://play-lh.googleusercontent.com/u7UNH06SU4KsMM4ZGWr7wghkJYN75PNCEMxnIYULpA__VPg8zfEOYMIAhUaIdmZnqw=w480-h960-rw" group-title="Undefined", sky sport basket (D)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://dlhd.dad/watch.php?id=875
+
+#EXTINF:-1 tvg-id="skyserie.it" tvg-name="sky serie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-serie-it.png" group-title="Sky", sky serie (D)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://dlhd.dad/watch.php?id=880
+
+#EXTINF:-1 tvg-id="20mediasethd.it" tvg-name="20 mediaset" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png" group-title="Mediaset", 20 mediaset (D)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://dlhd.dad/watch.php?id=857
 
 #EXTINF:-1 tvg-id="dazn1.it" tvg-name="DAZN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/774px-DAZN_1_Logo.svg.png" group-title="Sport", DAZN 1 (D)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://dlhd.dad/watch.php?id=877
