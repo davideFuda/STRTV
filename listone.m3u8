@@ -111,14 +111,8 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vav
 #EXTINF:-1 tvg-id="eurosport2.it" tvg-name="Eurosport 2 (2)" tvg-logo="" group-title="Sport",EUROSPORT 2 (V) (2)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/23176844530f9ee58ada3e&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="eurosport2timvision.it" tvg-name="Eurosport 2 Timvision" tvg-logo="" group-title="Sport",EUROSPORT 2 TIMVISION (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/11002614150ec811c243eb&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="eurosport4timvision.it" tvg-name="Eurosport 4 Timvision" tvg-logo="" group-title="Sport",EUROSPORT 4 TIMVISION (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/1668185301194a1978c0b2&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="eurosport5timvision.it" tvg-name="Eurosport 5 Timvision" tvg-logo="" group-title="Sport",EUROSPORT 5 TIMVISION (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/3667240765238d57794d79&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="eurosport6timvision.it" tvg-name="Eurosport 6 Timvision" tvg-logo="" group-title="Sport",EUROSPORT 6 TIMVISION (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/3421031748051d1097ba07&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -266,9 +260,6 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vav
 
 #EXTINF:-1 tvg-id="raimovie.it" tvg-name="Rai Movie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Film;Rai Tv",RAI MOVIE (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/2835672487db54f8727bf9&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="raimovie.it" tvg-name="Rai Movie (2)" tvg-logo="" group-title="Film;Rai Tv",RAI MOVIE (V) (2)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/1925964148b9cb23cc2bce&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="rainews24.it" tvg-name="Rai News 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="Notizie;Rai Tv",RAI NEWS 24 (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/22729239721838600694f7&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -499,9 +490,6 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vav
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/83668011205f936fa3b65&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysport24.it" tvg-name="Sky Sport 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/277580225585f503fbfc87&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysport24.it" tvg-name="Sky Sport 24 (2)" tvg-logo="" group-title="Sport",SKY SPORT 24 (V) (2)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/277580225585f503fbfc87&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysport24.it" tvg-name="Sky Sport 24 [live During Events Only]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 [LIVE DURING EVENTS ONLY] (V)
@@ -2292,6 +2280,9 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd
 #EXTINF:-1 tvg-id="France - Ligue 1 - PSG vs Toulouse" tvg-name="20:45 France - Ligue 1 : PSG vs Toulouse - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", 5Sport Israel
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=144
 
+#EXTINF:-1 tvg-id="France - Ligue 1 - PSG vs Toulouse" tvg-name="20:45 France - Ligue 1 : PSG vs Toulouse - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Backup Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=4007
+
 #EXTINF:-1 tvg-id="Spain - La Liga - Rayo Vallecano vs Elche" tvg-name="21:00 Spain - La Liga : Rayo Vallecano vs Elche - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", M+ LALIGA TV
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=84
 
@@ -2417,6 +2408,9 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd
 
 #EXTINF:-1 tvg-id="England - Championship - Coventry City vs Derby County" tvg-name="21:00 England - Championship : Coventry City vs Derby County - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sport 1 Israel
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=140
+
+#EXTINF:-1 tvg-id="England - Championship - Coventry City vs Derby County" tvg-name="21:00 England - Championship : Coventry City vs Derby County - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Backup Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=4006
 
 #EXTINF:-1 tvg-id="Spain - Primera Federación - Real Madrid II vs Celta de Vigo II" tvg-name="21:15 Spain - Primera Federación : Real Madrid II vs Celta de Vigo II - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Teledeporte Spain (TDP)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=529
@@ -2871,11 +2865,17 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd
 #EXTINF:-1 tvg-id="MLB - Washington Nationals vs Los Angeles Dodgers" tvg-name="19:05 MLB : Washington Nationals vs Los Angeles Dodgers - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", SPORT1+ DE
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=640
 
+#EXTINF:-1 tvg-id="MLB - Washington Nationals vs Los Angeles Dodgers" tvg-name="19:05 MLB : Washington Nationals vs Los Angeles Dodgers - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", Backup Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=4015
+
 #EXTINF:-1 tvg-id="MLB - Detroit Tigers vs St. Louis Cardinals" tvg-name="19:10 MLB : Detroit Tigers vs St. Louis Cardinals - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", MLB league pass
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=19
 
 #EXTINF:-1 tvg-id="MLB - Detroit Tigers vs St. Louis Cardinals" tvg-name="19:10 MLB : Detroit Tigers vs St. Louis Cardinals - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", Sport 5 Gold Israel
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=148
+
+#EXTINF:-1 tvg-id="MLB - Detroit Tigers vs St. Louis Cardinals" tvg-name="19:10 MLB : Detroit Tigers vs St. Louis Cardinals - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", Backup Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=4016
 
 #EXTINF:-1 tvg-id="MLB - Miami Marlins vs New York Yankees" tvg-name="19:35 MLB : Miami Marlins vs New York Yankees - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", MLB league pass
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=20
@@ -2889,6 +2889,9 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd
 #EXTINF:-1 tvg-id="MLB - Miami Marlins vs New York Yankees" tvg-name="19:35 MLB : Miami Marlins vs New York Yankees - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", Sportsnet East
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=408
 
+#EXTINF:-1 tvg-id="MLB - Miami Marlins vs New York Yankees" tvg-name="19:35 MLB : Miami Marlins vs New York Yankees - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", Backup Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=4017
+
 #EXTINF:-1 tvg-id="MLB - Toronto Blue Jays vs Chicago White Sox" tvg-name="20:00 MLB : Toronto Blue Jays vs Chicago White Sox - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", Chicago Sports Network
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=776
 
@@ -2901,11 +2904,17 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd
 #EXTINF:-1 tvg-id="MLB - Boston Red Sox vs San Diego Padres" tvg-name="20:10 MLB : Boston Red Sox vs San Diego Padres - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", NESN USA
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=762
 
+#EXTINF:-1 tvg-id="MLB - Boston Red Sox vs San Diego Padres" tvg-name="20:10 MLB : Boston Red Sox vs San Diego Padres - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", Backup Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=4018
+
 #EXTINF:-1 tvg-id="MLB - Texas Rangers vs Cincinnati Reds" tvg-name="22:05 MLB : Texas Rangers vs Cincinnati Reds - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", MLB league pass
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=22
 
 #EXTINF:-1 tvg-id="MLB - Texas Rangers vs Cincinnati Reds" tvg-name="22:05 MLB : Texas Rangers vs Cincinnati Reds - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", MLB Network USA
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=399
+
+#EXTINF:-1 tvg-id="MLB - Texas Rangers vs Cincinnati Reds" tvg-name="22:05 MLB : Texas Rangers vs Cincinnati Reds - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", Backup Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=4019
 
 #EXTINF:-1 tvg-id="MLB - Cleveland Guardians vs Chicago Cubs" tvg-name="22:10 MLB : Cleveland Guardians vs Chicago Cubs - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", MLB league pass
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=23
@@ -2913,14 +2922,23 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd
 #EXTINF:-1 tvg-id="MLB - Cleveland Guardians vs Chicago Cubs" tvg-name="22:10 MLB : Cleveland Guardians vs Chicago Cubs - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", Marquee Sports Network
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=770
 
+#EXTINF:-1 tvg-id="MLB - Cleveland Guardians vs Chicago Cubs" tvg-name="22:10 MLB : Cleveland Guardians vs Chicago Cubs - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", Backup Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=4020
+
 #EXTINF:-1 tvg-id="MLB - Minnesota Twins vs Tampa Bay Rays" tvg-name="22:10 MLB : Minnesota Twins vs Tampa Bay Rays - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", MLB league pass
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=24
+
+#EXTINF:-1 tvg-id="MLB - Minnesota Twins vs Tampa Bay Rays" tvg-name="22:10 MLB : Minnesota Twins vs Tampa Bay Rays - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", Backup Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=4021
 
 #EXTINF:-1 tvg-id="MLB - Colorado Rockies vs Philadelphia Phillies" tvg-name="22:10 MLB : Colorado Rockies vs Philadelphia Phillies - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", MLB league pass
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=25
 
 #EXTINF:-1 tvg-id="MLB - Colorado Rockies vs Philadelphia Phillies" tvg-name="22:10 MLB : Colorado Rockies vs Philadelphia Phillies - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", NBCS Philadelphia USA
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=777
+
+#EXTINF:-1 tvg-id="MLB - Colorado Rockies vs Philadelphia Phillies" tvg-name="22:10 MLB : Colorado Rockies vs Philadelphia Phillies - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", Backup Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=4022
 
 #EXTINF:-1 tvg-id="MLB - Pittsburgh Pirates vs Baltimore Orioles" tvg-name="22:12 MLB : Pittsburgh Pirates vs Baltimore Orioles - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", MLB league pass
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=26
@@ -2934,8 +2952,14 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd
 #EXTINF:-1 tvg-id="MLB - Pittsburgh Pirates vs Baltimore Orioles" tvg-name="22:12 MLB : Pittsburgh Pirates vs Baltimore Orioles - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", SPORT1+ DE
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=640
 
+#EXTINF:-1 tvg-id="MLB - Pittsburgh Pirates vs Baltimore Orioles" tvg-name="22:12 MLB : Pittsburgh Pirates vs Baltimore Orioles - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", Backup Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=4023
+
 #EXTINF:-1 tvg-id="MLB - Kansas City Royals vs Milwaukee Brewers" tvg-name="01:40 MLB : Kansas City Royals vs Milwaukee Brewers - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", MLB league pass
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=15
+
+#EXTINF:-1 tvg-id="MLB - Kansas City Royals vs Milwaukee Brewers" tvg-name="01:40 MLB : Kansas City Royals vs Milwaukee Brewers - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", Backup Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=4024
 
 #EXTINF:-1 tvg-id="MLB - Seattle Mariners vs Los Angeles Angels" tvg-name="03:38 MLB : Seattle Mariners vs Los Angeles Angels - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", MLB league pass
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=16
@@ -2945,6 +2969,9 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd
 
 #EXTINF:-1 tvg-id="MLB - Seattle Mariners vs Los Angeles Angels" tvg-name="03:38 MLB : Seattle Mariners vs Los Angeles Angels - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", FanDuel Sports Network West
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=906
+
+#EXTINF:-1 tvg-id="MLB - Seattle Mariners vs Los Angeles Angels" tvg-name="03:38 MLB : Seattle Mariners vs Los Angeles Angels - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", Backup Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=4025
 
 #EXTINF:-1 tvg-id="MLB - Arizona Diamondbacks vs Atlanta Braves" tvg-name="03:40 MLB : Arizona Diamondbacks vs Atlanta Braves - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", MLB league pass
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=17
@@ -2958,6 +2985,9 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd
 #EXTINF:-1 tvg-id="MLB - Oakland Athletics vs Houston Astros" tvg-name="03:40 MLB : Oakland Athletics vs Houston Astros - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", beIN Sports 4 Max France
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=494
 
+#EXTINF:-1 tvg-id="MLB - Oakland Athletics vs Houston Astros" tvg-name="03:40 MLB : Oakland Athletics vs Houston Astros - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", Backup Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=4027
+
 #EXTINF:-1 tvg-id="MLB - San Francisco Giants vs New York Mets" tvg-name="04:15 MLB : San Francisco Giants vs New York Mets - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", MLB league pass
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=19
 
@@ -2969,6 +2999,9 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd
 
 #EXTINF:-1 tvg-id="MLB - San Francisco Giants vs New York Mets" tvg-name="04:15 MLB : San Francisco Giants vs New York Mets - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", NBC Sports Bay Area
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=753
+
+#EXTINF:-1 tvg-id="MLB - San Francisco Giants vs New York Mets" tvg-name="04:15 MLB : San Francisco Giants vs New York Mets - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", Backup Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=4028
 
 #EXTINF:-1 tvg-id="Nippon Professional Baseball (NPB) - Fukuoka vs Chiba Lotte Marines" tvg-name="11:00 Nippon Professional Baseball (NPB) : Fukuoka vs Chiba Lotte Marines - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nippon Professional Baseball", Next Level Sports
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=7
@@ -3213,6 +3246,9 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd
 #EXTINF:-1 tvg-id="NBA - Charlotte Hornets vs Indiana Pacers" tvg-name="01:00 NBA : Charlotte Hornets vs Indiana Pacers - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Sport klub 1 Croatia
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=101
 
+#EXTINF:-1 tvg-id="NBA - Charlotte Hornets vs Indiana Pacers" tvg-name="01:00 NBA : Charlotte Hornets vs Indiana Pacers - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Backup Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=4065
+
 #EXTINF:-1 tvg-id="NBA - Philadelphia 76ers vs Minnesota Timberwolves" tvg-name="01:00 NBA : Philadelphia 76ers vs Minnesota Timberwolves - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", NBA League Pass
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=3
 
@@ -3231,6 +3267,9 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd
 #EXTINF:-1 tvg-id="NBA - Philadelphia 76ers vs Minnesota Timberwolves" tvg-name="01:00 NBA : Philadelphia 76ers vs Minnesota Timberwolves - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", beIN SPORTS MENA English 1
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=61
 
+#EXTINF:-1 tvg-id="NBA - Philadelphia 76ers vs Minnesota Timberwolves" tvg-name="01:00 NBA : Philadelphia 76ers vs Minnesota Timberwolves - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Backup Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=4066
+
 #EXTINF:-1 tvg-id="NBA - Brooklyn Nets vs Atlanta Hawks" tvg-name="01:30 NBA : Brooklyn Nets vs Atlanta Hawks - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", NBA League Pass
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=4
 
@@ -3242,6 +3281,9 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd
 
 #EXTINF:-1 tvg-id="NBA - Brooklyn Nets vs Atlanta Hawks" tvg-name="01:30 NBA : Brooklyn Nets vs Atlanta Hawks - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Sport 5 Stars Israel
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=147
+
+#EXTINF:-1 tvg-id="NBA - Brooklyn Nets vs Atlanta Hawks" tvg-name="01:30 NBA : Brooklyn Nets vs Atlanta Hawks - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Backup Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=4067
 
 #EXTINF:-1 tvg-id="NBA - New York Knicks vs Chicago Bulls" tvg-name="01:30 NBA : New York Knicks vs Chicago Bulls - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", NBA League Pass
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=5
@@ -3258,17 +3300,26 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd
 #EXTINF:-1 tvg-id="NBA - New York Knicks vs Chicago Bulls" tvg-name="01:30 NBA : New York Knicks vs Chicago Bulls - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Arena 1 Premium Serbia
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=134
 
+#EXTINF:-1 tvg-id="NBA - New York Knicks vs Chicago Bulls" tvg-name="01:30 NBA : New York Knicks vs Chicago Bulls - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Backup Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=4068
+
 #EXTINF:-1 tvg-id="NBA - Houston Rockets vs Utah Jazz" tvg-name="02:00 NBA : Houston Rockets vs Utah Jazz - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", NBA League Pass
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=6
 
 #EXTINF:-1 tvg-id="NBA - Houston Rockets vs Utah Jazz" tvg-name="02:00 NBA : Houston Rockets vs Utah Jazz - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Space City Home Network
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=921
 
+#EXTINF:-1 tvg-id="NBA - Houston Rockets vs Utah Jazz" tvg-name="02:00 NBA : Houston Rockets vs Utah Jazz - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Backup Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=4069
+
 #EXTINF:-1 tvg-id="NBA - Memphis Grizzlies vs Toronto Raptors" tvg-name="02:00 NBA : Memphis Grizzlies vs Toronto Raptors - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", NBA League Pass
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=9
 
 #EXTINF:-1 tvg-id="NBA - Memphis Grizzlies vs Toronto Raptors" tvg-name="02:00 NBA : Memphis Grizzlies vs Toronto Raptors - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Sportsnet One
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=411
+
+#EXTINF:-1 tvg-id="NBA - Memphis Grizzlies vs Toronto Raptors" tvg-name="02:00 NBA : Memphis Grizzlies vs Toronto Raptors - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Backup Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=4070
 
 #EXTINF:-1 tvg-id="NBA - Milwaukee Bucks vs Boston Celtics" tvg-name="02:00 NBA : Milwaukee Bucks vs Boston Celtics - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", NBA League Pass
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=10
@@ -3282,17 +3333,26 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd
 #EXTINF:-1 tvg-id="NBA - Milwaukee Bucks vs Boston Celtics" tvg-name="02:00 NBA : Milwaukee Bucks vs Boston Celtics - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Sport 5 Israel
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=144
 
+#EXTINF:-1 tvg-id="NBA - Milwaukee Bucks vs Boston Celtics" tvg-name="02:00 NBA : Milwaukee Bucks vs Boston Celtics - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Backup Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=4071
+
 #EXTINF:-1 tvg-id="NBA - Dallas Mavericks vs Orlando Magic" tvg-name="02:30 NBA : Dallas Mavericks vs Orlando Magic - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", NBA League Pass
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=11
 
 #EXTINF:-1 tvg-id="NBA - Dallas Mavericks vs Orlando Magic" tvg-name="02:30 NBA : Dallas Mavericks vs Orlando Magic - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", FanDuel Sports Network Florida
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=892
 
+#EXTINF:-1 tvg-id="NBA - Dallas Mavericks vs Orlando Magic" tvg-name="02:30 NBA : Dallas Mavericks vs Orlando Magic - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Backup Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=4072
+
 #EXTINF:-1 tvg-id="NBA - Sacramento Kings vs New Orleans Pelicans" tvg-name="04:00 NBA : Sacramento Kings vs New Orleans Pelicans - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", NBA League Pass
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=12
 
 #EXTINF:-1 tvg-id="NBA - Sacramento Kings vs New Orleans Pelicans" tvg-name="04:00 NBA : Sacramento Kings vs New Orleans Pelicans - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", NBCS California USA
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=755
+
+#EXTINF:-1 tvg-id="NBA - Sacramento Kings vs New Orleans Pelicans" tvg-name="04:00 NBA : Sacramento Kings vs New Orleans Pelicans - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nba", Backup Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=4073
 
 #EXTINF:-1 tvg-id="Surf - Figueira Pro Day 2 - MEO Surf League" tvg-name="09:00 Surf: Figueira Pro Day 2 - MEO Surf League - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Sailing / Boating", Sport TV6 Poutugal
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=291
@@ -3351,6 +3411,9 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd
 #EXTINF:-1 tvg-id="NHL - Philadelphia Flyers vs New York Islanders" tvg-name="01:00 NHL : Philadelphia Flyers vs New York Islanders - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", Sport 5 Gold Israel
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=148
 
+#EXTINF:-1 tvg-id="NHL - Philadelphia Flyers vs New York Islanders" tvg-name="01:00 NHL : Philadelphia Flyers vs New York Islanders - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", Backup Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=4050
+
 #EXTINF:-1 tvg-id="NHL - St. Louis Blues vs Anaheim Ducks" tvg-name="04:00 NHL : St. Louis Blues vs Anaheim Ducks - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", NHL Gamecenter
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=14
 
@@ -3374,6 +3437,9 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd
 
 #EXTINF:-1 tvg-id="NHL - St. Louis Blues vs Anaheim Ducks" tvg-name="04:00 NHL : St. Louis Blues vs Anaheim Ducks - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", Viasat Vinter
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=20
+
+#EXTINF:-1 tvg-id="NHL - St. Louis Blues vs Anaheim Ducks" tvg-name="04:00 NHL : St. Louis Blues vs Anaheim Ducks - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", Backup Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=4051
 
 #EXTINF:-1 tvg-id="PWHL - Ottawa W vs Montreal W" tvg-name="13:00 PWHL : Ottawa W vs Montreal W - 03/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pwhl", SportsNet Pittsburgh
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=922
