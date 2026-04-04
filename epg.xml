@@ -49144,9 +49144,6 @@ Da Megalopoli A Citta - Giardino</title>
   <channel id="scottishpremiershiprangersvsdundeeunited">
     <display-name>Scottish Premiership : Rangers vs Dundee United</display-name>
   </channel>
-  <channel id="indonesiasuperleaguepsmvspersissolo">
-    <display-name>Indonesia - Super League : PSM vs Persis Solo</display-name>
-  </channel>
   <channel id="australiaaleaguemelbournecityvswesternsydneywanderers">
     <display-name>Australia - A-League : Melbourne City vs Western Sydney Wanderers</display-name>
   </channel>
@@ -50563,16 +50560,6 @@ Da Megalopoli A Citta - Giardino</title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Scottish Premiership : Rangers vs Dundee United</desc>
     <category lang="it">Scottish Premiership</category>
-  </programme>
-  <programme start="20260404000000 +0200" stop="20260404103000 +0200" channel="indonesiasuperleaguepsmvspersissolo">
-    <title lang="it">Inizia alle 10:30.</title>
-    <desc lang="it">Indonesia - Super League : PSM vs Persis Solo.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260404103000 +0200" stop="20260404123000 +0200" channel="indonesiasuperleaguepsmvspersissolo">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Indonesia - Super League : PSM vs Persis Solo</desc>
-    <category lang="it">All Soccer Events</category>
   </programme>
   <programme start="20260404000000 +0200" stop="20260404103500 +0200" channel="australiaaleaguemelbournecityvswesternsydneywanderers">
     <title lang="it">Inizia alle 10:35.</title>
