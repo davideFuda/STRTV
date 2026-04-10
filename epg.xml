@@ -48573,9 +48573,6 @@
   <channel id="irelandrepublicpremierdivisionstpatricksvsshamrockrovers">
     <display-name>Ireland Republic - Premier Division : St Patrick's vs Shamrock Rovers</display-name>
   </channel>
-  <channel id="indonesiasuperleaguepsimyogyakartavspsm">
-    <display-name>Indonesia - Super League : PSIM Yogyakarta vs PSM</display-name>
-  </channel>
   <channel id="australiaaleaguecentralcoastmarinersvsbrisbaneroar">
     <display-name>Australia - A-League : Central Coast Mariners vs Brisbane Roar</display-name>
   </channel>
@@ -49468,16 +49465,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Ireland Republic - Premier Division : St Patrick's vs Shamrock Rovers</desc>
     <category lang="it">Ireland Republic</category>
-  </programme>
-  <programme start="20260410000000 +0200" stop="20260410103000 +0200" channel="indonesiasuperleaguepsimyogyakartavspsm">
-    <title lang="it">Inizia alle 10:30.</title>
-    <desc lang="it">Indonesia - Super League : PSIM Yogyakarta vs PSM.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260410103000 +0200" stop="20260410123000 +0200" channel="indonesiasuperleaguepsimyogyakartavspsm">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Indonesia - Super League : PSIM Yogyakarta vs PSM</desc>
-    <category lang="it">All Soccer Events</category>
   </programme>
   <programme start="20260410000000 +0200" stop="20260410113500 +0200" channel="australiaaleaguecentralcoastmarinersvsbrisbaneroar">
     <title lang="it">Inizia alle 11:35.</title>
