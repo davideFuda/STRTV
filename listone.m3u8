@@ -111,8 +111,14 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vav
 #EXTINF:-1 tvg-id="eurosport2.it" tvg-name="Eurosport 2 (2)" tvg-logo="" group-title="Sport",EUROSPORT 2 (V) (2)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/23176844530f9ee58ada3e&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="eurosport2timvision.it" tvg-name="Eurosport 2 Timvision" tvg-logo="" group-title="Sport",EUROSPORT 2 TIMVISION (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/11002614150ec811c243eb&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="eurosport4timvision.it" tvg-name="Eurosport 4 Timvision" tvg-logo="" group-title="Sport",EUROSPORT 4 TIMVISION (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/1668185301194a1978c0b2&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="eurosport5timvision.it" tvg-name="Eurosport 5 Timvision" tvg-logo="" group-title="Sport",EUROSPORT 5 TIMVISION (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/3667240765238d57794d79&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="eurosport6timvision.it" tvg-name="Eurosport 6 Timvision" tvg-logo="" group-title="Sport",EUROSPORT 6 TIMVISION (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/3421031748051d1097ba07&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -385,6 +391,9 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vav
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/3060043751014db62f5b06&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skycinemauno.it" tvg-name="Sky Cinema Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film;Sky",SKY CINEMA UNO (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/28721519114f66aff68e22&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skycinemauno.it" tvg-name="Sky Cinema Uno (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA UNO (V) (2)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/17596257388e83c18bb676&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skycinemauno+24.it" tvg-name="Sky Cinema Uno +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film;Sky",SKY CINEMA UNO +24 (V)
@@ -398,9 +407,6 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vav
 
 #EXTINF:-1 tvg-id="skyinvestigation.it" tvg-name="Sky Investigation" tvg-logo="" group-title="Discovery",SKY INVESTIGATION (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/19686407898d20b9ce24d1&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skynature.it" tvg-name="Sky Nature" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-nature-it.png" group-title="Documentari;Sky",SKY NATURE (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/3810188456875f4898bef2&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyprimafila1.it" tvg-name="Sky Primafila 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 1 (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/194468239430d8fe263231&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -1692,6 +1698,9 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd
 #EXTINF:-1 tvg-id="NBA Playoffs / Finals Games (Basketball), May–June 2026 - NBA Playoffs / Finals Games (Basketball), May–June 2026" tvg-name="01:00 NBA Playoffs / Finals Games (Basketball), May–June 2026 - 16/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Upcoming Events", TNT Sports 1 UK
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=31
 
+#EXTINF:-1 tvg-id="Cedar Lake Speedway - Cedar Lake Speedway" tvg-name="01:00 Cedar Lake Speedway - 16/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", PPV Events
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=52
+
 #EXTINF:-1 tvg-id="England - League One - Peterborough United vs Port Vale" tvg-name="20:45 England - League One : Peterborough United vs Port Vale - 16/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - League One", Sky Sports+
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=161
 
@@ -1827,6 +1836,9 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd
 #EXTINF:-1 tvg-id="Europe - UEFA Europa League - Celta de Vigo vs Freiburg" tvg-name="18:45 Europe - UEFA Europa League : Celta de Vigo vs Freiburg - 16/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sport 1 Israel
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=140
 
+#EXTINF:-1 tvg-id="Europe - UEFA Europa League - Celta de Vigo vs Freiburg" tvg-name="18:45 Europe - UEFA Europa League : Celta de Vigo vs Freiburg - 16/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Backup Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=4005
+
 #EXTINF:-1 tvg-id="Europe - UEFA Conference League - AZ vs Shakhtar Donetsk" tvg-name="18:45 Europe - UEFA Conference League : AZ vs Shakhtar Donetsk - 16/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Paramount+
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=59
 
@@ -1898,6 +1910,9 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd
 
 #EXTINF:-1 tvg-id="Europe - UEFA Conference League - AZ vs Shakhtar Donetsk" tvg-name="18:45 Europe - UEFA Conference League : AZ vs Shakhtar Donetsk - 16/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sport 2 Israel
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=141
+
+#EXTINF:-1 tvg-id="Europe - UEFA Conference League - AZ vs Shakhtar Donetsk" tvg-name="18:45 Europe - UEFA Conference League : AZ vs Shakhtar Donetsk - 16/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Backup Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=4008
 
 #EXTINF:-1 tvg-id="Europe - UEFA Europa League\Conference League - Simulcast" tvg-name="21:00 Europe - UEFA Europa League\Conference League: Simulcast - 16/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport Austria 1
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=559
@@ -1992,6 +2007,12 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd
 #EXTINF:-1 tvg-id="Europe - UEFA Europa League - Aston Villa vs Bologna" tvg-name="21:00 Europe - UEFA Europa League : Aston Villa vs Bologna - 16/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sport 2 Israel
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=141
 
+#EXTINF:-1 tvg-id="Europe - UEFA Europa League - Aston Villa vs Bologna" tvg-name="21:00 Europe - UEFA Europa League : Aston Villa vs Bologna - 16/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Backup Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=4002
+
+#EXTINF:-1 tvg-id="Europe - UEFA Europa League - Aston Villa vs Bologna" tvg-name="21:00 Europe - UEFA Europa League : Aston Villa vs Bologna - 16/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Backup Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=5000
+
 #EXTINF:-1 tvg-id="Europe - UEFA Europa League - Real Betis vs Sporting Braga" tvg-name="21:00 Europe - UEFA Europa League : Real Betis vs Sporting Braga - 16/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Paramount+
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=69
 
@@ -2070,6 +2091,9 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd
 #EXTINF:-1 tvg-id="Europe - UEFA Europa League - Real Betis vs Sporting Braga" tvg-name="21:00 Europe - UEFA Europa League : Real Betis vs Sporting Braga - 16/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", beIN Sports MENA 8
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=98
 
+#EXTINF:-1 tvg-id="Europe - UEFA Europa League - Real Betis vs Sporting Braga" tvg-name="21:00 Europe - UEFA Europa League : Real Betis vs Sporting Braga - 16/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Backup Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=4006
+
 #EXTINF:-1 tvg-id="Europe - UEFA Europa League - Nottingham Forest vs Porto" tvg-name="21:00 Europe - UEFA Europa League : Nottingham Forest vs Porto - 16/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Paramount+
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=76
 
@@ -2145,6 +2169,9 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd
 #EXTINF:-1 tvg-id="Europe - UEFA Europa League - Nottingham Forest vs Porto" tvg-name="21:00 Europe - UEFA Europa League : Nottingham Forest vs Porto - 16/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sport 3 Israel
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=142
 
+#EXTINF:-1 tvg-id="Europe - UEFA Europa League - Nottingham Forest vs Porto" tvg-name="21:00 Europe - UEFA Europa League : Nottingham Forest vs Porto - 16/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Backup Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=4001
+
 #EXTINF:-1 tvg-id="Europe - UEFA Conference League - Fiorentina vs Crystal Palace" tvg-name="21:00 Europe - UEFA Conference League : Fiorentina vs Crystal Palace - 16/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Paramount+
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=77
 
@@ -2205,6 +2232,12 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd
 #EXTINF:-1 tvg-id="Europe - UEFA Conference League - Fiorentina vs Crystal Palace" tvg-name="21:00 Europe - UEFA Conference League : Fiorentina vs Crystal Palace - 16/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sport 4 Israel
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=143
 
+#EXTINF:-1 tvg-id="Europe - UEFA Conference League - Fiorentina vs Crystal Palace" tvg-name="21:00 Europe - UEFA Conference League : Fiorentina vs Crystal Palace - 16/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Backup Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=4003
+
+#EXTINF:-1 tvg-id="Europe - UEFA Conference League - Fiorentina vs Crystal Palace" tvg-name="21:00 Europe - UEFA Conference League : Fiorentina vs Crystal Palace - 16/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Backup Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=5001
+
 #EXTINF:-1 tvg-id="Europe - UEFA Conference League - Strasbourg vs Mainz 05" tvg-name="21:00 Europe - UEFA Conference League : Strasbourg vs Mainz 05 - 16/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Paramount+
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=86
 
@@ -2241,6 +2274,9 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd
 #EXTINF:-1 tvg-id="Europe - UEFA Conference League - Strasbourg vs Mainz 05" tvg-name="21:00 Europe - UEFA Conference League : Strasbourg vs Mainz 05 - 16/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", beIN Sports MENA 6
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=96
 
+#EXTINF:-1 tvg-id="Europe - UEFA Conference League - Strasbourg vs Mainz 05" tvg-name="21:00 Europe - UEFA Conference League : Strasbourg vs Mainz 05 - 16/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Backup Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=4007
+
 #EXTINF:-1 tvg-id="Europe - UEFA Conference League - AEK Athens vs Rayo Vallecano" tvg-name="21:00 Europe - UEFA Conference League : AEK Athens vs Rayo Vallecano - 16/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Paramount+
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=105
 
@@ -2276,6 +2312,9 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd
 
 #EXTINF:-1 tvg-id="Europe - UEFA Conference League - AEK Athens vs Rayo Vallecano" tvg-name="21:00 Europe - UEFA Conference League : AEK Athens vs Rayo Vallecano - 16/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Arena 5 Premium Serbia
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=19
+
+#EXTINF:-1 tvg-id="Europe - UEFA Conference League - AEK Athens vs Rayo Vallecano" tvg-name="21:00 Europe - UEFA Conference League : AEK Athens vs Rayo Vallecano - 16/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Backup Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=4008
 
 #EXTINF:-1 tvg-id="England - League Two - Bromley vs Cambridge United" tvg-name="21:00 England - League Two : Bromley vs Cambridge United - 16/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sports Football UK
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=35
@@ -2444,6 +2483,45 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd
 
 #EXTINF:-1 tvg-id="South America - Copa Sudamericana - Cienciano vs Academia Puerto Cabello" tvg-name="04:00 South America - Copa Sudamericana : Cienciano vs Academia Puerto Cabello - 16/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", ESPN3 Argentina
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=798
+
+#EXTINF:-1 tvg-id="ATP - BARCELONA - Fils A. vs Nakashima B." tvg-name="19:30 ATP - BARCELONA : Fils A. vs Nakashima B. - 16/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Barcelona", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1507
+
+#EXTINF:-1 tvg-id="ATP - BARCELONA - Fils A. vs Nakashima B." tvg-name="19:30 ATP - BARCELONA : Fils A. vs Nakashima B. - 16/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Barcelona", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1557
+
+#EXTINF:-1 tvg-id="WTA - STUTTGART - Samsonova L. vs Gauff C." tvg-name="18:30 WTA - STUTTGART : Samsonova L. vs Gauff C. - 16/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Stuttgart", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1501
+
+#EXTINF:-1 tvg-id="WTA - STUTTGART - Samsonova L. vs Gauff C." tvg-name="18:30 WTA - STUTTGART : Samsonova L. vs Gauff C. - 16/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Stuttgart", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1551
+
+#EXTINF:-1 tvg-id="WTA - STUTTGART - Samsonova L. vs Gauff C." tvg-name="18:30 WTA - STUTTGART : Samsonova L. vs Gauff C. - 16/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Stuttgart", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1524
+
+#EXTINF:-1 tvg-id="WTA - STUTTGART - Samsonova L. vs Gauff C." tvg-name="18:30 WTA - STUTTGART : Samsonova L. vs Gauff C. - 16/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Stuttgart", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1574
+
+#EXTINF:-1 tvg-id="WTA - STUTTGART - Fernandez L. vs Sonmez Z." tvg-name="20:00 WTA - STUTTGART : Fernandez L. vs Sonmez Z. - 16/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Stuttgart", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1501
+
+#EXTINF:-1 tvg-id="WTA - STUTTGART - Fernandez L. vs Sonmez Z." tvg-name="20:00 WTA - STUTTGART : Fernandez L. vs Sonmez Z. - 16/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Stuttgart", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1551
+
+#EXTINF:-1 tvg-id="WTA - STUTTGART - Fernandez L. vs Sonmez Z." tvg-name="20:00 WTA - STUTTGART : Fernandez L. vs Sonmez Z. - 16/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Stuttgart", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1524
+
+#EXTINF:-1 tvg-id="WTA - STUTTGART - Fernandez L. vs Sonmez Z." tvg-name="20:00 WTA - STUTTGART : Fernandez L. vs Sonmez Z. - 16/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Stuttgart", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1574
+
+#EXTINF:-1 tvg-id="WTA - ROUEN - Wang Xin. vs Cirstea S." tvg-name="17:30 WTA - ROUEN : Wang Xin. vs Cirstea S. - 16/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Rouen", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1504
+
+#EXTINF:-1 tvg-id="WTA - ROUEN - Wang Xin. vs Cirstea S." tvg-name="17:30 WTA - ROUEN : Wang Xin. vs Cirstea S. - 16/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Rouen", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1554
+
+#EXTINF:-1 tvg-id="WTA - ROUEN - Bondar A. vs Oliynykova O." tvg-name="19:30 WTA - ROUEN : Bondar A. vs Oliynykova O. - 16/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Rouen", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1504
 
 #EXTINF:-1 tvg-id="Barcelona-ATP, Munich-ATP, Stuttgart-WTA &amp; Rouen-WTA Early Rounds - Barcelona-ATP, Munich-ATP, Stuttgart-WTA &amp; Rouen-WTA Early Rounds" tvg-name="11:00 Barcelona-ATP, Munich-ATP, Stuttgart-WTA &amp; Rouen-WTA Early Rounds - 16/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=40
