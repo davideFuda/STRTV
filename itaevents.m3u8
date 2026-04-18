@@ -2324,19 +2324,52 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd
 #EXTINF:-1 tvg-id="Barcelona-ATP, Munich-ATP, Stuttgart-WTA &amp; Rouen-WTA - Barcelona-ATP, Munich-ATP, Stuttgart-WTA &amp; Rouen-WTA" tvg-name="11:00 Barcelona-ATP, Munich-ATP, Stuttgart-WTA &amp; Rouen-WTA - 18/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 3 Malaysia
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=714
 
-#EXTINF:-1 tvg-id="2026 US Open Pickleball Championships Championship Saturday - 2026 US Open Pickleball Championships Championship Saturday" tvg-name="23:00 2026 US Open Pickleball Championships Championship Saturday - 18/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", CBS Sports Network
+#EXTINF:-1 tvg-id="ATP - BARCELONA - Rublev A. vs Medjedovic H." tvg-name="16:00 ATP - BARCELONA : Rublev A. vs Medjedovic H. - 18/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Barcelona", Tennis Stream 1
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1507
+
+#EXTINF:-1 tvg-id="ATP - BARCELONA - Rublev A. vs Medjedovic H." tvg-name="16:00 ATP - BARCELONA : Rublev A. vs Medjedovic H. - 18/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Barcelona", Tennis Stream 1
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1507
+
+#EXTINF:-1 tvg-id="ATP - BARCELONA - Jodar R. vs Fils A." tvg-name="16:00 ATP - BARCELONA : Jodar R. vs Fils A. - 18/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Barcelona", Tennis Stream 1
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1507
+
+#EXTINF:-1 tvg-id="ATP - BARCELONA - Jodar R. vs Fils A." tvg-name="16:00 ATP - BARCELONA : Jodar R. vs Fils A. - 18/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Barcelona", Tennis Stream 1
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1507
+
+#EXTINF:-1 tvg-id="ATP - MUNICH - Molcan A. vs Shelton B." tvg-name="15:00 ATP - MUNICH : Molcan A. vs Shelton B. - 18/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Munich", Tennis Stream 1
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1501
+
+#EXTINF:-1 tvg-id="WTA - STUTTGART - Svitolina E. vs Muchova K." tvg-name="14:00 WTA - STUTTGART : Svitolina E. vs Muchova K. - 18/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Stuttgart", Tennis Stream 1
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1501
+
+#EXTINF:-1 tvg-id="WTA - STUTTGART - Svitolina E. vs Muchova K." tvg-name="14:00 WTA - STUTTGART : Svitolina E. vs Muchova K. - 18/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Stuttgart", Tennis Stream 1
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1561
+
+#EXTINF:-1 tvg-id="WTA - STUTTGART - Rybakina E. vs Andreeva M." tvg-name="16:00 WTA - STUTTGART : Rybakina E. vs Andreeva M. - 18/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Stuttgart", Tennis Stream 1
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1501
+
+#EXTINF:-1 tvg-id="WTA - STUTTGART - Rybakina E. vs Andreeva M." tvg-name="16:00 WTA - STUTTGART : Rybakina E. vs Andreeva M. - 18/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Stuttgart", Tennis Stream 1
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1561
+
+#EXTINF:-1 tvg-id="WTA - ROUEN - Kostyuk M. vs Maria T." tvg-name="15:30 WTA - ROUEN : Kostyuk M. vs Maria T. - 18/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Rouen", Tennis Stream 1
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1554
+
+#EXTINF:-1 tvg-id="WTA - ROUEN - Podrez V. vs Cirstea S." tvg-name="17:00 WTA - ROUEN : Podrez V. vs Cirstea S. - 18/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Rouen", Tennis Stream 1
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1554
+
+#EXTINF:-1 tvg-id="2026 US Open Pickleball Championships Championship Saturday - 2026 US Open Pickleball Championships Championship Saturday" tvg-name="23:00 2026 US Open Pickleball Championships Championship Saturday - 18/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Rouen", CBS Sports Network
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=308
 
-#EXTINF:-1 tvg-id="ATP Munich - 1/2 Final B: (couples)" tvg-name="11:00 ATP Munich: 1/2 Final B: (couples) - 18/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 2 Croatia
+#EXTINF:-1 tvg-id="ATP Munich - 1/2 Final B: (couples)" tvg-name="11:00 ATP Munich: 1/2 Final B: (couples) - 18/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Rouen", Sport Klub 2 Croatia
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=102
 
-#EXTINF:-1 tvg-id="ATP 500 Barcelona - 1/2 Final A" tvg-name="13:30 ATP 500 Barcelona: 1/2 Final A - 18/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 2 Croatia
+#EXTINF:-1 tvg-id="ATP 500 Barcelona - 1/2 Final A" tvg-name="13:30 ATP 500 Barcelona: 1/2 Final A - 18/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Rouen", Sport Klub 2 Croatia
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=102
 
-#EXTINF:-1 tvg-id="ATP 500 Barcelona - 1/2 Final B" tvg-name="16:00 ATP 500 Barcelona: 1/2 Final B - 18/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 2 Croatia
+#EXTINF:-1 tvg-id="ATP 500 Barcelona - 1/2 Final B" tvg-name="16:00 ATP 500 Barcelona: 1/2 Final B - 18/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Rouen", Sport Klub 2 Croatia
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=102
 
-#EXTINF:-1 tvg-id="ATP 500 Barcelona - 1/2 Final B: (couples)" tvg-name="18:00 ATP 500 Barcelona: 1/2 Final B: (couples) - 18/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 2 Croatia
+#EXTINF:-1 tvg-id="ATP 500 Barcelona - 1/2 Final B: (couples)" tvg-name="18:00 ATP 500 Barcelona: 1/2 Final B: (couples) - 18/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Rouen", Sport Klub 2 Croatia
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=102
 
 #EXTINF:-1 tvg-id="Supercars Championship Race 12 | Christchurch - Supercars Championship Race 12 | Christchurch" tvg-name="06:00 Supercars Championship Race 12 | Christchurch - 18/04/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TNT Sports 3 UK
