@@ -111,6 +111,9 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vav
 #EXTINF:-1 tvg-id="eurosport2.it" tvg-name="Eurosport 2 (2)" tvg-logo="" group-title="Sport",EUROSPORT 2 (V) (2)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/23176844530f9ee58ada3e&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="eurosport2timvision.it" tvg-name="Eurosport 2 Timvision" tvg-logo="" group-title="Sport",EUROSPORT 2 TIMVISION (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/11002614150ec811c243eb&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="eurosport4timvision.it" tvg-name="Eurosport 4 Timvision" tvg-logo="" group-title="Sport",EUROSPORT 4 TIMVISION (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/1668185301194a1978c0b2&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -120,11 +123,11 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vav
 #EXTINF:-1 tvg-id="focustv.it" tvg-name="Focus" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/focus-it.png" group-title="Intrattenimento;Mediaset",FOCUS (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/3439223610a4fec93d907a&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="focustv.it" tvg-name="Focus (2)" tvg-logo="" group-title="Intrattenimento;Mediaset",FOCUS (V) (2)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/29825504332b9997336c1e&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="foodnetwork.it" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="Discovery",FOOD NETWORK (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/2820683351b557bc63df61&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="foodnetwork.it" tvg-name="Food Network (2)" tvg-logo="" group-title="Discovery",FOOD NETWORK (V) (2)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/276786104991c55564696b&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="foxhd.it" tvg-name="Fox" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/fox-it.png" group-title="Film;Sky",FOX (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/56316060941df205a0842&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -172,6 +175,9 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vav
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/14256673753de6371f2c50&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="la7.it" tvg-name="La 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro",LA 7 (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/2143522071cfa887e2feb3&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="la7.it" tvg-name="La 7 (2)" tvg-logo="" group-title="Altro",LA 7 (V) (2)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/7755300630832713e7adb&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="la7d.it" tvg-name="La 7 D" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7d-it.png" group-title="Altro",LA 7 D (V)
@@ -242,9 +248,6 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vav
 
 #EXTINF:-1 tvg-id="rai5.it" tvg-name="Rai 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-5-it.png" group-title="Intrattenimento;Rai Tv",RAI 5 (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/3249873828c4ad4d2c1d15&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="rai5.it" tvg-name="Rai 5 (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI 5 (V) (2)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/31633805432b7c33717323&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="raigulp.it" tvg-name="Rai Gulp" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-gulp-it.png" group-title="Intrattenimento;Rai Tv",RAI GULP (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/190165274240d2e779ea96&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -430,9 +433,6 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vav
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/191150052585174f4ea582&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyprimafila2.it" tvg-name="Sky Primafila 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 2 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/8772007144e30fd3ca161&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skyprimafila2.it" tvg-name="Sky Primafila 2 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 2 (V) (2)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/525374356eb78c097e6a2&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyprimafila3.it" tvg-name="Sky Primafila 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 3 (V)
@@ -448,9 +448,6 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vav
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/2416993844407639cb4e74&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyprimafila5.it" tvg-name="Sky Primafila 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 5 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/22550838661912f18327a2&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skyprimafila5.it" tvg-name="Sky Primafila 5 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 5 (V) (2)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/29098187562943fdca9002&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyprimafila6.it" tvg-name="Sky Primafila 6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 6 (V)
@@ -460,9 +457,6 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vav
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/39395136840a7593b75855&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyprimafila7.it" tvg-name="Sky Primafila 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 7 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/4238969402e69feff53112&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skyprimafila7.it" tvg-name="Sky Primafila 7 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 7 (V) (2)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/3618643172a26b31eba4b4&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyprimafila8.it" tvg-name="Sky Primafila 8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 8 (V)
@@ -476,6 +470,9 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vav
 
 #EXTINF:-1 tvg-id="skyprimafila9.it" tvg-name="Sky Primafila 9 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 9 (V) (2)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/17532606771304e2497369&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skyserie.it" tvg-name="Sky Serie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-serie-it.png" group-title="Film;Sky",SKY SERIE (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/83668011205f936fa3b65&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysport24.it" tvg-name="Sky Sport 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/277580225585f503fbfc87&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
