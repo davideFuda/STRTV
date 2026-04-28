@@ -126,6 +126,9 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vav
 #EXTINF:-1 tvg-id="focustv.it" tvg-name="Focus" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/focus-it.png" group-title="Intrattenimento;Mediaset",FOCUS (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/3439223610a4fec93d907a&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="focustv.it" tvg-name="Focus (2)" tvg-logo="" group-title="Intrattenimento;Mediaset",FOCUS (V) (2)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/29825504332b9997336c1e&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="foodnetwork.it" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="Discovery",FOOD NETWORK (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/2820683351b557bc63df61&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -215,6 +218,9 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vav
 
 #EXTINF:-1 tvg-id="nickjr.it" tvg-name="Nick Jr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nick-jr-it.png" group-title="Bambini",NICK JR (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/38095847274e645e8a065&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="nickelodeon.it" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nickelodeon-it.png" group-title="Bambini",NICKELODEON (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/30393892159798f5cebb7c&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="premiumcrime.it" tvg-name="Premium Crime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/premium-crime-it.png" group-title="Mediaset",PREMIUM CRIME (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/444768053e397c96fc6df&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -388,9 +394,6 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vav
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/3060043751014db62f5b06&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skycinemauno.it" tvg-name="Sky Cinema Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film;Sky",SKY CINEMA UNO (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/28721519114f66aff68e22&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skycinemauno.it" tvg-name="Sky Cinema Uno (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA UNO (V) (2)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/17596257388e83c18bb676&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skycinemauno+24.it" tvg-name="Sky Cinema Uno +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film;Sky",SKY CINEMA UNO +24 (V)
