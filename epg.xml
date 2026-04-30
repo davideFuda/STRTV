@@ -48749,12 +48749,6 @@ L'Aquila E Il Leone</title>
   <channel id="indianpremierleaguegujarattitansvsroyalchallengersbangalore">
     <display-name>Indian Premier League : Gujarat Titans vs Royal Challengers Bangalore</display-name>
   </channel>
-  <channel id="wtamadridostyukmvspotapovaa">
-    <display-name>WTA - MADRID : ostyuk M. vs Potapova A.</display-name>
-  </channel>
-  <channel id="atpmastersmadrid14final3">
-    <display-name>ATP Masters Madrid: 1/4 Final 3</display-name>
-  </channel>
   <channel id="wta1000madrid12finala">
     <display-name>WTA 1000 Madrid: 1/2 Final A</display-name>
   </channel>
@@ -48764,17 +48758,11 @@ L'Aquila E Il Leone</title>
   <channel id="wta1000madrid12finalb">
     <display-name>WTA 1000 Madrid: 1/2 Final B</display-name>
   </channel>
-  <channel id="atpmastersmadridcouples14final">
-    <display-name>ATP Masters Madrid: (Couples) 1/4 Final</display-name>
-  </channel>
   <channel id="budosentochampionship34">
     <display-name>BUDO SENTO CHAMPIONSHIP: 34</display-name>
   </channel>
   <channel id="tnaimpact">
     <display-name>TNA iMPACT!</display-name>
-  </channel>
-  <channel id="dpworldtourturkishairlinesopen">
-    <display-name>DP World Tour Turkish Airlines Open</display-name>
   </channel>
   <channel id="lpgatourmexicorivieramayaopenatmayakoba">
     <display-name>LPGA Tour Mexico Riviera Maya Open at Mayakoba</display-name>
@@ -48787,9 +48775,6 @@ L'Aquila E Il Leone</title>
   </channel>
   <channel id="worldchampionshipsnookersemifinals">
     <display-name>World Championship Snooker : Semi-Finals</display-name>
-  </channel>
-  <channel id="aflcollingwoodmagpiesvshawthornhawks">
-    <display-name>AFL : Collingwood Magpies vs Hawthorn Hawks</display-name>
   </channel>
   <channel id="mlbatlantabravesvsdetroittigers">
     <display-name>MLB : Atlanta Braves vs Detroit Tigers</display-name>
@@ -48893,9 +48878,6 @@ L'Aquila E Il Leone</title>
   <channel id="surfgoldcoastproworldsurfleague">
     <display-name>Surf: Gold Coast Pro - World Surf League</display-name>
   </channel>
-  <channel id="tnl26div1kdstarsvsjaguars">
-    <display-name>TNL '26 Div 1 : KD Stars vs Jaguars</display-name>
-  </channel>
   <channel id="tnl26div1flamesvscrinums">
     <display-name>TNL '26 Div 1 : Flames vs Crinums</display-name>
   </channel>
@@ -48955,9 +48937,6 @@ L'Aquila E Il Leone</title>
   </channel>
   <channel id="nhlminnesotawildvsdallasstars">
     <display-name>NHL : Minnesota Wild vs Dallas Stars</display-name>
-  </channel>
-  <channel id="womensstateoforiginnewsouthwalesvsqueensland">
-    <display-name>Womens State of Origin : New South Wales vs. Queensland</display-name>
   </channel>
   <channel id="superleaguerugbyhullkrvscastlefordtigers">
     <display-name>Super League Rugby : Hull KR vs Castleford Tigers</display-name>
@@ -50457,56 +50436,6 @@ L'Aquila E Il Leone</title>
     <desc lang="it">Indian Premier League : Gujarat Titans vs Royal Challengers Bangalore</desc>
     <category lang="it">Cricket</category>
   </programme>
-  <programme start="20260430000000 +0200" stop="20260430120000 +0200" channel="wtamadridostyukmvspotapovaa">
-    <title lang="it">Inizia alle 12:00.</title>
-    <desc lang="it">WTA - MADRID : ostyuk M. vs Potapova A..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260430120000 +0200" stop="20260430140000 +0200" channel="wtamadridostyukmvspotapovaa">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA - MADRID : ostyuk M. vs Potapova A.</desc>
-    <category lang="it">WTA - MADRID</category>
-  </programme>
-  <programme start="20260430000000 +0200" stop="20260430120000 +0200" channel="wtamadridostyukmvspotapovaa">
-    <title lang="it">Inizia alle 12:00.</title>
-    <desc lang="it">WTA - MADRID : ostyuk M. vs Potapova A..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260430120000 +0200" stop="20260430140000 +0200" channel="wtamadridostyukmvspotapovaa">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA - MADRID : ostyuk M. vs Potapova A.</desc>
-    <category lang="it">WTA - MADRID</category>
-  </programme>
-  <programme start="20260430000000 +0200" stop="20260430120000 +0200" channel="wtamadridostyukmvspotapovaa">
-    <title lang="it">Inizia alle 12:00.</title>
-    <desc lang="it">WTA - MADRID : ostyuk M. vs Potapova A..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260430120000 +0200" stop="20260430140000 +0200" channel="wtamadridostyukmvspotapovaa">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA - MADRID : ostyuk M. vs Potapova A.</desc>
-    <category lang="it">WTA - MADRID</category>
-  </programme>
-  <programme start="20260430000000 +0200" stop="20260430120000 +0200" channel="wtamadridostyukmvspotapovaa">
-    <title lang="it">Inizia alle 12:00.</title>
-    <desc lang="it">WTA - MADRID : ostyuk M. vs Potapova A..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260430120000 +0200" stop="20260430140000 +0200" channel="wtamadridostyukmvspotapovaa">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA - MADRID : ostyuk M. vs Potapova A.</desc>
-    <category lang="it">WTA - MADRID</category>
-  </programme>
-  <programme start="20260430000000 +0200" stop="20260430130000 +0200" channel="atpmastersmadrid14final3">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">ATP Masters Madrid: 1/4 Final 3.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260430130000 +0200" stop="20260430150000 +0200" channel="atpmastersmadrid14final3">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ATP Masters Madrid: 1/4 Final 3</desc>
-    <category lang="it">Sportklub Tennis</category>
-  </programme>
   <programme start="20260430000000 +0200" stop="20260430160000 +0200" channel="wta1000madrid12finala">
     <title lang="it">Inizia alle 16:00.</title>
     <desc lang="it">WTA 1000 Madrid: 1/2 Final A.</desc>
@@ -50537,16 +50466,6 @@ L'Aquila E Il Leone</title>
     <desc lang="it">WTA 1000 Madrid: 1/2 Final B</desc>
     <category lang="it">Sportklub Tennis</category>
   </programme>
-  <programme start="20260430000000 +0200" stop="20260430130000 +0200" channel="atpmastersmadridcouples14final">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">ATP Masters Madrid: (Couples) 1/4 Final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260430130000 +0200" stop="20260430150000 +0200" channel="atpmastersmadridcouples14final">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ATP Masters Madrid: (Couples) 1/4 Final</desc>
-    <category lang="it">Tennis ATP Masters</category>
-  </programme>
   <programme start="20260430000000 +0200" stop="20260501010000 +0200" channel="budosentochampionship34">
     <title lang="it">Inizia alle 01:00.</title>
     <desc lang="it">BUDO SENTO CHAMPIONSHIP: 34.</desc>
@@ -50576,116 +50495,6 @@ L'Aquila E Il Leone</title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">TNA iMPACT!</desc>
     <category lang="it">Wrestling</category>
-  </programme>
-  <programme start="20260430000000 +0200" stop="20260430130000 +0200" channel="dpworldtourturkishairlinesopen">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">DP World Tour Turkish Airlines Open.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260430130000 +0200" stop="20260430150000 +0200" channel="dpworldtourturkishairlinesopen">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">DP World Tour Turkish Airlines Open</desc>
-    <category lang="it">Golf</category>
-  </programme>
-  <programme start="20260430000000 +0200" stop="20260430130000 +0200" channel="dpworldtourturkishairlinesopen">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">DP World Tour Turkish Airlines Open.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260430130000 +0200" stop="20260430150000 +0200" channel="dpworldtourturkishairlinesopen">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">DP World Tour Turkish Airlines Open</desc>
-    <category lang="it">Golf</category>
-  </programme>
-  <programme start="20260430000000 +0200" stop="20260430130000 +0200" channel="dpworldtourturkishairlinesopen">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">DP World Tour Turkish Airlines Open.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260430130000 +0200" stop="20260430150000 +0200" channel="dpworldtourturkishairlinesopen">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">DP World Tour Turkish Airlines Open</desc>
-    <category lang="it">Golf</category>
-  </programme>
-  <programme start="20260430000000 +0200" stop="20260430130000 +0200" channel="dpworldtourturkishairlinesopen">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">DP World Tour Turkish Airlines Open.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260430130000 +0200" stop="20260430150000 +0200" channel="dpworldtourturkishairlinesopen">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">DP World Tour Turkish Airlines Open</desc>
-    <category lang="it">Golf</category>
-  </programme>
-  <programme start="20260430000000 +0200" stop="20260430130000 +0200" channel="dpworldtourturkishairlinesopen">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">DP World Tour Turkish Airlines Open.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260430130000 +0200" stop="20260430150000 +0200" channel="dpworldtourturkishairlinesopen">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">DP World Tour Turkish Airlines Open</desc>
-    <category lang="it">Golf</category>
-  </programme>
-  <programme start="20260430000000 +0200" stop="20260430130000 +0200" channel="dpworldtourturkishairlinesopen">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">DP World Tour Turkish Airlines Open.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260430130000 +0200" stop="20260430150000 +0200" channel="dpworldtourturkishairlinesopen">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">DP World Tour Turkish Airlines Open</desc>
-    <category lang="it">Golf</category>
-  </programme>
-  <programme start="20260430000000 +0200" stop="20260430130000 +0200" channel="dpworldtourturkishairlinesopen">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">DP World Tour Turkish Airlines Open.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260430130000 +0200" stop="20260430150000 +0200" channel="dpworldtourturkishairlinesopen">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">DP World Tour Turkish Airlines Open</desc>
-    <category lang="it">Golf</category>
-  </programme>
-  <programme start="20260430000000 +0200" stop="20260430130000 +0200" channel="dpworldtourturkishairlinesopen">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">DP World Tour Turkish Airlines Open.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260430130000 +0200" stop="20260430150000 +0200" channel="dpworldtourturkishairlinesopen">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">DP World Tour Turkish Airlines Open</desc>
-    <category lang="it">Golf</category>
-  </programme>
-  <programme start="20260430000000 +0200" stop="20260430130000 +0200" channel="dpworldtourturkishairlinesopen">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">DP World Tour Turkish Airlines Open.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260430130000 +0200" stop="20260430150000 +0200" channel="dpworldtourturkishairlinesopen">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">DP World Tour Turkish Airlines Open</desc>
-    <category lang="it">Golf</category>
-  </programme>
-  <programme start="20260430000000 +0200" stop="20260430130000 +0200" channel="dpworldtourturkishairlinesopen">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">DP World Tour Turkish Airlines Open.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260430130000 +0200" stop="20260430150000 +0200" channel="dpworldtourturkishairlinesopen">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">DP World Tour Turkish Airlines Open</desc>
-    <category lang="it">Golf</category>
-  </programme>
-  <programme start="20260430000000 +0200" stop="20260430130000 +0200" channel="dpworldtourturkishairlinesopen">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">DP World Tour Turkish Airlines Open.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260430130000 +0200" stop="20260430150000 +0200" channel="dpworldtourturkishairlinesopen">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">DP World Tour Turkish Airlines Open</desc>
-    <category lang="it">Golf</category>
   </programme>
   <programme start="20260430000000 +0200" stop="20260430170000 +0200" channel="lpgatourmexicorivieramayaopenatmayakoba">
     <title lang="it">Inizia alle 17:00.</title>
@@ -51126,36 +50935,6 @@ L'Aquila E Il Leone</title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">World Championship Snooker : Semi-Finals</desc>
     <category lang="it">Snooker</category>
-  </programme>
-  <programme start="20260430000000 +0200" stop="20260430113000 +0200" channel="aflcollingwoodmagpiesvshawthornhawks">
-    <title lang="it">Inizia alle 11:30.</title>
-    <desc lang="it">AFL : Collingwood Magpies vs Hawthorn Hawks.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260430113000 +0200" stop="20260430133000 +0200" channel="aflcollingwoodmagpiesvshawthornhawks">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">AFL : Collingwood Magpies vs Hawthorn Hawks</desc>
-    <category lang="it">Aussie rules</category>
-  </programme>
-  <programme start="20260430000000 +0200" stop="20260430113000 +0200" channel="aflcollingwoodmagpiesvshawthornhawks">
-    <title lang="it">Inizia alle 11:30.</title>
-    <desc lang="it">AFL : Collingwood Magpies vs Hawthorn Hawks.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260430113000 +0200" stop="20260430133000 +0200" channel="aflcollingwoodmagpiesvshawthornhawks">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">AFL : Collingwood Magpies vs Hawthorn Hawks</desc>
-    <category lang="it">Aussie rules</category>
-  </programme>
-  <programme start="20260430000000 +0200" stop="20260430113000 +0200" channel="aflcollingwoodmagpiesvshawthornhawks">
-    <title lang="it">Inizia alle 11:30.</title>
-    <desc lang="it">AFL : Collingwood Magpies vs Hawthorn Hawks.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260430113000 +0200" stop="20260430133000 +0200" channel="aflcollingwoodmagpiesvshawthornhawks">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">AFL : Collingwood Magpies vs Hawthorn Hawks</desc>
-    <category lang="it">Aussie rules</category>
   </programme>
   <programme start="20260430000000 +0200" stop="20260430181500 +0200" channel="mlbatlantabravesvsdetroittigers">
     <title lang="it">Inizia alle 18:15.</title>
@@ -52277,16 +52056,6 @@ L'Aquila E Il Leone</title>
     <desc lang="it">Surf: Gold Coast Pro - World Surf League</desc>
     <category lang="it">Sailing / Boating</category>
   </programme>
-  <programme start="20260430000000 +0200" stop="20260430130000 +0200" channel="tnl26div1kdstarsvsjaguars">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">TNL '26 Div 1 : KD Stars vs Jaguars.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260430130000 +0200" stop="20260430150000 +0200" channel="tnl26div1kdstarsvsjaguars">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">TNL '26 Div 1 : KD Stars vs Jaguars</desc>
-    <category lang="it">Netball</category>
-  </programme>
   <programme start="20260430000000 +0200" stop="20260430150000 +0200" channel="tnl26div1flamesvscrinums">
     <title lang="it">Inizia alle 15:00.</title>
     <desc lang="it">TNL '26 Div 1 : Flames vs Crinums.</desc>
@@ -52666,16 +52435,6 @@ L'Aquila E Il Leone</title>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">NHL : Minnesota Wild vs Dallas Stars</desc>
     <category lang="it">Ice Hockey</category>
-  </programme>
-  <programme start="20260430000000 +0200" stop="20260430114500 +0200" channel="womensstateoforiginnewsouthwalesvsqueensland">
-    <title lang="it">Inizia alle 11:45.</title>
-    <desc lang="it">Womens State of Origin : New South Wales vs. Queensland.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260430114500 +0200" stop="20260430134500 +0200" channel="womensstateoforiginnewsouthwalesvsqueensland">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Womens State of Origin : New South Wales vs. Queensland</desc>
-    <category lang="it">Rugby League</category>
   </programme>
   <programme start="20260430000000 +0200" stop="20260430210000 +0200" channel="superleaguerugbyhullkrvscastlefordtigers">
     <title lang="it">Inizia alle 21:00.</title>
